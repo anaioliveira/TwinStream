@@ -1,0 +1,79 @@
+<begin_file>
+
+ACTION               : CONVERT NETCDF CF TO HDF5 MOHID
+HDF5_OUT             : 1
+OUTPUTFILENAME       : output_hdf_file
+OUTPUT_GRID_FILENAME : output_grid_file
+
+<<begin_time>>
+NETCDF_NAME         : time
+<<end_time>> 
+
+<<begin_grid>>
+NETCDF_NAME_LAT     : lat
+NETCDF_NAME_LONG    : lon
+NETCDF_NAME_BATHYM  : ter
+<<end_grid>>
+
+PROPERTIES_NUMBER   : 7
+
+<<begin_field>>
+NETCDF_NAME         : U10
+NAME                : wind velocity X
+UNITS               : m/s
+DESCRIPTION         : 10 metre U wind component
+DIM                 : 2
+<<end_field>>
+
+<<begin_field>>
+NETCDF_NAME         : V10
+NAME                : wind velocity Y
+UNITS               : m/s
+DESCRIPTION         : 10 metre V wind component
+DIM                 : 2
+<<end_field>>
+
+<<begin_field>>
+NETCDF_NAME         : T2
+NAME                : air temperature
+UNITS               : C
+DESCRIPTION         : 2 metre component
+DIM                 : 2
+<<end_field>>
+
+<<begin_field>>
+NETCDF_NAME         : CLDFRAC2D
+NAME                : cloud cover
+UNITS               : fraction
+DESCRIPTION         : maximum total cloud cover
+DIM                 : 2
+<<end_field>>
+
+<<begin_field>>
+NETCDF_NAME         : SWDOWN
+NAME                : solar radiation
+UNITS               : W/m2
+DESCRIPTION         : surface downwelling shortwave flux
+DIM                 : 2
+<<end_field>>
+
+<<begin_field>>
+NETCDF_NAME         : rain
+NAME                : precipitation
+UNITS               : mm
+DESCRIPTION         : total precipitation
+DIM                 : 2
+<<end_field>>
+
+<<begin_field>>
+NETCDF_NAME         : rh2
+NAME                : relative humidity
+UNITS               : fraction
+DESCRIPTION         : relative humidity estimated from dewpoint and temperature
+DIM                 : 2
+<<end_field>>
+
+<<begin_input_files>>
+input_nc_file
+<<end_input_files>>
+<end_file>

@@ -1,0 +1,35 @@
+FILENAME                : input_file
+OUTPUTFILENAME          : output_file
+
+START_TIME              : start_date
+END_TIME                : end_date
+
+<BeginParameter>
+PROPERTY                : wind velocity X
+HDF_GROUP               : /Results/wind velocity X
+<EndParameter>
+
+<BeginParameter>
+PROPERTY                : wind velocity Y
+HDF_GROUP               : /Results/wind velocity Y
+<EndParameter>
+
+<BeginParameter>
+PROPERTY                : air temperature
+HDF_GROUP               : /Results/air temperature
+<EndParameter>
+
+<BeginParameter>
+PROPERTY                : solar radiation
+HDF_GROUP               : /Results/solar radiation
+<EndParameter>
+
+<BeginParameter>
+PROPERTY                : precipitation
+HDF_GROUP               : /Results/precipitation
+<EndParameter>
+
+<BeginParameter>
+PROPERTY                : relative humidity
+HDF_GROUP               : /Results/relative humidity
+<EndParameter>

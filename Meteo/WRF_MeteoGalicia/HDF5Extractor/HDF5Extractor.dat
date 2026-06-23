@@ -1,0 +1,40 @@
+FILENAME                : D:\MLDATA02\Meteo\WRF_MeteoGalicia/d03/wrf_arw_det_history_d03_20260622_0000.hdf5
+OUTPUTFILENAME          : D:\MLDATA02\Meteo\WRF_MeteoGalicia/d03/hdf/20260626.hdf5
+
+START_TIME              : 2026 06 26 00 00 00
+END_TIME                : 2026 06 27 00 00 00
+
+<BeginParameter>
+PROPERTY                : wind velocity X
+HDF_GROUP               : /Results/wind velocity X
+<EndParameter>
+
+<BeginParameter>
+PROPERTY                : wind velocity Y
+HDF_GROUP               : /Results/wind velocity Y
+<EndParameter>
+
+<BeginParameter>
+PROPERTY                : air temperature
+HDF_GROUP               : /Results/air temperature
+<EndParameter>
+
+<BeginParameter>
+PROPERTY                : cloud cover
+HDF_GROUP               : /Results/cloud cover
+<EndParameter>
+
+<BeginParameter>
+PROPERTY                : solar radiation
+HDF_GROUP               : /Results/solar radiation
+<EndParameter>
+
+<BeginParameter>
+PROPERTY                : precipitation
+HDF_GROUP               : /Results/precipitation
+<EndParameter>
+
+<BeginParameter>
+PROPERTY                : relative humidity
+HDF_GROUP               : /Results/relative humidity
+<EndParameter>

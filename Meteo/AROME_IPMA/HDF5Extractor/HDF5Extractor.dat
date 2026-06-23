@@ -1,0 +1,35 @@
+FILENAME                : D:\MLDATA02\Meteo\AROME_IPMA/20260622.hdf5
+OUTPUTFILENAME          : D:\MLDATA02\Meteo\AROME_IPMA/hdf/20260624.hdf5
+
+START_TIME              : 2026 06 24 00 00 00
+END_TIME                : 2026 06 25 00 00 00
+
+<BeginParameter>
+PROPERTY                : wind velocity X
+HDF_GROUP               : /Results/wind velocity X
+<EndParameter>
+
+<BeginParameter>
+PROPERTY                : wind velocity Y
+HDF_GROUP               : /Results/wind velocity Y
+<EndParameter>
+
+<BeginParameter>
+PROPERTY                : air temperature
+HDF_GROUP               : /Results/air temperature
+<EndParameter>
+
+<BeginParameter>
+PROPERTY                : solar radiation
+HDF_GROUP               : /Results/solar radiation
+<EndParameter>
+
+<BeginParameter>
+PROPERTY                : precipitation
+HDF_GROUP               : /Results/precipitation
+<EndParameter>
+
+<BeginParameter>
+PROPERTY                : relative humidity
+HDF_GROUP               : /Results/relative humidity
+<EndParameter>
