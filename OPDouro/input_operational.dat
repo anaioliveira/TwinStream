@@ -1,0 +1,21 @@
+# General keywords
+HINDCAST : 2
+FORECAST : 2
+
+# Preprocessment scripts
+::begin_preprocessment_scripts
+../OPDouro/GetMeteo/get_meteo
+::end_preprocessment_scripts
+
+# MOHID runs
+::begin_mohid_script
+../OPDouro/MOHID/run_mohid
+::end_mohid_script
+
+# Posprocessment scripts
+::begin_posprocessment_scripts
+::end_posprocessment_scripts
+
+::begin_emails
+****
+::end_emails

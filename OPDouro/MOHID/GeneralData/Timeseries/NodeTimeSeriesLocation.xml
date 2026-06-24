@@ -1,0 +1,1531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NamedGeometryCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NamedGeometries>
+    <NamedGeometry>
+      <ID>0</ID>
+      <Name>QUINTA CASTELO BORGES</Name>
+      <ExternalID>332</ExternalID>
+      <GeometryWKT>POINT (-7.64 41.139998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>1</ID>
+      <Name>SARZEDINHO</Name>
+      <ExternalID>420</ExternalID>
+      <GeometryWKT>POINT (-7.5 41.159998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>2</ID>
+      <Name>VALE MENDIZ</Name>
+      <ExternalID>391</ExternalID>
+      <GeometryWKT>POINT (-7.54 41.239998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>3</ID>
+      <Name>SALIDA EMBALSE DE CUERDA DEL POZO  </Name>
+      <ExternalID>6152</ExternalID>
+      <GeometryWKT>POINT (-2.44000000000005 41.539998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>4</ID>
+      <Name>GARRAY-SORIA                       </Name>
+      <ExternalID>6188</ExternalID>
+      <GeometryWKT>POINT (-2.34000000000005 41.539998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>5</ID>
+      <Name>QUINTANATELLO DE OJEDA             </Name>
+      <ExternalID>4808</ExternalID>
+      <GeometryWKT>POINT (-4.26000000000001 42.439998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>6</ID>
+      <Name>GORMAZ                             </Name>
+      <ExternalID>5897</ExternalID>
+      <GeometryWKT>POINT (-3.02000000000004 41.319998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>7</ID>
+      <Name>OSMA                               </Name>
+      <ExternalID>5873</ExternalID>
+      <GeometryWKT>POINT (-3.06000000000004 41.339998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>8</ID>
+      <Name>HOYOS DEL ESPINO                   </Name>
+      <ExternalID>3377</ExternalID>
+      <GeometryWKT>POINT (-5.16 40.339998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>9</ID>
+      <Name>SAN ESTEBAN DE GORMAZ              </Name>
+      <ExternalID>5840</ExternalID>
+      <GeometryWKT>POINT (-3.12000000000003 41.339998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>10</ID>
+      <Name>PISCARDANOS                        </Name>
+      <ExternalID>5061</ExternalID>
+      <GeometryWKT>POINT (-4.06000000000001 42.399998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>11</ID>
+      <Name>RIAZA                              </Name>
+      <ExternalID>5729</ExternalID>
+      <GeometryWKT>POINT (-3.30000000000003 41.299998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>12</ID>
+      <Name>LINARES DEL ARROYO                 </Name>
+      <ExternalID>5704</ExternalID>
+      <GeometryWKT>POINT (-3.34000000000003 41.339998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>13</ID>
+      <Name>SALIDA EMBALSE DEL PORMA           </Name>
+      <ExternalID>3349</ExternalID>
+      <GeometryWKT>POINT (-5.2 42.579998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>14</ID>
+      <Name>SEPULVEDA                          </Name>
+      <ExternalID>5633</ExternalID>
+      <GeometryWKT>POINT (-3.44000000000003 41.239998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>15</ID>
+      <Name>ARANDA DE DUERO                    </Name>
+      <ExternalID>5650</ExternalID>
+      <GeometryWKT>POINT (-3.42000000000003 41.399998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>16</ID>
+      <Name>PENAFIEL                           </Name>
+      <ExternalID>5071</ExternalID>
+      <GeometryWKT>POINT (-4.04000000000001 41.379998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>17</ID>
+      <Name>HERRERA DE DUERO                   </Name>
+      <ExternalID>4581</ExternalID>
+      <GeometryWKT>POINT (-4.40000000000001 41.319998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>18</ID>
+      <Name>PAJARES DE PEDRAZA                 </Name>
+      <ExternalID>5536</ExternalID>
+      <GeometryWKT>POINT (-3.56000000000002 41.199998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>19</ID>
+      <Name>NAVAPALOS                          </Name>
+      <ExternalID>5858</ExternalID>
+      <GeometryWKT>POINT (-3.08000000000003 41.319998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>20</ID>
+      <Name>PEDROSA DEL PRINCIPE               </Name>
+      <ExternalID>4995</ExternalID>
+      <GeometryWKT>POINT (-4.12000000000001 42.139998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>21</ID>
+      <Name>SALINAS DE PISUERGA                </Name>
+      <ExternalID>4845</ExternalID>
+      <GeometryWKT>POINT (-4.24000000000001 42.499998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>22</ID>
+      <Name>SALIDA EMBALSE DE AGUILAR          </Name>
+      <ExternalID>4974</ExternalID>
+      <GeometryWKT>POINT (-4.14000000000001 42.459998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>23</ID>
+      <Name>CERVERA DE PISUERGA                </Name>
+      <ExternalID>4772</ExternalID>
+      <GeometryWKT>POINT (-4.28000000000001 42.539998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>24</ID>
+      <Name>RUESGA                             </Name>
+      <ExternalID>4772</ExternalID>
+      <GeometryWKT>POINT (-4.28000000000001 42.539998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>25</ID>
+      <Name>CELADILLA DEL RIO                  </Name>
+      <ExternalID>4472</ExternalID>
+      <GeometryWKT>POINT (-4.48 42.339998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>26</ID>
+      <Name>ALAR DEL REY                       </Name>
+      <ExternalID>4922</ExternalID>
+      <GeometryWKT>POINT (-4.18000000000001 42.399998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>27</ID>
+      <Name>VILLANUEVA DE LOS INFANTES         </Name>
+      <ExternalID>4761</ExternalID>
+      <GeometryWKT>POINT (-4.28000000000001 41.439998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>28</ID>
+      <Name>ABIA DE LAS TORRES                 </Name>
+      <ExternalID>4842</ExternalID>
+      <GeometryWKT>POINT (-4.24000000000001 42.259998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>29</ID>
+      <Name>DUENAS                             </Name>
+      <ExternalID>4710</ExternalID>
+      <GeometryWKT>POINT (-4.32000000000001 41.539998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>30</ID>
+      <Name>SALAS DE LOS INFANTES              </Name>
+      <ExternalID>5819</ExternalID>
+      <GeometryWKT>POINT (-3.16000000000003 42.019998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>31</ID>
+      <Name>CORDOVILLA                         </Name>
+      <ExternalID>4969</ExternalID>
+      <GeometryWKT>POINT (-4.14000000000001 42.079998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>32</ID>
+      <Name>COVARRUBIAS                        </Name>
+      <ExternalID>5739</ExternalID>
+      <GeometryWKT>POINT (-3.30000000000003 42.019998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>33</ID>
+      <Name>PERAL DE ARLANZA                   </Name>
+      <ExternalID>5101</ExternalID>
+      <GeometryWKT>POINT (-4.02000000000001 42.039998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>34</ID>
+      <Name>SALIDA EMBALSE DE UZQUIZA          </Name>
+      <ExternalID>5806</ExternalID>
+      <GeometryWKT>POINT (-3.20000000000003 42.139998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>35</ID>
+      <Name>CASTROVERDE DE CERRATO             </Name>
+      <ExternalID>5011</ExternalID>
+      <GeometryWKT>POINT (-4.10000000000001 41.439998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>36</ID>
+      <Name>BESANDE                            </Name>
+      <ExternalID>4353</ExternalID>
+      <GeometryWKT>POINT (-4.56 42.539998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>37</ID>
+      <Name>OTERO DE GUARDO                    </Name>
+      <ExternalID>4409</ExternalID>
+      <GeometryWKT>POINT (-4.52 42.499998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>38</ID>
+      <Name>QUINTANA DEL PUENTE                </Name>
+      <ExternalID>4992</ExternalID>
+      <GeometryWKT>POINT (-4.12000000000001 42.039998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>39</ID>
+      <Name>SALIDA EMBALSE DE COMPUERTO        </Name>
+      <ExternalID>4409</ExternalID>
+      <GeometryWKT>POINT (-4.52 42.499998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>40</ID>
+      <Name>VELILLA DE GUARDO                  </Name>
+      <ExternalID>4441</ExternalID>
+      <GeometryWKT>POINT (-4.5 42.479998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>41</ID>
+      <Name>CASTRILLEJO DE LA OLMA             </Name>
+      <ExternalID>4686</ExternalID>
+      <GeometryWKT>POINT (-4.34000000000001 42.139998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>42</ID>
+      <Name>VILLOLDO                           </Name>
+      <ExternalID>4686</ExternalID>
+      <GeometryWKT>POINT (-4.34000000000001 42.139998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>43</ID>
+      <Name>VILLALCAZAR DE SIRGA               </Name>
+      <ExternalID>4742</ExternalID>
+      <GeometryWKT>POINT (-4.30000000000001 42.199998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>44</ID>
+      <Name>PALENCIA                           </Name>
+      <ExternalID>4684</ExternalID>
+      <GeometryWKT>POINT (-4.34000000000001 42.019998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>45</ID>
+      <Name>CABEZON DE PISUERGA                </Name>
+      <ExternalID>4611</ExternalID>
+      <GeometryWKT>POINT (-4.38000000000001 41.439998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>46</ID>
+      <Name>VALLADOLID-ESGUEVA                 </Name>
+      <ExternalID>4555</ExternalID>
+      <GeometryWKT>POINT (-4.42000000000001 41.379998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>47</ID>
+      <Name>SIMANCAS                           </Name>
+      <ExternalID>4423</ExternalID>
+      <GeometryWKT>POINT (-4.5 41.339998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>48</ID>
+      <Name>AVILA                              </Name>
+      <ExternalID>4415</ExternalID>
+      <GeometryWKT>POINT (-4.5 40.659998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>49</ID>
+      <Name>MEDIANA DE VOLTOYA                 </Name>
+      <ExternalID>4602</ExternalID>
+      <GeometryWKT>POINT (-4.38000000000001 40.679998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>50</ID>
+      <Name>OLMEDO                             </Name>
+      <ExternalID>4608</ExternalID>
+      <GeometryWKT>POINT (-4.38000000000001 41.219998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>51</ID>
+      <Name>CABANES DE ESGUEVA                 </Name>
+      <ExternalID>5594</ExternalID>
+      <GeometryWKT>POINT (-3.50000000000003 41.479998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>52</ID>
+      <Name>SEGOVIA                            </Name>
+      <ExternalID>4928</ExternalID>
+      <GeometryWKT>POINT (-4.16000000000001 40.719998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>53</ID>
+      <Name>ESPINAR, EL                        </Name>
+      <ExternalID>4928</ExternalID>
+      <GeometryWKT>POINT (-4.16000000000001 40.719998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>54</ID>
+      <Name>GUIJAS ALBAS                       </Name>
+      <ExternalID>4928</ExternalID>
+      <GeometryWKT>POINT (-4.16000000000001 40.719998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>55</ID>
+      <Name>BERNARDOS                          </Name>
+      <ExternalID>4878</ExternalID>
+      <GeometryWKT>POINT (-4.20000000000001 41.099998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>56</ID>
+      <Name>SAN MIGUEL DEL PINO                </Name>
+      <ExternalID>4300</ExternalID>
+      <GeometryWKT>POINT (-4.58 41.279998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>57</ID>
+      <Name>SAN RAFAEL                         </Name>
+      <ExternalID>4928</ExternalID>
+      <GeometryWKT>POINT (-4.16000000000001 40.719998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>58</ID>
+      <Name>VALDESTILLAS                       </Name>
+      <ExternalID>4458</ExternalID>
+      <GeometryWKT>POINT (-4.48 41.299998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>59</ID>
+      <Name>VILLOVELA DE PIRON                 </Name>
+      <ExternalID>5049</ExternalID>
+      <GeometryWKT>POINT (-4.06000000000001 41.079998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>60</ID>
+      <Name>CEBRONES DEL RIO                   </Name>
+      <ExternalID>2902</ExternalID>
+      <GeometryWKT>POINT (-5.48 42.139998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>61</ID>
+      <Name>SANTA MARINA DEL REY               </Name>
+      <ExternalID>2783</ExternalID>
+      <GeometryWKT>POINT (-5.54 42.299998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>62</ID>
+      <Name>TORO-DUERO                         </Name>
+      <ExternalID>3269</ExternalID>
+      <GeometryWKT>POINT (-5.24 41.299998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>63</ID>
+      <Name>TOLIBIA DE ABAJO                   </Name>
+      <ExternalID>3252</ExternalID>
+      <GeometryWKT>POINT (-5.26 42.579998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>64</ID>
+      <Name>VILLAGODIO (PUENTE)                </Name>
+      <ExternalID>2974</ExternalID>
+      <GeometryWKT>POINT (-5.42 41.299998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>65</ID>
+      <Name>PONTEDO                            </Name>
+      <ExternalID>3186</ExternalID>
+      <GeometryWKT>POINT (-5.3 42.579998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>66</ID>
+      <Name>CARRASCAL                          </Name>
+      <ExternalID>2891</ExternalID>
+      <GeometryWKT>POINT (-5.48 41.279998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>67</ID>
+      <Name>RIANO                              </Name>
+      <ExternalID>3578</ExternalID>
+      <GeometryWKT>POINT (-5.04 42.579998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>68</ID>
+      <Name>CALDAS DE NOCEDO                   </Name>
+      <ExternalID>3251</ExternalID>
+      <GeometryWKT>POINT (-5.26 42.499998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>69</ID>
+      <Name>VILLAFER                           </Name>
+      <ExternalID>3140</ExternalID>
+      <GeometryWKT>POINT (-5.32 42.019998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>70</ID>
+      <Name>ROBLA, LA                          </Name>
+      <ExternalID>3057</ExternalID>
+      <GeometryWKT>POINT (-5.38 42.459998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>71</ID>
+      <Name>BENAMARIEL                         </Name>
+      <ExternalID>3142</ExternalID>
+      <GeometryWKT>POINT (-5.32 42.219998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>72</ID>
+      <Name>ARDON                              </Name>
+      <ExternalID>3109</ExternalID>
+      <GeometryWKT>POINT (-5.34 42.259998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>73</ID>
+      <Name>SAHAGUN                            </Name>
+      <ExternalID>3543</ExternalID>
+      <GeometryWKT>POINT (-5.06 42.199998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>74</ID>
+      <Name>CASTROPEPE                         </Name>
+      <ExternalID>2979</ExternalID>
+      <GeometryWKT>POINT (-5.42 41.579998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>75</ID>
+      <Name>MAGDALENA, LA                      </Name>
+      <ExternalID>2872</ExternalID>
+      <GeometryWKT>POINT (-5.5 42.479998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>76</ID>
+      <Name>LAS OMANAS                         </Name>
+      <ExternalID>2788</ExternalID>
+      <GeometryWKT>POINT (-5.54 42.419998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>77</ID>
+      <Name>SALIDA EMBALSE DE VILLAMECA        </Name>
+      <ExternalID>2031</ExternalID>
+      <GeometryWKT>POINT (-6.02 42.379998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>78</ID>
+      <Name>CAMPOSOLILLO                       </Name>
+      <ExternalID>3349</ExternalID>
+      <GeometryWKT>POINT (-5.2 42.579998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>79</ID>
+      <Name>STA. CRISTINA DE LA POLVOROSA      </Name>
+      <ExternalID>2953</ExternalID>
+      <GeometryWKT>POINT (-5.44 41.999998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>80</ID>
+      <Name>PUEBLA DE SANABRIA                 </Name>
+      <ExternalID>1562</ExternalID>
+      <GeometryWKT>POINT (-6.38 42.059998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>81</ID>
+      <Name>PUENTE CONGOSTO                    </Name>
+      <ExternalID>3119</ExternalID>
+      <GeometryWKT>POINT (-5.32 40.339998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>82</ID>
+      <Name>MORALES DEL REY                    </Name>
+      <ExternalID>2953</ExternalID>
+      <GeometryWKT>POINT (-5.44 41.999998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>83</ID>
+      <Name>GARANDILLA, LA                     </Name>
+      <ExternalID>2789</ExternalID>
+      <GeometryWKT>POINT (-5.54 42.439998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>84</ID>
+      <Name>ENCINAS DE ARRIBA                  </Name>
+      <ExternalID>3088</ExternalID>
+      <GeometryWKT>POINT (-5.34 40.459998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>85</ID>
+      <Name>BARCO DE AVILA                     </Name>
+      <ExternalID>3001</ExternalID>
+      <GeometryWKT>POINT (-5.4 40.299998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>86</ID>
+      <Name>ALBA DE TORMES                     </Name>
+      <ExternalID>3120</ExternalID>
+      <GeometryWKT>POINT (-5.32 40.499998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>87</ID>
+      <Name>SALAMANCA                          </Name>
+      <ExternalID>2965</ExternalID>
+      <GeometryWKT>POINT (-5.42 40.599998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>88</ID>
+      <Name>CONTIENSA                          </Name>
+      <ExternalID>2733</ExternalID>
+      <GeometryWKT>POINT (-5.56 41.059998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>89</ID>
+      <Name>MORLA DE LA VALDERIA               </Name>
+      <ExternalID>1827</ExternalID>
+      <GeometryWKT>POINT (-6.16 42.119998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>90</ID>
+      <Name>FUENTEGUINALDO                     </Name>
+      <ExternalID>1518</ExternalID>
+      <GeometryWKT>POINT (-6.4 40.439998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>91</ID>
+      <Name>CASTILLEJO MARTIN VIEJO            </Name>
+      <ExternalID>1518</ExternalID>
+      <GeometryWKT>POINT (-6.4 40.439998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>92</ID>
+      <Name>SALIDA EMBALSE DEL AGUEDA          </Name>
+      <ExternalID>1518</ExternalID>
+      <GeometryWKT>POINT (-6.4 40.439998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>93</ID>
+      <Name>PUENTE PINO                        </Name>
+      <ExternalID>1878</ExternalID>
+      <GeometryWKT>POINT (-6.12 41.339998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>94</ID>
+      <Name>PUENTE RESBALA                     </Name>
+      <ExternalID>1546</ExternalID>
+      <GeometryWKT>POINT (-6.38 40.619998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>95</ID>
+      <Name>BRETO                              </Name>
+      <ExternalID>2922</ExternalID>
+      <GeometryWKT>POINT (-5.46 41.519998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>96</ID>
+      <Name>VILLACHICA O SAN ANDRES            </Name>
+      <ExternalID>3204</ExternalID>
+      <GeometryWKT>POINT (-5.28 41.339998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>97</ID>
+      <Name>VALLADOLID-PISUERGA                </Name>
+      <ExternalID>4555</ExternalID>
+      <GeometryWKT>POINT (-4.42000000000001 41.379998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>98</ID>
+      <Name>VILLAMANIN                         </Name>
+      <ExternalID>2991</ExternalID>
+      <GeometryWKT>POINT (-5.42 42.559998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>99</ID>
+      <Name>MOZAR DE VALVERDE                  </Name>
+      <ExternalID>2923</ExternalID>
+      <GeometryWKT>POINT (-5.46 41.579998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>100</ID>
+      <Name>SAN MAMES DE ZALIMA                </Name>
+      <ExternalID>4845</ExternalID>
+      <GeometryWKT>POINT (-4.24000000000001 42.499998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>101</ID>
+      <Name>MOLINOS DE DUERO                   </Name>
+      <ExternalID>6126</ExternalID>
+      <GeometryWKT>POINT (-2.48000000000005 41.519998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>102</ID>
+      <Name>SALIDA EMBALSE DE RIANO            </Name>
+      <ExternalID>3577</ExternalID>
+      <GeometryWKT>POINT (-5.04 42.559998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>103</ID>
+      <Name>CISTIERNA                          </Name>
+      <ExternalID>3523</ExternalID>
+      <GeometryWKT>POINT (-5.08 42.499998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>104</ID>
+      <Name>VILLAVERDE DE ARCAYOS              </Name>
+      <ExternalID>3569</ExternalID>
+      <GeometryWKT>POINT (-5.04 42.359998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>105</ID>
+      <Name>SANTERVAS DE CAMPOS                </Name>
+      <ExternalID>3567</ExternalID>
+      <GeometryWKT>POINT (-5.04 42.099998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>106</ID>
+      <Name>SALIDA EMBALSE DE REQUEJADA        </Name>
+      <ExternalID>4746</ExternalID>
+      <GeometryWKT>POINT (-4.30000000000001 42.559998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>107</ID>
+      <Name>SALIDA EMBALSE DE CERVERA          </Name>
+      <ExternalID>4772</ExternalID>
+      <GeometryWKT>POINT (-4.28000000000001 42.539998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>108</ID>
+      <Name>SALIDA EMBALSE DE CAMPORREDONDO    </Name>
+      <ExternalID>4501</ExternalID>
+      <GeometryWKT>POINT (-4.46000000000001 42.499998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>109</ID>
+      <Name>SALIDA EMBALSE DE ARLANZON         </Name>
+      <ExternalID>5806</ExternalID>
+      <GeometryWKT>POINT (-3.20000000000003 42.139998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>110</ID>
+      <Name>SAN MIGUEL DE BERNUY               </Name>
+      <ExternalID>5522</ExternalID>
+      <GeometryWKT>POINT (-3.58000000000002 41.219998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>111</ID>
+      <Name>VILLOMAR                           </Name>
+      <ExternalID>3281</ExternalID>
+      <GeometryWKT>POINT (-5.24 42.279998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>112</ID>
+      <Name>SECOS DE PORMA                     </Name>
+      <ExternalID>3218</ExternalID>
+      <GeometryWKT>POINT (-5.28 42.359998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>113</ID>
+      <Name>STA. EULALIA DE RIONEGRO           </Name>
+      <ExternalID>1825</ExternalID>
+      <GeometryWKT>POINT (-6.16 41.999998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>114</ID>
+      <Name>COCA-VOLTOYA                       </Name>
+      <ExternalID>4704</ExternalID>
+      <GeometryWKT>POINT (-4.32000000000001 41.119998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>115</ID>
+      <Name>LEON                               </Name>
+      <ExternalID>3144</ExternalID>
+      <GeometryWKT>POINT (-5.32 42.359998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>116</ID>
+      <Name>CELADA DEL CAMINO                  </Name>
+      <ExternalID>5588</ExternalID>
+      <GeometryWKT>POINT (-3.52000000000003 42.179998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>117</ID>
+      <Name>VALENCIA DE DON JUAN               </Name>
+      <ExternalID>3180</ExternalID>
+      <GeometryWKT>POINT (-5.3 42.179998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>118</ID>
+      <Name>LEON ALIJA DE LA RIBERA            </Name>
+      <ExternalID>3182</ExternalID>
+      <GeometryWKT>POINT (-5.3 42.339998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>119</ID>
+      <Name>SALVATIERRA                        </Name>
+      <ExternalID>2963</ExternalID>
+      <GeometryWKT>POINT (-5.42 40.399998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>120</ID>
+      <Name>ZAMORA                             </Name>
+      <ExternalID>2947</ExternalID>
+      <GeometryWKT>POINT (-5.44 41.299998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>121</ID>
+      <Name>SALIDA EMBALSE DE BARRIOS DE LUNA  </Name>
+      <ExternalID>2792</ExternalID>
+      <GeometryWKT>POINT (-5.54 42.499998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>122</ID>
+      <Name>BARBADILLO DEL PEZ                 </Name>
+      <ExternalID>5848</ExternalID>
+      <GeometryWKT>POINT (-3.12000000000003 42.099998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>123</ID>
+      <Name>MEDINA DE RIOSECO                  </Name>
+      <ExternalID>3602</ExternalID>
+      <GeometryWKT>POINT (-5.02 41.519998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>124</ID>
+      <Name>SOTOPALACIOS                       </Name>
+      <ExternalID>5647</ExternalID>
+      <GeometryWKT>POINT (-3.44000000000003 42.279998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>125</ID>
+      <Name>VILLARDIGA                         </Name>
+      <ExternalID>3170</ExternalID>
+      <GeometryWKT>POINT (-5.3 41.439998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>126</ID>
+      <Name>TARAZONA DE GUARENA                </Name>
+      <ExternalID>3451</ExternalID>
+      <GeometryWKT>POINT (-5.12 41.079998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>127</ID>
+      <Name>VADILLO DE LA GUARENA              </Name>
+      <ExternalID>3333</ExternalID>
+      <GeometryWKT>POINT (-5.2 41.219998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>128</ID>
+      <Name>TORO-GUARENA                       </Name>
+      <ExternalID>3269</ExternalID>
+      <GeometryWKT>POINT (-5.24 41.299998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>129</ID>
+      <Name>PENAFIEL                           </Name>
+      <ExternalID>5070</ExternalID>
+      <GeometryWKT>POINT (-4.04000000000001 41.359998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>130</ID>
+      <Name>VILLAESCUSA DE LAS TORRES          </Name>
+      <ExternalID>4974</ExternalID>
+      <GeometryWKT>POINT (-4.14000000000001 42.459998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>131</ID>
+      <Name>QUINTANILLA DE ONESIMO             </Name>
+      <ExternalID>4855</ExternalID>
+      <GeometryWKT>POINT (-4.22000000000001 41.379998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>132</ID>
+      <Name>HERRERA DE PISUERGA                </Name>
+      <ExternalID>4885</ExternalID>
+      <GeometryWKT>POINT (-4.20000000000001 41.559998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>133</ID>
+      <Name>GUARDO                             </Name>
+      <ExternalID>4441</ExternalID>
+      <GeometryWKT>POINT (-4.5 42.479998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>134</ID>
+      <Name>EMISARIO DE LA NAVA                </Name>
+      <ExternalID>4684</ExternalID>
+      <GeometryWKT>POINT (-4.34000000000001 42.019998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>135</ID>
+      <Name>VILLALLANO                         </Name>
+      <ExternalID>4974</ExternalID>
+      <GeometryWKT>POINT (-4.14000000000001 42.459998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>136</ID>
+      <Name>CIUDAD RODRIGO                     </Name>
+      <ExternalID>1518</ExternalID>
+      <GeometryWKT>POINT (-6.4 40.439998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>137</ID>
+      <Name>CASTRO DE LA LOMBA                 </Name>
+      <ExternalID>2721</ExternalID>
+      <GeometryWKT>POINT (-5.58 42.459998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>138</ID>
+      <Name>BURGOS-ARLANZON                    </Name>
+      <ExternalID>5629</ExternalID>
+      <GeometryWKT>POINT (-3.46000000000003 42.219998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>139</ID>
+      <Name>SALIDA EMBALSE DE SANTA TERESA     </Name>
+      <ExternalID>3088</ExternalID>
+      <GeometryWKT>POINT (-5.34 40.459998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>140</ID>
+      <Name>PINILLA DE LOS MOROS               </Name>
+      <ExternalID>5804</ExternalID>
+      <GeometryWKT>POINT (-3.20000000000003 42.019998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>141</ID>
+      <Name>VILLABANEZ                         </Name>
+      <ExternalID>4708</ExternalID>
+      <GeometryWKT>POINT (-4.32000000000001 41.379998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>142</ID>
+      <Name>CASTROBOL                          </Name>
+      <ExternalID>3371</ExternalID>
+      <GeometryWKT>POINT (-5.18 42.119998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>143</ID>
+      <Name>CERNADILLA (EMBALSE)               </Name>
+      <ExternalID>1562</ExternalID>
+      <GeometryWKT>POINT (-6.38 42.059998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>144</ID>
+      <Name>MANGANESES DE LA POLVOROSA         </Name>
+      <ExternalID>2953</ExternalID>
+      <GeometryWKT>POINT (-5.44 41.999998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>145</ID>
+      <Name>OMANAS, LAS                        </Name>
+      <ExternalID>2828</ExternalID>
+      <GeometryWKT>POINT (-5.52 42.419998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>146</ID>
+      <Name>AMBASAGUAS                         </Name>
+      <ExternalID>3348</ExternalID>
+      <GeometryWKT>POINT (-5.2 42.399998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>147</ID>
+      <Name>VILLAGODIO-2                       </Name>
+      <ExternalID>2974</ExternalID>
+      <GeometryWKT>POINT (-5.42 41.299998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>148</ID>
+      <Name>FRESNO-ALHANDIGA                   </Name>
+      <ExternalID>3088</ExternalID>
+      <GeometryWKT>POINT (-5.34 40.459998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>149</ID>
+      <Name>PARDAVE                            </Name>
+      <ExternalID>3184</ExternalID>
+      <GeometryWKT>POINT (-5.3 42.479998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>150</ID>
+      <Name>CREMENES                           </Name>
+      <ExternalID>3577</ExternalID>
+      <GeometryWKT>POINT (-5.04 42.559998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>151</ID>
+      <Name>ROBLA, LA (C. TERMICA)             </Name>
+      <ExternalID>3057</ExternalID>
+      <GeometryWKT>POINT (-5.38 42.459998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>152</ID>
+      <Name>FUENTONA, LA                       </Name>
+      <ExternalID>6115</ExternalID>
+      <GeometryWKT>POINT (-2.50000000000005 41.439998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>153</ID>
+      <Name>UCERO                              </Name>
+      <ExternalID>5898</ExternalID>
+      <GeometryWKT>POINT (-3.02000000000004 41.439998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>154</ID>
+      <Name>VEGALATRAVE                        </Name>
+      <ExternalID>1989</ExternalID>
+      <GeometryWKT>POINT (-6.04 41.419998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>155</ID>
+      <Name>SAN FELIX DE LA VEGA               </Name>
+      <ExternalID>2745</ExternalID>
+      <GeometryWKT>POINT (-5.56 42.219998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>156</ID>
+      <Name>REMOLINA                           </Name>
+      <ExternalID>3577</ExternalID>
+      <GeometryWKT>POINT (-5.04 42.559998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>157</ID>
+      <Name>AREVALO                            </Name>
+      <ExternalID>4547</ExternalID>
+      <GeometryWKT>POINT (-4.42000000000001 41.019998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>158</ID>
+      <Name>QUINTANADUENAS                     </Name>
+      <ExternalID>5629</ExternalID>
+      <GeometryWKT>POINT (-3.46000000000003 42.219998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>159</ID>
+      <Name>CASTRELO DO VAL                    </Name>
+      <ExternalID>592</ExternalID>
+      <GeometryWKT>POINT (-7.26 41.599998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>160</ID>
+      <Name>SALIDA EMBALSE DE LAS VENCIAS      </Name>
+      <ExternalID>5523</ExternalID>
+      <GeometryWKT>POINT (-3.58000000000002 41.279998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>161</ID>
+      <Name>TARDAJOS DE DUERO                  </Name>
+      <ExternalID>6180</ExternalID>
+      <GeometryWKT>POINT (-2.36000000000005 41.419998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>162</ID>
+      <Name>ALMAZAN                            </Name>
+      <ExternalID>6164</ExternalID>
+      <GeometryWKT>POINT (-2.40000000000005 41.379998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>163</ID>
+      <Name>TARDESILLAS                        </Name>
+      <ExternalID>6188</ExternalID>
+      <GeometryWKT>POINT (-2.34000000000005 41.539998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>164</ID>
+      <Name>PALACIOS DE LA SIERRA              </Name>
+      <ExternalID>5868</ExternalID>
+      <GeometryWKT>POINT (-3.08000000000003 41.579998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>165</ID>
+      <Name>SALIDA EMBALSE DE CASTROVIDO       </Name>
+      <ExternalID>5819</ExternalID>
+      <GeometryWKT>POINT (-3.16000000000003 42.019998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>166</ID>
+      <Name>SALIDA EMB CASTRO DE LAS COGOTAS   </Name>
+      <ExternalID>4415</ExternalID>
+      <GeometryWKT>POINT (-4.5 40.659998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>167</ID>
+      <Name>ZAMARRA                            </Name>
+      <ExternalID>1611</ExternalID>
+      <GeometryWKT>POINT (-6.32 40.479998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>168</ID>
+      <Name>ROBLEDA                            </Name>
+      <ExternalID>1308</ExternalID>
+      <GeometryWKT>POINT (-6.58 40.339998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>169</ID>
+      <Name>SALIDA EMBALSE DE IRUENA           </Name>
+      <ExternalID>1518</ExternalID>
+      <GeometryWKT>POINT (-6.4 40.439998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>170</ID>
+      <Name>SAELICES EL CHICO                  </Name>
+      <ExternalID>1518</ExternalID>
+      <GeometryWKT>POINT (-6.4 40.439998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>171</ID>
+      <Name>LERMA                              </Name>
+      <ExternalID>5627</ExternalID>
+      <GeometryWKT>POINT (-3.46000000000003 42.039998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>172</ID>
+      <Name>PINEDA DE LA SIERRA                </Name>
+      <ExternalID>5812</ExternalID>
+      <GeometryWKT>POINT (-3.18000000000003 42.119998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>173</ID>
+      <Name>CASCANTES                          </Name>
+      <ExternalID>3057</ExternalID>
+      <GeometryWKT>POINT (-5.38 42.459998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>174</ID>
+      <Name>CARDANO DE ARRIBA                  </Name>
+      <ExternalID>4568</ExternalID>
+      <GeometryWKT>POINT (-4.42000000000001 42.579998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>175</ID>
+      <Name>TRIOLLO                            </Name>
+      <ExternalID>4598</ExternalID>
+      <GeometryWKT>POINT (-4.40000000000001 42.579998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>176</ID>
+      <Name>SALIDA DEL EMBALSE DE CASARES      </Name>
+      <ExternalID>2937</ExternalID>
+      <GeometryWKT>POINT (-5.46 42.559998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>177</ID>
+      <Name>VALDERAS                           </Name>
+      <ExternalID>3245</ExternalID>
+      <GeometryWKT>POINT (-5.26 42.039998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>178</ID>
+      <Name>AGUILAFUENTE                       </Name>
+      <ExternalID>5090</ExternalID>
+      <GeometryWKT>POINT (-4.02000000000001 41.159998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>179</ID>
+      <Name>MEGECES                            </Name>
+      <ExternalID>4706</ExternalID>
+      <GeometryWKT>POINT (-4.32000000000001 41.259998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>180</ID>
+      <Name>BOISAN                             </Name>
+      <ExternalID>1829</ExternalID>
+      <GeometryWKT>POINT (-6.16 42.199998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>181</ID>
+      <Name>VELILLA DE LA VALDUERNA            </Name>
+      <ExternalID>1939</ExternalID>
+      <GeometryWKT>POINT (-6.08 42.179998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>182</ID>
+      <Name>VADOCONDES                         </Name>
+      <ExternalID>5693</ExternalID>
+      <GeometryWKT>POINT (-3.36000000000003 41.379998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>183</ID>
+      <Name>SAUCELLE-DUERO                     </Name>
+      <ExternalID>1392</ExternalID>
+      <GeometryWKT>POINT (-6.52 41.019998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>184</ID>
+      <Name>VALSAIN                            </Name>
+      <ExternalID>4928</ExternalID>
+      <GeometryWKT>POINT (-4.16000000000001 40.719998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>185</ID>
+      <Name>SALIDA EMBALSE PONTON ALTO         </Name>
+      <ExternalID>4928</ExternalID>
+      <GeometryWKT>POINT (-4.16000000000001 40.719998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>186</ID>
+      <Name>COCA-ERESMA                        </Name>
+      <ExternalID>4669</ExternalID>
+      <GeometryWKT>POINT (-4.34000000000001 41.159998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>187</ID>
+      <Name>TORRE DE ESGUEVA                   </Name>
+      <ExternalID>5011</ExternalID>
+      <GeometryWKT>POINT (-4.10000000000001 41.439998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>188</ID>
+      <Name>LIEGOS                             </Name>
+      <ExternalID>3586</ExternalID>
+      <GeometryWKT>POINT (-5.04 43.019998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>189</ID>
+      <Name>BRETO                              </Name>
+      <ExternalID>2922</ExternalID>
+      <GeometryWKT>POINT (-5.46 41.519998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>190</ID>
+      <Name>SENA DE LUNA                       </Name>
+      <ExternalID>2753</ExternalID>
+      <GeometryWKT>POINT (-5.56 42.559998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>191</ID>
+      <Name>VEGACERNEJA                        </Name>
+      <ExternalID>3657</ExternalID>
+      <GeometryWKT>POINT (-5 43.039998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>192</ID>
+      <Name>SAN SALVADOR DE CANTAMUDA          </Name>
+      <ExternalID>4746</ExternalID>
+      <GeometryWKT>POINT (-4.30000000000001 42.559998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>193</ID>
+      <Name>LANGUILLA                          </Name>
+      <ExternalID>5756</ExternalID>
+      <GeometryWKT>POINT (-3.26000000000003 41.299998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>194</ID>
+      <Name>VENTANILLA                         </Name>
+      <ExternalID>4659</ExternalID>
+      <GeometryWKT>POINT (-4.36000000000001 42.539998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>195</ID>
+      <Name>CAMARZANA DE TERA                  </Name>
+      <ExternalID>2021</ExternalID>
+      <GeometryWKT>POINT (-6.02 41.599998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>196</ID>
+      <Name>GETINO                             </Name>
+      <ExternalID>3113</ExternalID>
+      <GeometryWKT>POINT (-5.34 42.539998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>197</ID>
+      <Name>ENCINAS DE ABAJO                   </Name>
+      <ExternalID>3231</ExternalID>
+      <GeometryWKT>POINT (-5.26 40.539998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>198</ID>
+      <Name>LEDESMA                            </Name>
+      <ExternalID>2671</ExternalID>
+      <GeometryWKT>POINT (-5.6 41.059998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>199</ID>
+      <Name>QUINTANILLA DEL CASTILLO           </Name>
+      <ExternalID>1973</ExternalID>
+      <GeometryWKT>POINT (-6.06 42.419998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>200</ID>
+      <Name>BENEGILES                          </Name>
+      <ExternalID>3013</ExternalID>
+      <GeometryWKT>POINT (-5.4 41.379998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>201</ID>
+      <Name>BURGOS-VENA                        </Name>
+      <ExternalID>5629</ExternalID>
+      <GeometryWKT>POINT (-3.46000000000003 42.219998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>202</ID>
+      <Name>BOCA DE HUERGANO                   </Name>
+      <ExternalID>4315</ExternalID>
+      <GeometryWKT>POINT (-4.58 42.579998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>203</ID>
+      <Name>SALIDA EMBALSE DE LINARES          </Name>
+      <ExternalID>5704</ExternalID>
+      <GeometryWKT>POINT (-3.34000000000003 41.339998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>204</ID>
+      <Name>VILLALOBAR                         </Name>
+      <ExternalID>3143</ExternalID>
+      <GeometryWKT>POINT (-5.32 42.239998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>205</ID>
+      <Name>BENAMARIEL-2                       </Name>
+      <ExternalID>3142</ExternalID>
+      <GeometryWKT>POINT (-5.32 42.219998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>206</ID>
+      <Name>ALCONADA                           </Name>
+      <ExternalID>3291</ExternalID>
+      <GeometryWKT>POINT (-5.22 40.539998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>207</ID>
+      <Name>SANTIAGO DE LA VALDUERNA           </Name>
+      <ExternalID>2744</ExternalID>
+      <GeometryWKT>POINT (-5.56 42.179998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>208</ID>
+      <Name>LASTRAS DE CUELLAR                 </Name>
+      <ExternalID>5033</ExternalID>
+      <GeometryWKT>POINT (-4.08000000000001 41.199998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>209</ID>
+      <Name>CAMARZANA-REGATO                   </Name>
+      <ExternalID>2021</ExternalID>
+      <GeometryWKT>POINT (-6.02 41.599998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>210</ID>
+      <Name>VILLAVEZA DE VALVERDE              </Name>
+      <ExternalID>2774</ExternalID>
+      <GeometryWKT>POINT (-5.54 41.579998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>211</ID>
+      <Name>GENESTACIO                         </Name>
+      <ExternalID>2867</ExternalID>
+      <GeometryWKT>POINT (-5.5 42.119998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>212</ID>
+      <Name>BRIME DE URZ                       </Name>
+      <ExternalID>2823</ExternalID>
+      <GeometryWKT>POINT (-5.52 42.019998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>213</ID>
+      <Name>RABAL                              </Name>
+      <ExternalID>572</ExternalID>
+      <GeometryWKT>POINT (-7.28 41.519998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>214</ID>
+      <Name>MUEDRA, LA                         </Name>
+      <ExternalID>6152</ExternalID>
+      <GeometryWKT>POINT (-2.44000000000005 41.539998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>215</ID>
+      <Name>MUELAS                             </Name>
+      <ExternalID>2704</ExternalID>
+      <GeometryWKT>POINT (-5.58 41.319998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>216</ID>
+      <Name>ZUZONES                            </Name>
+      <ExternalID>5759</ExternalID>
+      <GeometryWKT>POINT (-3.26000000000003 41.379998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>217</ID>
+      <Name>ALMUZARA                           </Name>
+      <ExternalID>3184</ExternalID>
+      <GeometryWKT>POINT (-5.3 42.479998)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+  </NamedGeometries>
+</NamedGeometryCollection>
