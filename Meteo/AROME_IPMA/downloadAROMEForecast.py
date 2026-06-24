@@ -56,8 +56,8 @@ def download_meteo_ncfile():
         ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
 
         ssh.connect(
-            hostname='ftpserver.ipma.pt',
-            username='twin_str',
+            hostname='***********',
+            username='***********',
             key_filename=ftp_key)
 
         sftp = ssh.open_sftp()
