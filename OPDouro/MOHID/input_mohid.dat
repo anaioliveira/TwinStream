@@ -1,0 +1,9 @@
+#MOHID INFORMATION
+MOHID_DATA_FOLDER : ..\OPDouro\MOHID\data\
+MOHID_EXE_FOLDER : ..\OPDouro\MOHID\exe\
+MOHID_RES_FOLDER : ..\OPDouro\MOHID\res\
+
+#BACKUP FOLDERS
+HDF_BACKUP_FOLDER : ..\MOHID_Land\Watersheds\Douro\
+TIMESERIES_BACKUP_FOLDER : ..\OPDouro\Results\Timeseries\
+RESTART_BACKUP_FOLDER : ..\OPDouro\Results\Restart\

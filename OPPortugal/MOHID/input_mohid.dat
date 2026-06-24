@@ -1,0 +1,20 @@
+#MOHID INFORMATION
+MOHID_DATA_FOLDER : ..\OPPortugal\MOHID\data\
+MOHID_EXE_FOLDER : ..\OPPortugal\MOHID\exe\
+MOHID_RES_FOLDER : ..\OPPortugal\MOHID\res\
+
+#BACKUP FOLDERS
+HDF_BACKUP_FOLDER : ..\MOHID_Land\Domains\Portugal\
+TIMESERIES_BACKUP_FOLDER : ..\OPPortugal\Results\Timeseries\
+RESTART_BACKUP_FOLDER : ..\OPPortugal\Results\Restart\
+
+# ----------------- INTERNATIONAL DISCHARGE -----------------
+INTERNATIONAL_BASIN : 1
+
+#TIMESERIES FOLDERS
+BASINS_NAMES : Douro, Tejo, Guadiana
+BASIN1 : ..\OPDouro\Results\Timeseries\
+BASIN2 : ..\OPTejo\Results\Timeseries\
+BASIN3 : ..\OPGuadiana\Results\Timeseries\
+
+MAIN_MODEL_FOLDER : ..\OPPortugal\MOHID\

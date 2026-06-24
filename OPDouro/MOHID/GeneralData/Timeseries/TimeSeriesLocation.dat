@@ -1,0 +1,53 @@
+!Time Series Locations for D:\OneDrive - Universidade de Lisboa\Debora\Projetos\TwinStream_ModelosHidrologicos\Modelos\Douro_0.02\Vegetation\lc_dr_fin_fill.dat
+DT_OUTPUT_TIME            : 900
+MAX_BUFFER_SIZE           : 10000
+
+
+<BeginTimeSerie>
+NAME                      : 87_164_1
+COORD_X                   : -5.56
+COORD_Y                   : 41.799998
+LOCALIZATION_K            : 1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME                      : 77_145_1
+COORD_X                   : -5.94
+COORD_Y                   : 41.599998
+LOCALIZATION_K            : 1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME                      : 76_138_1
+COORD_X                   : -6.08
+COORD_Y                   : 41.579998
+LOCALIZATION_K            : 1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME                      : 67_142_1
+COORD_X                   : -6
+COORD_Y                   : 41.399998
+LOCALIZATION_K            : 1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME                      : 94_134_1
+COORD_X                   : -6.16
+COORD_Y                   : 41.939998
+LOCALIZATION_K            : 1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME                      : 98_70_1
+COORD_X                   : -7.44
+COORD_Y                   : 42.019998
+LOCALIZATION_K            : 1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME                      : 64_120_1
+COORD_X                   : -6.44
+COORD_Y                   : 41.339998
+LOCALIZATION_K            : 1
+<EndTimeSerie>
