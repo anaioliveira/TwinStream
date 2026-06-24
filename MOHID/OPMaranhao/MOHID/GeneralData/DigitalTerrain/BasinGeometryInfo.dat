@@ -1,0 +1,9 @@
+TOPOGRAPHIC_FILE          : F:\Ana_Projetos\8_Omega\VersoesMOHID\V58\GeneralData\DigitalTerrain\DTM_ND.dat
+TRESHOLD_AREA             : 1000000
+DELINEATE_BASIN           : 1
+OUTLET_I                  : 45
+OUTLET_J                  : 15
+WRITE_DELINEATION         : 1
+DELINEATION_FILE          : F:\Ana_Projetos\8_Omega\VersoesMOHID\V58\GeneralData\DigitalTerrain\Delineation_new.xy
+WRITE_REACHES             : 1
+REACHES_FILE              : F:\Ana_Projetos\8_Omega\VersoesMOHID\V58\GeneralData\DigitalTerrain\Drainage Network_new.dnt

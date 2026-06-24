@@ -1,0 +1,501 @@
+!MOHID Studio Sample Data File
+!This file contains the most common options.
+!MODULE: Drainage Network
+!Please complete and comment/uncomment for your specific needs
+!
+!
+!Start / Continuous Computation
+INITIAL_WATER_DEPTH       : 0.0
+CONTINUOUS                : 1
+
+DISCHARGES                : 0
+
+!Compute Options
+NETWORK_FILE              : ../GeneralData/DigitalTerrain/Drainage Network.dnt
+GLOBAL_MANNING            : 0.035  !drainage network manning resistance
+MIN_WATER_DEPTH           : 0.0001
+DISCHARGES                : 0
+HYDRODYNAMIC_APROX        : 3      !1 - KinematicWave. 2 - DiffusionWave. 3 - DynamicWave
+ALLOW_BACKWATER           : 1
+DOWNSTREAM_BOUNDARY       : 2      !0 - Dam. 1 - ZeroDepthGradient. 2 - CriticalDepth. 3 - ImposedWaterLevel. 4 - ImposedVelocity
+DEFAULT_VALUE             : -10.   !imposed level in downstream boundary if DOWNSTREAM_BOUNDARY       : 3
+MINIMUM_SLOPE             : 0.0
+
+!Stability Options
+STABILIZE                 : 1      !connect/disconnect stability criteria
+STABILIZE_FACTOR          : 0.05   !fraction of node volume allowed for volume variation in one time step (if STABILIZE : 1)
+STABILIZE_MIN_FACTOR      : 0.01   !minimum fraction of node maximum volume to start applying stability criteria (if STABILIZE : 1)
+LIMIT_DT_COURANT          : 1      !connect/disconnect limitation of dt by courant number
+MAX_COURANT               : 0.25   !Set to lower values during floods
+
+!Output Options
+TIME_SERIE_LOCATION       : ../GeneralData/Timeseries/NodeTimeSeriesLocation.dat
+OUTPUT_TIME               : 0 3600
+TIME_SERIE_BY_NODES       : 1      !1 - output timeseries by nodes; 0 - output timeseries by properties
+
+HMIN_CHEZY                : 20.0 !0.15 !altura minima do escoamento para ser calculada a tensão de corte. abaixo desta altura de escoamento a tensão de corte sera 0.
+!SHADING_FACTOR            : 0.65
+!RADIATION_BOTTOM_NOFLUX   : 0
+
+!<beginproperty>
+!NAME                      : TSS
+!UNITS                     : mg/l
+!DESCRIPTION               : total suspended sediments
+!PARTICULATE               : 0
+!BOTTOM_FLUXES             : 1
+!ADVECTION_DIFFUSION       : 1
+!SOIL_CHEMISTRY            : 0
+!SOIL_QUALITY              : 0
+!OLD                       : 1
+!DEFAULTVALUE              : 2.0
+!BOTTOM_CONC               : 0.0
+!EROSION                   : 1
+!SPLASH_EROSION            : 1
+!DEPOSITION                : 1
+!ADVDIFF_MOLECULAR_DIFF_COEF :  0.0
+!TIME_SERIE                : 1
+!OUTPUT_HDF                : 1
+!<endproperty>
+!
+!<beginproperty>
+!NAME                      : VSS
+!UNITS                     : mg/l
+!DESCRIPTION               : volatile suspended sediments
+!PARTICULATE               : 0
+!BOTTOM_FLUXES             : 1
+!ADVECTION_DIFFUSION       : 1
+!SOIL_CHEMISTRY            : 0
+!SOIL_QUALITY              : 0
+!OLD                       : 1
+!DEFAULTVALUE              : 1.0
+!BOTTOM_CONC               : 0.0
+!EROSION                   : 1
+!SPLASH_EROSION            : 1
+!DEPOSITION                : 1
+!ADVDIFF_MOLECULAR_DIFF_COEF :  0.0
+!TIME_SERIE                : 1
+!OUTPUT_HDF                : 1
+!<endproperty>
+!
+!<beginproperty>
+!NAME                      : cohesive sediment
+!UNITS                     : mg/l
+!DESCRIPTION               : cohesive sediment
+!PARTICULATE               : 1
+!OLD                       : 1
+!BOTTOM_FLUXES             : 1
+!ADVECTION_DIFUSION        : 1
+!DISCHARGES                : 0
+!DEFAULTVALUE              : 0.0
+!DIFFUSIVITY               : 1E-8
+!BOTTOM_CONC               : 2.0  
+!EROSION                   : 1
+!CRIT_SS_EROSION           : 0.2
+!EROSION_COEF              : 5.0E-4
+!KL                        : 0.001
+!KL1                       : 0.001
+!ML                        : 1
+!ML                        : 0.4
+!DEPOSITION                : 1
+!WS_TYPE                   : 1 
+!WS_VALUE                  : 0.001
+!CRIT_SS_DEPOSITION        : 0.1
+!TIME_SERIE                : 1
+!OUTPUT_HDF                : 1
+!INTEGRATE_MASS_FLUX       : 0
+!INTEGRATE_MASS_FLUX_DT    : 86400.
+!MIN_VALUE                 : 0.0
+!<endproperty>
+!
+!!<beginproperty>
+!!NAME                      : temperature
+!!UNITS                     : ?C
+!!DESCRIPTION               : temperature
+!!PARTICULATE               : 0
+!!OLD                       : 1
+!!DEFAULTVALUE              : 20
+!!SURFACE_FLUXES            : 1
+!!ADVECTION_DIFFUSION       : 1
+!!DISCHARGES                : 0
+!!TIME_SERIE                : 1
+!!OUTPUT_HDF                : 1
+!!<endproperty>
+!!
+!!<beginproperty>
+!!NAME                      : salinity
+!!UNITS                     : psu
+!!DESCRIPTION               : salinity
+!!PARTICULATE               : 0
+!!OLD                       : 1
+!!MIN_VALUE                 : 0
+!!DEFAULTVALUE              : 1.
+!!ADVECTION_DIFFUSION       : 1
+!!DISCHARGES                : 0
+!!TIME_SERIE                : 1
+!!OUTPUT_HDF                : 1
+!!MIN_VALUE                 : 0.0
+!!<endproperty>
+!!
+!!<beginproperty>
+!!NAME                      : nitrate
+!!UNITS                     : mg/l
+!!DESCRIPTION               : nitrate
+!!PARTICULATE               : 0
+!!BOTTOM_FLUXES             : 0
+!!OLD                       : 1
+!!ADVECTION_DIFUSION        : 1
+!!DISCHARGES                : 0
+!!DEFAULTVALUE              : 0.0
+!!DIFFUSIVITY               : 0.0
+!!TIME_SERIE                : 1
+!!OUTPUT_HDF                : 1
+!!INTEGRATE_MASS_FLUX       : 0
+!!INTEGRATE_MASS_FLUX_DT    : 86400.
+!!WATER_QUALITY             : 1
+!!MACROALGAE                : 0
+!!MIN_VALUE                 : 0.0
+!!<endproperty>
+!!
+!!<beginproperty>
+!!NAME                      : nitrite
+!!UNITS                     : mg/l
+!!DESCRIPTION               : nitrite
+!!PARTICULATE               : 0
+!!BOTTOM_FLUXES             : 0
+!!ADVECTION_DIFUSION        : 1
+!!DISCHARGES                : 0
+!!OLD                       : 1
+!!DEFAULTVALUE              : 0.0
+!!DIFFUSIVITY               : 0.0
+!!TIME_SERIE                : 1
+!!OUTPUT_HDF                : 1
+!!INTEGRATE_MASS_FLUX       : 0
+!!INTEGRATE_MASS_FLUX_DT    : 86400.
+!!WATER_QUALITY             : 1
+!!MIN_VALUE                 : 0.0
+!!<endproperty>
+!!
+!!<beginproperty>
+!!NAME                      : ammonia
+!!UNITS                     : mg/l
+!!DESCRIPTION               : ammonia
+!!PARTICULATE               : 0
+!!BOTTOM_FLUXES             : 0
+!!ADVECTION_DIFUSION        : 1
+!!DISCHARGES                : 0
+!!DEFAULTVALUE              : 0.0
+!!DIFFUSIVITY               : 0.0
+!!OLD                       : 1
+!!TIME_SERIE                : 1
+!!OUTPUT_HDF                : 1
+!!INTEGRATE_MASS_FLUX       : 0
+!!INTEGRATE_MASS_FLUX_DT    : 86400.
+!!WATER_QUALITY             : 1
+!!MACROALGAE                : 0
+!!BENTHOS                   : 0
+!!MIN_VALUE                 : 0.0
+!!<endproperty>
+!!
+!!<beginproperty>
+!!NAME                      : dissolved refractory organic nitrogen
+!!UNITS                     : mg/l
+!!DESCRIPTION               : dissolved refractory organic nitrogen
+!!PARTICULATE               : 0
+!!BOTTOM_FLUXES             : 0
+!!ADVECTION_DIFUSION        : 1
+!!DISCHARGES                : 0
+!!DEFAULTVALUE              : 0.0
+!!DIFFUSIVITY               : 0.0
+!!OLD                       : 1
+!!TIME_SERIE                : 1
+!!OUTPUT_HDF                : 1
+!!INTEGRATE_MASS_FLUX       : 0
+!!INTEGRATE_MASS_FLUX_DT    : 86400.
+!!WATER_QUALITY             : 1
+!!MIN_VALUE                 : 0.0
+!!<endproperty>
+!!
+!!<beginproperty>
+!!NAME                      : dissolved non-refractory organic nitrogen
+!!UNITS                     : mg/l
+!!DESCRIPTION               : dissolved non-refractory organic nitrogen
+!!PARTICULATE               : 0
+!!BOTTOM_FLUXES             : 0
+!!ADVECTION_DIFUSION        : 1
+!!DISCHARGES                : 0
+!!DEFAULTVALUE              : 0.0
+!!OLD                       : 1
+!!DIFFUSIVITY               : 0.0
+!!TIME_SERIE                : 1
+!!OUTPUT_HDF                : 1
+!!INTEGRATE_MASS_FLUX       : 0
+!!INTEGRATE_MASS_FLUX_DT    : 86400.
+!!WATER_QUALITY             : 1
+!!MIN_VALUE                 : 0.0
+!!<endproperty>
+!!
+!!<beginproperty>
+!!NAME                      : particulate organic nitrogen
+!!UNITS                     : mg/l
+!!DESCRIPTION               : particulate organic nitrogen
+!!PARTICULATE               : 1
+!!BOTTOM_FLUXES             : 1
+!!ADVECTION_DIFUSION        : 1
+!!BOTTOM_CONC               : 0.01
+!!EROSION                   : 1
+!!CRIT_SS_EROSION           : 25.0  
+!!EROSION_COEF              : 1.E-6 
+!!DEPOSITION                : 1
+!!WS_TYPE                   : 1
+!!WS_VALUE                  : 1E-5
+!!CRIT_SS_DEPOSITION        : 5.0
+!!DISCHARGES                : 0
+!!DEFAULTVALUE              : 0.0
+!!DIFFUSIVITY               : 0.0
+!!TIME_SERIE                : 1
+!!OUTPUT_HDF                : 1
+!!OLD                       : 1
+!!INTEGRATE_MASS_FLUX       : 0
+!!INTEGRATE_MASS_FLUX_DT    : 86400.
+!!WATER_QUALITY             : 1
+!!MIN_VALUE                 : 0.0
+!!<endproperty>
+!!
+!!
+!!<beginproperty>
+!!NAME                      : phytoplankton
+!!UNITS                     : mg/l
+!!DESCRIPTION               : phytoplankton
+!!PARTICULATE               : 0
+!!BOTTOM_FLUXES             : 1
+!!ADVECTION_DIFUSION        : 1
+!!DISCHARGES                : 0
+!!DEFAULTVALUE              : 0.0
+!!DIFFUSIVITY               : 0.0
+!!OLD                       : 1
+!!TIME_SERIE                : 1
+!!OUTPUT_HDF                : 1
+!!INTEGRATE_MASS_FLUX       : 0
+!!INTEGRATE_MASS_FLUX_DT    : 86400.
+!!WATER_QUALITY             : 1
+!!MIN_VALUE                 : 0.00001
+!!WARN_ON_NEGATIVE_VALUES   : 1
+!!<endproperty>
+!!
+!!<beginproperty>
+!!NAME                      : zooplankton
+!!UNITS                     : mg/l
+!!DESCRIPTION               : zooplankton
+!!PARTICULATE               : 0
+!!BOTTOM_FLUXES             : 1
+!!ADVECTION_DIFUSION        : 1
+!!DISCHARGES                : 0
+!!OLD                       : 1
+!!DEFAULTVALUE              : 0.0
+!!DIFFUSIVITY               : 0.0
+!!TIME_SERIE                : 1
+!!OUTPUT_HDF                : 1
+!!INTEGRATE_MASS_FLUX       : 0
+!!INTEGRATE_MASS_FLUX_DT    : 86400.
+!!WATER_QUALITY             : 1
+!!MIN_VALUE                 : 0.000001
+!!<endproperty>
+!!
+!!<beginproperty>
+!!NAME                      : oxygen
+!!UNITS                     : mg/l
+!!DESCRIPTION               : oxygen
+!!PARTICULATE               : 0
+!!SURFACE_FLUXES            : 1
+!!BOTTOM_FLUXES             : 0
+!!ADVECTION_DIFUSION        : 1
+!!OLD                       : 1
+!!DISCHARGES                : 0
+!!DEFAULTVALUE              : 10.0
+!!DIFFUSIVITY               : 0.0
+!!TIME_SERIE                : 1
+!!OUTPUT_HDF                : 1
+!!INTEGRATE_MASS_FLUX       : 0
+!!INTEGRATE_MASS_FLUX_DT    : 86400.
+!!WATER_QUALITY             : 1
+!!MIN_VALUE                 : 0.1
+!!<endproperty>
+!!
+!!<beginproperty>
+!!NAME                      : inorganic phosphorus
+!!UNITS                     : mg/l
+!!DESCRIPTION               : inorganic phosphorus
+!!PARTICULATE               : 0
+!!BOTTOM_FLUXES             : 0
+!!ADVECTION_DIFUSION        : 1
+!!DISCHARGES                : 0
+!!DEFAULTVALUE              : 0.1
+!!OLD                       : 1
+!!DIFFUSIVITY               : 0.0
+!!TIME_SERIE                : 1
+!!OUTPUT_HDF                : 1
+!!INTEGRATE_MASS_FLUX       : 0
+!!INTEGRATE_MASS_FLUX_DT    : 86400.
+!!WATER_QUALITY             : 1
+!!MIN_VALUE                 : 0.0
+!!<endproperty>
+!!
+!!
+!!<beginproperty>
+!!NAME                      : dissolved refractory organic phosphorus
+!!UNITS                     : mg/l
+!!DESCRIPTION               : dissolved refractory organic phosphorus
+!!PARTICULATE               : 0
+!!BOTTOM_FLUXES             : 0
+!!ADVECTION_DIFUSION        : 1
+!!OLD                       : 1
+!!DISCHARGES                : 0
+!!DEFAULTVALUE              : 0.01
+!!DIFFUSIVITY               : 0.0
+!!TIME_SERIE                : 1
+!!OUTPUT_HDF                : 1
+!!INTEGRATE_MASS_FLUX       : 0
+!!INTEGRATE_MASS_FLUX_DT    : 86400.
+!!WATER_QUALITY             : 1
+!!MIN_VALUE                 : 0.0
+!!<endproperty>
+!!
+!!
+!!<beginproperty>
+!!NAME                      : dissolved non-refractory organic phosphorus
+!!UNITS                     : mg/l
+!!DESCRIPTION               : dissolved non-refractory organic phosphorus
+!!PARTICULATE               : 0
+!!BOTTOM_FLUXES             : 0
+!!ADVECTION_DIFUSION        : 1
+!!OLD                       : 1
+!!DISCHARGES                : 0
+!!DEFAULTVALUE              : 0.0
+!!DIFFUSIVITY               : 0.0
+!!TIME_SERIE                : 1
+!!OUTPUT_HDF                : 1
+!!INTEGRATE_MASS_FLUX       : 0
+!!INTEGRATE_MASS_FLUX_DT    : 86400.
+!!WATER_QUALITY             : 1
+!!MIN_VALUE                 : 0.0
+!!<endproperty>
+!!
+!!<beginproperty>
+!!NAME                      : particulate organic phosphorus
+!!UNITS                     : mg/l
+!!DESCRIPTION               : particulate organic phosphorus
+!!PARTICULATE               : 1
+!!BOTTOM_FLUXES             : 1
+!!ADVECTION_DIFUSION        : 1
+!!BOTTOM_CONC               : 0.001      
+!!EROSION                   : 1
+!!CRIT_SS_EROSION           : 15.0     
+!!EROSION_COEF              : 1.E-6   
+!!DEPOSITION                : 1
+!!WS_TYPE                   : 1            
+!!WS_VALUE                  : 1E-9 
+!!CRIT_SS_DEPOSITION        : 5.0 
+!!DISCHARGES                : 0
+!!DEFAULTVALUE              : 0.0
+!!OLD                       : 1
+!!DIFFUSIVITY               : 0.0
+!!TIME_SERIE                : 1
+!!OUTPUT_HDF                : 1
+!!INTEGRATE_MASS_FLUX       : 0
+!!INTEGRATE_MASS_FLUX_DT    : 86400.
+!!WATER_QUALITY             : 1
+!!MIN_VALUE                 : 0.0
+!!<endproperty>
+!!
+!!<beginwqrate>
+!!FIRSTPROP                 : grossprod
+!!SECONDPROP                : grossprod
+!!NAME                      : PhytoGrossProd
+!!DESCRIPTION               : phytoplankton gross growth rate
+!!MODEL                     : WaterQuality
+!!<endwqrate>
+!!
+!!<beginwqrate>
+!!FIRSTPROP                 : lightlim
+!!SECONDPROP                : lightlim
+!!NAME                      : PhytoLightLimitation
+!!DESCRIPTION               : phytoplankton light limitation factor
+!!MODEL                     : WaterQuality
+!!<endwqrate>
+!!
+!!<beginwqrate>
+!!FIRSTPROP                 : temperaturelim
+!!SECONDPROP                : temperaturelim
+!!NAME                      : PhytoTempLimitation
+!!DESCRIPTION               : phytoplankton temperature limitation factor
+!!MODEL                     : WaterQuality
+!!<endwqrate>
+!!
+!!<beginwqrate>
+!!FIRSTPROP                 : nitrogenlim
+!!SECONDPROP                : nitrogenlim
+!!NAME                      : PhytoNitrogenLimitation
+!!DESCRIPTION               : phytoplankton nitrogen limitation factor
+!!MODEL                     : WaterQuality
+!!<endwqrate>
+!!
+!!<beginwqrate>
+!!FIRSTPROP                 : phosphoruslim
+!!SECONDPROP                : phosphoruslim
+!!NAME                      : PhytoPhosphorusLimitation
+!!DESCRIPTION               : phytoplankton phosphorus limitation factor
+!!MODEL                     : WaterQuality
+!!<endwqrate>
+!!
+!!<beginwqrate>
+!!FIRSTPROP                 : phytoplankton
+!!SECONDPROP                : phytoplankton
+!!NAME                      : PhytoOwnRates
+!!DESCRIPTION               : phytoplankton growth excretion respiration mortality
+!!MODEL                     : WaterQuality
+!!<endwqrate>
+!!
+!!<beginwqrate>
+!!FIRSTPROP                 : zooplankton
+!!SECONDPROP                : zooplankton
+!!NAME                      : ZooOwnRates
+!!DESCRIPTION               : zooplankton growth excretion respiration mortality
+!!MODEL                     : WaterQuality
+!!<endwqrate>
+!!
+!!
+!!<beginwqrate>
+!!FIRSTPROP                 : zooplankton
+!!SECONDPROP                : phytoplankton
+!!NAME                      : PhytoGrazing
+!!DESCRIPTION               : phytoplankton grazed by zoo
+!!MODEL                     : WaterQuality
+!!<endwqrate>
+!!
+!!<beginwqrate>
+!!FIRSTPROP                 : phytoplankton
+!!SECONDPROP                : inorganic phosphorus
+!!NAME                      : PhytoAssimilationExcretionIP
+!!DESCRIPTION               : phytoplankton assmilation and excretion of inorganic phosphorus
+!!MODEL                     : WaterQuality
+!!<endwqrate>
+!!
+!!<beginwqrate>
+!!FIRSTPROP                 : phytoplankton
+!!SECONDPROP                : ammonia
+!!NAME                      : PhytoAssimilationExcretionAmmonia
+!!DESCRIPTION               : phytoplankton assmilation and excretion of ammonia
+!!MODEL                     : WaterQuality
+!!<endwqrate>
+!!
+!!<beginwqrate>
+!!FIRSTPROP                 : phytoplankton
+!!SECONDPROP                : nitrate
+!!NAME                      : PhytoAssimilationNitrate
+!!DESCRIPTION               : phytoplankton assmilation of nitrate
+!!MODEL                     : WaterQuality
+!!<endwqrate>
+
+!For more information about MOHID please visit MOHID's forum: http://www.mohid.com/forum/
+!Copyright (C) 2013. Action Modulers. http://www.actionmodulers.com
+!

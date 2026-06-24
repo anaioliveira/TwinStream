@@ -1,0 +1,31 @@
+NUMBER_OF_METEO_SOLUTIONS : 2
+
+# METEO FILES FOR MOHID
+PATH_TO_BOUNDARY_CONDITIONS : F:\OperationalModels\OPTejo\MOHID\GeneralData\BoundaryConditions\
+METEO_FILENAME_TO_MOHID : meteo
+
+::begin_meteo1
+GLUE : 0
+INTERPOLATE : 1
+WORKING_DIRECTORY : F:\OperationalModels\OPTejo\GetMeteo\WRF_MeteogGalicia\
+
+# METEO FILES INFORMATION
+ORIGIN_METEO_FOLDER : \\mldata\MLDATA02\Meteo\WRF_MeteoGalicia\d02\hdf\
+FILE_PREFIX : 
+FATHER_GRID : F:\OperationalModels\OPTejo\GetMeteo\Grids\Batim_MeteoGalicia_d02.dat
+# CONVERT TOOL
+CONVERT_PATH : F:\OperationalModels\OPTejo\GetMeteo\WRF_MeteogGalicia\ConvertToHDF5\
+::end_meteo1
+
+::begin_meteo2
+GLUE : 0
+INTERPOLATE : 1
+WORKING_DIRECTORY : F:\OperationalModels\OPTejo\GetMeteo\AROME\
+
+# METEO FILES INFORMATION
+ORIGIN_METEO_FOLDER : \\mldata\MLDATA02\Meteo\AROME_IPMA\hdf\
+FILE_PREFIX : 
+FATHER_GRID : F:\OperationalModels\OPTejo\GetMeteo\Grids\Batim_AROME.dat
+# CONVERT TOOL
+CONVERT_PATH : F:\OperationalModels\OPTejo\GetMeteo\AROME\ConvertToHDF5\
+::end_meteo2

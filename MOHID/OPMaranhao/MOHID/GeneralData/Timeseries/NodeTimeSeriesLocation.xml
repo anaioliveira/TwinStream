@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NamedGeometryCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NamedGeometries>
+    <NamedGeometry>
+      <ID>0</ID>
+      <Name>Outlet</Name>
+      <ExternalID>3</ExternalID>
+      <GeometryWKT>POINT (-7.966437 39.021586)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>1</ID>
+      <Name>RibeiraAlcorrego</Name>
+      <ExternalID>27</ExternalID>
+      <GeometryWKT>POINT (-7.936437 39.033586)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>2</ID>
+      <Name>RibeiroProvenca</Name>
+      <ExternalID>285</ExternalID>
+      <GeometryWKT>POINT (-7.822437 39.069586)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>3</ID>
+      <Name>RibeiraCaniceira</Name>
+      <ExternalID>392</ExternalID>
+      <GeometryWKT>POINT (-7.792437 39.033586)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>4</ID>
+      <Name>RibeiraSousel</Name>
+      <ExternalID>545</ExternalID>
+      <GeometryWKT>POINT (-7.750437 39.027586)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>5</ID>
+      <Name>RibeiraGrande</Name>
+      <ExternalID>524</ExternalID>
+      <GeometryWKT>POINT (-7.756437 39.039586)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>6</ID>
+      <Name>RibeiraSarrazola</Name>
+      <ExternalID>327</ExternalID>
+      <GeometryWKT>POINT (-7.810437 39.117586)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>7</ID>
+      <Name>RibeiroTerrujo</Name>
+      <ExternalID>250</ExternalID>
+      <GeometryWKT>POINT (-7.834437 39.129586)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>8</ID>
+      <Name>RibeiraSeda</Name>
+      <ExternalID>290</ExternalID>
+      <GeometryWKT>POINT (-7.822437 39.171586)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>9</ID>
+      <Name>PteVilaFormosa</Name>
+      <ExternalID>449</ExternalID>
+      <GeometryWKT>POINT (-7.780437 39.213586)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+  </NamedGeometries>
+</NamedGeometryCollection>

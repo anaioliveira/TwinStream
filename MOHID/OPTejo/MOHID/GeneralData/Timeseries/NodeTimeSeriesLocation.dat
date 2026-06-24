@@ -1,0 +1,37 @@
+!Time Series Locations for F:\Ana_Projetos\1_TwinStream\MOHID\Tejo\GeneralData\DigitalTerrain\Drainage Network.dnt
+DT_OUTPUT_TIME            : 3600
+MAX_BUFFER_SIZE           : 10000
+<BeginNodeTimeSerie>
+NODE_ID                   : 8
+NAME                      : OutletTejo
+COORD_X                   : -8.5400001
+COORD_Y                   : 39.32
+<EndNodeTimeSerie>
+
+<BeginNodeTimeSerie>
+NODE_ID                   : 866
+NAME                      : Tejo_1
+COORD_X                   : -6.2115
+COORD_Y                   : 39.58
+<EndNodeTimeSerie>
+
+<BeginNodeTimeSerie>
+NODE_ID                   : 877
+NAME                      : Tejo_2
+COORD_X                   : -6.1892
+COORD_Y                   : 39.7712
+<EndNodeTimeSerie>
+
+<BeginNodeTimeSerie>
+NODE_ID                   : 925
+NAME                      : Tejo_3
+COORD_X                   : -6.1104
+COORD_Y                   : 40.05
+<EndNodeTimeSerie>
+
+<BeginNodeTimeSerie>
+NODE_ID                   : 941
+NAME                      : Tejo_4
+COORD_X                   : -6.0989
+COORD_Y                   : 40.34
+<EndNodeTimeSerie>

@@ -1,0 +1,9 @@
+TOPOGRAPHIC_FILE          : F:\Ana_Projetos\1_TwinStream\MOHID\Tejo\GeneralData\DigitalTerrain\DTM_Burned_ND_ND.dat
+TRESHOLD_AREA             : 50000000
+DELINEATE_BASIN           : 1
+OUTLET_I                  : 21
+OUTLET_J                  : 34
+WRITE_DELINEATION         : 1
+DELINEATION_FILE          : F:\Ana_Projetos\1_TwinStream\MOHID\Tejo\GeneralData\DigitalTerrain\Delineation.xy
+WRITE_REACHES             : 1
+REACHES_FILE              : F:\Ana_Projetos\1_TwinStream\MOHID\Tejo\GeneralData\DigitalTerrain\Drainage Network.dnt

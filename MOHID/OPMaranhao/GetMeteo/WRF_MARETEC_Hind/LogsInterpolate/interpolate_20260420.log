@@ -1,0 +1,640 @@
+ -------------------------- MOHID -------------------------
+ 
+       AUTHOR   : IST/MARETEC, Marine Modelling Group      
+       WWW      : http://www.mohid.com
+ 
+ 
+ Copyright (C) 1985, 1998, 2002, 2006.
+ Instituto Superior Tecnico, Technical University of Lisbon
+ -------------------------- MOHID -------------------------
+ 
+ Constructing ConvertToHDF5
+ Please Wait...
+ 
+ Running ConvertToHDF5...
+ 
+ INTERPOLATE GRIDS                                                              
+                                                  
+ Reading instructions...
+ 
+ Type of interpolation : Triangulation
+ 
+ Constructing father grid...
+ The grid is not inside one UTM cell
+ Max, Min Lon  -3.857529      -13.97069    
+ Max, Min Lat   45.32897       33.96416    
+ The grid is not inside one UTM cell
+ Max, Min Lon  -3.857529      -13.97069    
+ Max, Min Lat   45.32897       33.96416    
+ Using Lambert Conformal Conic Projection
+ with parameters :
+ SP1                  =    30.00000    
+ SP2                  =    60.00000    
+ Reference Longitude  =   -8.914108    
+ Reference Latitude   =    39.64656    
+ 
+ Constructing new grid...
+ Constructing communication between grids...
+ Number of instants in available data:           97
+ Reading air temperature fields
+ Interpolating : air temperature_00001           2
+ Interpolating : air temperature_00002           4
+ Interpolating : air temperature_00003           6
+ Interpolating : air temperature_00004           8
+ Interpolating : air temperature_00005          10
+ Interpolating : air temperature_00006          12
+ Interpolating : air temperature_00007          14
+ Interpolating : air temperature_00008          16
+ Interpolating : air temperature_00009          18
+ Interpolating : air temperature_00010          20
+ Interpolating : air temperature_00011          22
+ Interpolating : air temperature_00012          24
+ Interpolating : air temperature_00013          26
+ Interpolating : air temperature_00014          28
+ Interpolating : air temperature_00015          30
+ Interpolating : air temperature_00016          32
+ Interpolating : air temperature_00017          34
+ Interpolating : air temperature_00018          36
+ Interpolating : air temperature_00019          38
+ Interpolating : air temperature_00020          40
+ Interpolating : air temperature_00021          42
+ Interpolating : air temperature_00022          44
+ Interpolating : air temperature_00023          46
+ Interpolating : air temperature_00024          48
+ Interpolating : air temperature_00025          50
+ Interpolating : air temperature_00026          52
+ Interpolating : air temperature_00027          54
+ Interpolating : air temperature_00028          56
+ Interpolating : air temperature_00029          58
+ Interpolating : air temperature_00030          60
+ Interpolating : air temperature_00031          62
+ Interpolating : air temperature_00032          64
+ Interpolating : air temperature_00033          66
+ Interpolating : air temperature_00034          68
+ Interpolating : air temperature_00035          70
+ Interpolating : air temperature_00036          72
+ Interpolating : air temperature_00037          74
+ Interpolating : air temperature_00038          76
+ Interpolating : air temperature_00039          78
+ Interpolating : air temperature_00040          80
+ Interpolating : air temperature_00041          82
+ Interpolating : air temperature_00042          84
+ Interpolating : air temperature_00043          86
+ Interpolating : air temperature_00044          88
+ Interpolating : air temperature_00045          90
+ Interpolating : air temperature_00046          92
+ Interpolating : air temperature_00047          94
+ Interpolating : air temperature_00048          96
+ Interpolating : air temperature_00049          98
+ Interpolating : air temperature_00050         100
+ Interpolating : air temperature_00051         102
+ Interpolating : air temperature_00052         104
+ Interpolating : air temperature_00053         106
+ Interpolating : air temperature_00054         108
+ Interpolating : air temperature_00055         110
+ Interpolating : air temperature_00056         112
+ Interpolating : air temperature_00057         114
+ Interpolating : air temperature_00058         116
+ Interpolating : air temperature_00059         118
+ Interpolating : air temperature_00060         120
+ Interpolating : air temperature_00061         122
+ Interpolating : air temperature_00062         124
+ Interpolating : air temperature_00063         126
+ Interpolating : air temperature_00064         128
+ Interpolating : air temperature_00065         130
+ Interpolating : air temperature_00066         132
+ Interpolating : air temperature_00067         134
+ Interpolating : air temperature_00068         136
+ Interpolating : air temperature_00069         138
+ Interpolating : air temperature_00070         140
+ Interpolating : air temperature_00071         142
+ Interpolating : air temperature_00072         144
+ Interpolating : air temperature_00073         146
+ Interpolating : air temperature_00074         148
+ Interpolating : air temperature_00075         150
+ Interpolating : air temperature_00076         152
+ Interpolating : air temperature_00077         154
+ Interpolating : air temperature_00078         156
+ Interpolating : air temperature_00079         158
+ Interpolating : air temperature_00080         160
+ Interpolating : air temperature_00081         162
+ Interpolating : air temperature_00082         164
+ Interpolating : air temperature_00083         166
+ Interpolating : air temperature_00084         168
+ Interpolating : air temperature_00085         170
+ Interpolating : air temperature_00086         172
+ Interpolating : air temperature_00087         174
+ Interpolating : air temperature_00088         176
+ Interpolating : air temperature_00089         178
+ Interpolating : air temperature_00090         180
+ Interpolating : air temperature_00091         182
+ Interpolating : air temperature_00092         184
+ Interpolating : air temperature_00093         186
+ Interpolating : air temperature_00094         188
+ Interpolating : air temperature_00095         190
+ Interpolating : air temperature_00096         192
+ Interpolating : air temperature_00097         194
+ Reading precipitation fields
+ Interpolating : precipitation_00001         196
+ Interpolating : precipitation_00002         198
+ Interpolating : precipitation_00003         200
+ Interpolating : precipitation_00004         202
+ Interpolating : precipitation_00005         204
+ Interpolating : precipitation_00006         206
+ Interpolating : precipitation_00007         208
+ Interpolating : precipitation_00008         210
+ Interpolating : precipitation_00009         212
+ Interpolating : precipitation_00010         214
+ Interpolating : precipitation_00011         216
+ Interpolating : precipitation_00012         218
+ Interpolating : precipitation_00013         220
+ Interpolating : precipitation_00014         222
+ Interpolating : precipitation_00015         224
+ Interpolating : precipitation_00016         226
+ Interpolating : precipitation_00017         228
+ Interpolating : precipitation_00018         230
+ Interpolating : precipitation_00019         232
+ Interpolating : precipitation_00020         234
+ Interpolating : precipitation_00021         236
+ Interpolating : precipitation_00022         238
+ Interpolating : precipitation_00023         240
+ Interpolating : precipitation_00024         242
+ Interpolating : precipitation_00025         244
+ Interpolating : precipitation_00026         246
+ Interpolating : precipitation_00027         248
+ Interpolating : precipitation_00028         250
+ Interpolating : precipitation_00029         252
+ Interpolating : precipitation_00030         254
+ Interpolating : precipitation_00031         256
+ Interpolating : precipitation_00032         258
+ Interpolating : precipitation_00033         260
+ Interpolating : precipitation_00034         262
+ Interpolating : precipitation_00035         264
+ Interpolating : precipitation_00036         266
+ Interpolating : precipitation_00037         268
+ Interpolating : precipitation_00038         270
+ Interpolating : precipitation_00039         272
+ Interpolating : precipitation_00040         274
+ Interpolating : precipitation_00041         276
+ Interpolating : precipitation_00042         278
+ Interpolating : precipitation_00043         280
+ Interpolating : precipitation_00044         282
+ Interpolating : precipitation_00045         284
+ Interpolating : precipitation_00046         286
+ Interpolating : precipitation_00047         288
+ Interpolating : precipitation_00048         290
+ Interpolating : precipitation_00049         292
+ Interpolating : precipitation_00050         294
+ Interpolating : precipitation_00051         296
+ Interpolating : precipitation_00052         298
+ Interpolating : precipitation_00053         300
+ Interpolating : precipitation_00054         302
+ Interpolating : precipitation_00055         304
+ Interpolating : precipitation_00056         306
+ Interpolating : precipitation_00057         308
+ Interpolating : precipitation_00058         310
+ Interpolating : precipitation_00059         312
+ Interpolating : precipitation_00060         314
+ Interpolating : precipitation_00061         316
+ Interpolating : precipitation_00062         318
+ Interpolating : precipitation_00063         320
+ Interpolating : precipitation_00064         322
+ Interpolating : precipitation_00065         324
+ Interpolating : precipitation_00066         326
+ Interpolating : precipitation_00067         328
+ Interpolating : precipitation_00068         330
+ Interpolating : precipitation_00069         332
+ Interpolating : precipitation_00070         334
+ Interpolating : precipitation_00071         336
+ Interpolating : precipitation_00072         338
+ Interpolating : precipitation_00073         340
+ Interpolating : precipitation_00074         342
+ Interpolating : precipitation_00075         344
+ Interpolating : precipitation_00076         346
+ Interpolating : precipitation_00077         348
+ Interpolating : precipitation_00078         350
+ Interpolating : precipitation_00079         352
+ Interpolating : precipitation_00080         354
+ Interpolating : precipitation_00081         356
+ Interpolating : precipitation_00082         358
+ Interpolating : precipitation_00083         360
+ Interpolating : precipitation_00084         362
+ Interpolating : precipitation_00085         364
+ Interpolating : precipitation_00086         366
+ Interpolating : precipitation_00087         368
+ Interpolating : precipitation_00088         370
+ Interpolating : precipitation_00089         372
+ Interpolating : precipitation_00090         374
+ Interpolating : precipitation_00091         376
+ Interpolating : precipitation_00092         378
+ Interpolating : precipitation_00093         380
+ Interpolating : precipitation_00094         382
+ Interpolating : precipitation_00095         384
+ Interpolating : precipitation_00096         386
+ Interpolating : precipitation_00097         388
+ Reading relative humidity fields
+ Interpolating : relative humidity_00001         390
+ Interpolating : relative humidity_00002         392
+ Interpolating : relative humidity_00003         394
+ Interpolating : relative humidity_00004         396
+ Interpolating : relative humidity_00005         398
+ Interpolating : relative humidity_00006         400
+ Interpolating : relative humidity_00007         402
+ Interpolating : relative humidity_00008         404
+ Interpolating : relative humidity_00009         406
+ Interpolating : relative humidity_00010         408
+ Interpolating : relative humidity_00011         410
+ Interpolating : relative humidity_00012         412
+ Interpolating : relative humidity_00013         414
+ Interpolating : relative humidity_00014         416
+ Interpolating : relative humidity_00015         418
+ Interpolating : relative humidity_00016         420
+ Interpolating : relative humidity_00017         422
+ Interpolating : relative humidity_00018         424
+ Interpolating : relative humidity_00019         426
+ Interpolating : relative humidity_00020         428
+ Interpolating : relative humidity_00021         430
+ Interpolating : relative humidity_00022         432
+ Interpolating : relative humidity_00023         434
+ Interpolating : relative humidity_00024         436
+ Interpolating : relative humidity_00025         438
+ Interpolating : relative humidity_00026         440
+ Interpolating : relative humidity_00027         442
+ Interpolating : relative humidity_00028         444
+ Interpolating : relative humidity_00029         446
+ Interpolating : relative humidity_00030         448
+ Interpolating : relative humidity_00031         450
+ Interpolating : relative humidity_00032         452
+ Interpolating : relative humidity_00033         454
+ Interpolating : relative humidity_00034         456
+ Interpolating : relative humidity_00035         458
+ Interpolating : relative humidity_00036         460
+ Interpolating : relative humidity_00037         462
+ Interpolating : relative humidity_00038         464
+ Interpolating : relative humidity_00039         466
+ Interpolating : relative humidity_00040         468
+ Interpolating : relative humidity_00041         470
+ Interpolating : relative humidity_00042         472
+ Interpolating : relative humidity_00043         474
+ Interpolating : relative humidity_00044         476
+ Interpolating : relative humidity_00045         478
+ Interpolating : relative humidity_00046         480
+ Interpolating : relative humidity_00047         482
+ Interpolating : relative humidity_00048         484
+ Interpolating : relative humidity_00049         486
+ Interpolating : relative humidity_00050         488
+ Interpolating : relative humidity_00051         490
+ Interpolating : relative humidity_00052         492
+ Interpolating : relative humidity_00053         494
+ Interpolating : relative humidity_00054         496
+ Interpolating : relative humidity_00055         498
+ Interpolating : relative humidity_00056         500
+ Interpolating : relative humidity_00057         502
+ Interpolating : relative humidity_00058         504
+ Interpolating : relative humidity_00059         506
+ Interpolating : relative humidity_00060         508
+ Interpolating : relative humidity_00061         510
+ Interpolating : relative humidity_00062         512
+ Interpolating : relative humidity_00063         514
+ Interpolating : relative humidity_00064         516
+ Interpolating : relative humidity_00065         518
+ Interpolating : relative humidity_00066         520
+ Interpolating : relative humidity_00067         522
+ Interpolating : relative humidity_00068         524
+ Interpolating : relative humidity_00069         526
+ Interpolating : relative humidity_00070         528
+ Interpolating : relative humidity_00071         530
+ Interpolating : relative humidity_00072         532
+ Interpolating : relative humidity_00073         534
+ Interpolating : relative humidity_00074         536
+ Interpolating : relative humidity_00075         538
+ Interpolating : relative humidity_00076         540
+ Interpolating : relative humidity_00077         542
+ Interpolating : relative humidity_00078         544
+ Interpolating : relative humidity_00079         546
+ Interpolating : relative humidity_00080         548
+ Interpolating : relative humidity_00081         550
+ Interpolating : relative humidity_00082         552
+ Interpolating : relative humidity_00083         554
+ Interpolating : relative humidity_00084         556
+ Interpolating : relative humidity_00085         558
+ Interpolating : relative humidity_00086         560
+ Interpolating : relative humidity_00087         562
+ Interpolating : relative humidity_00088         564
+ Interpolating : relative humidity_00089         566
+ Interpolating : relative humidity_00090         568
+ Interpolating : relative humidity_00091         570
+ Interpolating : relative humidity_00092         572
+ Interpolating : relative humidity_00093         574
+ Interpolating : relative humidity_00094         576
+ Interpolating : relative humidity_00095         578
+ Interpolating : relative humidity_00096         580
+ Interpolating : relative humidity_00097         582
+ Reading solar radiation fields
+ Interpolating : solar radiation_00001         584
+ Interpolating : solar radiation_00002         586
+ Interpolating : solar radiation_00003         588
+ Interpolating : solar radiation_00004         590
+ Interpolating : solar radiation_00005         592
+ Interpolating : solar radiation_00006         594
+ Interpolating : solar radiation_00007         596
+ Interpolating : solar radiation_00008         598
+ Interpolating : solar radiation_00009         600
+ Interpolating : solar radiation_00010         602
+ Interpolating : solar radiation_00011         604
+ Interpolating : solar radiation_00012         606
+ Interpolating : solar radiation_00013         608
+ Interpolating : solar radiation_00014         610
+ Interpolating : solar radiation_00015         612
+ Interpolating : solar radiation_00016         614
+ Interpolating : solar radiation_00017         616
+ Interpolating : solar radiation_00018         618
+ Interpolating : solar radiation_00019         620
+ Interpolating : solar radiation_00020         622
+ Interpolating : solar radiation_00021         624
+ Interpolating : solar radiation_00022         626
+ Interpolating : solar radiation_00023         628
+ Interpolating : solar radiation_00024         630
+ Interpolating : solar radiation_00025         632
+ Interpolating : solar radiation_00026         634
+ Interpolating : solar radiation_00027         636
+ Interpolating : solar radiation_00028         638
+ Interpolating : solar radiation_00029         640
+ Interpolating : solar radiation_00030         642
+ Interpolating : solar radiation_00031         644
+ Interpolating : solar radiation_00032         646
+ Interpolating : solar radiation_00033         648
+ Interpolating : solar radiation_00034         650
+ Interpolating : solar radiation_00035         652
+ Interpolating : solar radiation_00036         654
+ Interpolating : solar radiation_00037         656
+ Interpolating : solar radiation_00038         658
+ Interpolating : solar radiation_00039         660
+ Interpolating : solar radiation_00040         662
+ Interpolating : solar radiation_00041         664
+ Interpolating : solar radiation_00042         666
+ Interpolating : solar radiation_00043         668
+ Interpolating : solar radiation_00044         670
+ Interpolating : solar radiation_00045         672
+ Interpolating : solar radiation_00046         674
+ Interpolating : solar radiation_00047         676
+ Interpolating : solar radiation_00048         678
+ Interpolating : solar radiation_00049         680
+ Interpolating : solar radiation_00050         682
+ Interpolating : solar radiation_00051         684
+ Interpolating : solar radiation_00052         686
+ Interpolating : solar radiation_00053         688
+ Interpolating : solar radiation_00054         690
+ Interpolating : solar radiation_00055         692
+ Interpolating : solar radiation_00056         694
+ Interpolating : solar radiation_00057         696
+ Interpolating : solar radiation_00058         698
+ Interpolating : solar radiation_00059         700
+ Interpolating : solar radiation_00060         702
+ Interpolating : solar radiation_00061         704
+ Interpolating : solar radiation_00062         706
+ Interpolating : solar radiation_00063         708
+ Interpolating : solar radiation_00064         710
+ Interpolating : solar radiation_00065         712
+ Interpolating : solar radiation_00066         714
+ Interpolating : solar radiation_00067         716
+ Interpolating : solar radiation_00068         718
+ Interpolating : solar radiation_00069         720
+ Interpolating : solar radiation_00070         722
+ Interpolating : solar radiation_00071         724
+ Interpolating : solar radiation_00072         726
+ Interpolating : solar radiation_00073         728
+ Interpolating : solar radiation_00074         730
+ Interpolating : solar radiation_00075         732
+ Interpolating : solar radiation_00076         734
+ Interpolating : solar radiation_00077         736
+ Interpolating : solar radiation_00078         738
+ Interpolating : solar radiation_00079         740
+ Interpolating : solar radiation_00080         742
+ Interpolating : solar radiation_00081         744
+ Interpolating : solar radiation_00082         746
+ Interpolating : solar radiation_00083         748
+ Interpolating : solar radiation_00084         750
+ Interpolating : solar radiation_00085         752
+ Interpolating : solar radiation_00086         754
+ Interpolating : solar radiation_00087         756
+ Interpolating : solar radiation_00088         758
+ Interpolating : solar radiation_00089         760
+ Interpolating : solar radiation_00090         762
+ Interpolating : solar radiation_00091         764
+ Interpolating : solar radiation_00092         766
+ Interpolating : solar radiation_00093         768
+ Interpolating : solar radiation_00094         770
+ Interpolating : solar radiation_00095         772
+ Interpolating : solar radiation_00096         774
+ Interpolating : solar radiation_00097         776
+ Reading wind velocity X fields
+ Interpolating : wind velocity X_00001         778
+ Interpolating : wind velocity X_00002         780
+ Interpolating : wind velocity X_00003         782
+ Interpolating : wind velocity X_00004         784
+ Interpolating : wind velocity X_00005         786
+ Interpolating : wind velocity X_00006         788
+ Interpolating : wind velocity X_00007         790
+ Interpolating : wind velocity X_00008         792
+ Interpolating : wind velocity X_00009         794
+ Interpolating : wind velocity X_00010         796
+ Interpolating : wind velocity X_00011         798
+ Interpolating : wind velocity X_00012         800
+ Interpolating : wind velocity X_00013         802
+ Interpolating : wind velocity X_00014         804
+ Interpolating : wind velocity X_00015         806
+ Interpolating : wind velocity X_00016         808
+ Interpolating : wind velocity X_00017         810
+ Interpolating : wind velocity X_00018         812
+ Interpolating : wind velocity X_00019         814
+ Interpolating : wind velocity X_00020         816
+ Interpolating : wind velocity X_00021         818
+ Interpolating : wind velocity X_00022         820
+ Interpolating : wind velocity X_00023         822
+ Interpolating : wind velocity X_00024         824
+ Interpolating : wind velocity X_00025         826
+ Interpolating : wind velocity X_00026         828
+ Interpolating : wind velocity X_00027         830
+ Interpolating : wind velocity X_00028         832
+ Interpolating : wind velocity X_00029         834
+ Interpolating : wind velocity X_00030         836
+ Interpolating : wind velocity X_00031         838
+ Interpolating : wind velocity X_00032         840
+ Interpolating : wind velocity X_00033         842
+ Interpolating : wind velocity X_00034         844
+ Interpolating : wind velocity X_00035         846
+ Interpolating : wind velocity X_00036         848
+ Interpolating : wind velocity X_00037         850
+ Interpolating : wind velocity X_00038         852
+ Interpolating : wind velocity X_00039         854
+ Interpolating : wind velocity X_00040         856
+ Interpolating : wind velocity X_00041         858
+ Interpolating : wind velocity X_00042         860
+ Interpolating : wind velocity X_00043         862
+ Interpolating : wind velocity X_00044         864
+ Interpolating : wind velocity X_00045         866
+ Interpolating : wind velocity X_00046         868
+ Interpolating : wind velocity X_00047         870
+ Interpolating : wind velocity X_00048         872
+ Interpolating : wind velocity X_00049         874
+ Interpolating : wind velocity X_00050         876
+ Interpolating : wind velocity X_00051         878
+ Interpolating : wind velocity X_00052         880
+ Interpolating : wind velocity X_00053         882
+ Interpolating : wind velocity X_00054         884
+ Interpolating : wind velocity X_00055         886
+ Interpolating : wind velocity X_00056         888
+ Interpolating : wind velocity X_00057         890
+ Interpolating : wind velocity X_00058         892
+ Interpolating : wind velocity X_00059         894
+ Interpolating : wind velocity X_00060         896
+ Interpolating : wind velocity X_00061         898
+ Interpolating : wind velocity X_00062         900
+ Interpolating : wind velocity X_00063         902
+ Interpolating : wind velocity X_00064         904
+ Interpolating : wind velocity X_00065         906
+ Interpolating : wind velocity X_00066         908
+ Interpolating : wind velocity X_00067         910
+ Interpolating : wind velocity X_00068         912
+ Interpolating : wind velocity X_00069         914
+ Interpolating : wind velocity X_00070         916
+ Interpolating : wind velocity X_00071         918
+ Interpolating : wind velocity X_00072         920
+ Interpolating : wind velocity X_00073         922
+ Interpolating : wind velocity X_00074         924
+ Interpolating : wind velocity X_00075         926
+ Interpolating : wind velocity X_00076         928
+ Interpolating : wind velocity X_00077         930
+ Interpolating : wind velocity X_00078         932
+ Interpolating : wind velocity X_00079         934
+ Interpolating : wind velocity X_00080         936
+ Interpolating : wind velocity X_00081         938
+ Interpolating : wind velocity X_00082         940
+ Interpolating : wind velocity X_00083         942
+ Interpolating : wind velocity X_00084         944
+ Interpolating : wind velocity X_00085         946
+ Interpolating : wind velocity X_00086         948
+ Interpolating : wind velocity X_00087         950
+ Interpolating : wind velocity X_00088         952
+ Interpolating : wind velocity X_00089         954
+ Interpolating : wind velocity X_00090         956
+ Interpolating : wind velocity X_00091         958
+ Interpolating : wind velocity X_00092         960
+ Interpolating : wind velocity X_00093         962
+ Interpolating : wind velocity X_00094         964
+ Interpolating : wind velocity X_00095         966
+ Interpolating : wind velocity X_00096         968
+ Interpolating : wind velocity X_00097         970
+ Reading wind velocity Y fields
+ Interpolating : wind velocity Y_00001         972
+ Interpolating : wind velocity Y_00002         974
+ Interpolating : wind velocity Y_00003         976
+ Interpolating : wind velocity Y_00004         978
+ Interpolating : wind velocity Y_00005         980
+ Interpolating : wind velocity Y_00006         982
+ Interpolating : wind velocity Y_00007         984
+ Interpolating : wind velocity Y_00008         986
+ Interpolating : wind velocity Y_00009         988
+ Interpolating : wind velocity Y_00010         990
+ Interpolating : wind velocity Y_00011         992
+ Interpolating : wind velocity Y_00012         994
+ Interpolating : wind velocity Y_00013         996
+ Interpolating : wind velocity Y_00014         998
+ Interpolating : wind velocity Y_00015        1000
+ Interpolating : wind velocity Y_00016        1002
+ Interpolating : wind velocity Y_00017        1004
+ Interpolating : wind velocity Y_00018        1006
+ Interpolating : wind velocity Y_00019        1008
+ Interpolating : wind velocity Y_00020        1010
+ Interpolating : wind velocity Y_00021        1012
+ Interpolating : wind velocity Y_00022        1014
+ Interpolating : wind velocity Y_00023        1016
+ Interpolating : wind velocity Y_00024        1018
+ Interpolating : wind velocity Y_00025        1020
+ Interpolating : wind velocity Y_00026        1022
+ Interpolating : wind velocity Y_00027        1024
+ Interpolating : wind velocity Y_00028        1026
+ Interpolating : wind velocity Y_00029        1028
+ Interpolating : wind velocity Y_00030        1030
+ Interpolating : wind velocity Y_00031        1032
+ Interpolating : wind velocity Y_00032        1034
+ Interpolating : wind velocity Y_00033        1036
+ Interpolating : wind velocity Y_00034        1038
+ Interpolating : wind velocity Y_00035        1040
+ Interpolating : wind velocity Y_00036        1042
+ Interpolating : wind velocity Y_00037        1044
+ Interpolating : wind velocity Y_00038        1046
+ Interpolating : wind velocity Y_00039        1048
+ Interpolating : wind velocity Y_00040        1050
+ Interpolating : wind velocity Y_00041        1052
+ Interpolating : wind velocity Y_00042        1054
+ Interpolating : wind velocity Y_00043        1056
+ Interpolating : wind velocity Y_00044        1058
+ Interpolating : wind velocity Y_00045        1060
+ Interpolating : wind velocity Y_00046        1062
+ Interpolating : wind velocity Y_00047        1064
+ Interpolating : wind velocity Y_00048        1066
+ Interpolating : wind velocity Y_00049        1068
+ Interpolating : wind velocity Y_00050        1070
+ Interpolating : wind velocity Y_00051        1072
+ Interpolating : wind velocity Y_00052        1074
+ Interpolating : wind velocity Y_00053        1076
+ Interpolating : wind velocity Y_00054        1078
+ Interpolating : wind velocity Y_00055        1080
+ Interpolating : wind velocity Y_00056        1082
+ Interpolating : wind velocity Y_00057        1084
+ Interpolating : wind velocity Y_00058        1086
+ Interpolating : wind velocity Y_00059        1088
+ Interpolating : wind velocity Y_00060        1090
+ Interpolating : wind velocity Y_00061        1092
+ Interpolating : wind velocity Y_00062        1094
+ Interpolating : wind velocity Y_00063        1096
+ Interpolating : wind velocity Y_00064        1098
+ Interpolating : wind velocity Y_00065        1100
+ Interpolating : wind velocity Y_00066        1102
+ Interpolating : wind velocity Y_00067        1104
+ Interpolating : wind velocity Y_00068        1106
+ Interpolating : wind velocity Y_00069        1108
+ Interpolating : wind velocity Y_00070        1110
+ Interpolating : wind velocity Y_00071        1112
+ Interpolating : wind velocity Y_00072        1114
+ Interpolating : wind velocity Y_00073        1116
+ Interpolating : wind velocity Y_00074        1118
+ Interpolating : wind velocity Y_00075        1120
+ Interpolating : wind velocity Y_00076        1122
+ Interpolating : wind velocity Y_00077        1124
+ Interpolating : wind velocity Y_00078        1126
+ Interpolating : wind velocity Y_00079        1128
+ Interpolating : wind velocity Y_00080        1130
+ Interpolating : wind velocity Y_00081        1132
+ Interpolating : wind velocity Y_00082        1134
+ Interpolating : wind velocity Y_00083        1136
+ Interpolating : wind velocity Y_00084        1138
+ Interpolating : wind velocity Y_00085        1140
+ Interpolating : wind velocity Y_00086        1142
+ Interpolating : wind velocity Y_00087        1144
+ Interpolating : wind velocity Y_00088        1146
+ Interpolating : wind velocity Y_00089        1148
+ Interpolating : wind velocity Y_00090        1150
+ Interpolating : wind velocity Y_00091        1152
+ Interpolating : wind velocity Y_00092        1154
+ Interpolating : wind velocity Y_00093        1156
+ Interpolating : wind velocity Y_00094        1158
+ Interpolating : wind velocity Y_00095        1160
+ Interpolating : wind velocity Y_00096        1162
+ Interpolating : wind velocity Y_00097        1164
+ Killing father grid...
+ -------------------------- MOHID -------------------------
+ 
+ Program ConvertToHDF5 successfully terminated
+ 
+ 
+ Total Elapsed Time     :        3450.47   0h 57min 30s
+
+ Total CPU time         :        3442.91
+
+ CPU usage (%)          :          99.78
+
+ 
+ ----------------------------------------------------------

@@ -1,0 +1,21 @@
+!MOHID Studio Sample Data File
+!This file contains the most common options.
+!MODULE: Basin Geometry
+!Please complete and comment/uncomment for your specific needs
+!
+!
+!
+
+!
+!Values found in this file must be consistent with values used during watershed delineation
+!
+!Compute Options
+TRESHOLD_AREA             : 1000000        !minimum area to define first reach
+DELINEATE_BASIN           : 1              !connect/disconnect delineation (only watershed points will be active)
+OUTLET_I                  : 45             !location of the outlet for delineation
+OUTLET_J                  : 15             !location of the outlet for delineation
+
+!
+!For more information about MOHID please visit MOHID's forum: http://www.mohid.com/forum/
+!Copyright (C) 2013. Action Modulers. http://www.actionmodulers.com
+!

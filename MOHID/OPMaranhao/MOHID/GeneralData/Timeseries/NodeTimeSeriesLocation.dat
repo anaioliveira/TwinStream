@@ -1,0 +1,63 @@
+!Time Series Locations for F:\Ana_Projetos\8_Omega\VersoesMOHID\V73_FromV63_ThetaSMaior\Operational\GeneralData\DigitalTerrain\Drainage Network.dnt
+DT_OUTPUT_TIME            : 3600
+MAX_BUFFER_SIZE           : 10000
+<BeginNodeTimeSerie>
+NODE_ID                   : 3
+NAME                      : Outlet
+COORD_X                   : -7.966437
+COORD_Y                   : 39.021586
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 27
+NAME                      : RibeiraAlcorrego
+COORD_X                   : -7.936437
+COORD_Y                   : 39.033586
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 285
+NAME                      : RibeiroProvenca
+COORD_X                   : -7.822437
+COORD_Y                   : 39.069586
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 392
+NAME                      : RibeiraCaniceira
+COORD_X                   : -7.792437
+COORD_Y                   : 39.033586
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 545
+NAME                      : RibeiraSousel
+COORD_X                   : -7.750437
+COORD_Y                   : 39.027586
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 524
+NAME                      : RibeiraGrande
+COORD_X                   : -7.756437
+COORD_Y                   : 39.039586
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 327
+NAME                      : RibeiraSarrazola
+COORD_X                   : -7.810437
+COORD_Y                   : 39.117586
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 250
+NAME                      : RibeiroTerrujo
+COORD_X                   : -7.834437
+COORD_Y                   : 39.129586
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 290
+NAME                      : RibeiraSeda
+COORD_X                   : -7.822437
+COORD_Y                   : 39.171586
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 449
+NAME                      : PteVilaFormosa
+COORD_X                   : -7.780437
+COORD_Y                   : 39.213586
+<EndNodeTimeSerie>

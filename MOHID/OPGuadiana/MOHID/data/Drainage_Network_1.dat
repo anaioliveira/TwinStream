@@ -1,0 +1,38 @@
+!MOHID Studio Sample Data File
+!This file contains the most common options.
+!MODULE: Drainage Network
+!Please complete and comment/uncomment for your specific needs
+!
+!
+!Start / Continuous Computation
+INITIAL_WATER_DEPTH       : 0.05
+CONTINUOUS                : 1
+
+DISCHARGES                : 0
+
+!Compute Options
+NETWORK_FILE              : ../GeneralData/DigitalTerrain/Drainage Network.dnt
+GLOBAL_MANNING            : 0.035  !drainage network manning resistance
+MIN_WATER_DEPTH           : 0.0001
+HYDRODYNAMIC_APROX        : 3      !1 - KinematicWave. 2 - DiffusionWave. 3 - DynamicWave
+ALLOW_BACKWATER           : 1
+DOWNSTREAM_BOUNDARY       : 3      !0 - Dam. 1 - ZeroDepthGradient. 2 - CriticalDepth. 3 - ImposedWaterLevel. 4 - ImposedVelocity
+DEFAULT_VALUE             : -100.   !imposed level in downstream boundary if DOWNSTREAM_BOUNDARY       : 3
+MINIMUM_SLOPE             : 0.0001
+
+!Stability Options
+STABILIZE                 : 0      !connect/disconnect stability criteria
+STABILIZE_FACTOR          : 0.50   !fraction of node volume allowed for volume variation in one time step (if STABILIZE : 1)
+STABILIZE_MIN_FACTOR      : 0.10  !minimum fraction of node maximum volume to start applying stability criteria (if STABILIZE : 1)
+LIMIT_DT_COURANT          : 1      !connect/disconnect limitation of dt by courant number
+MAX_COURANT               : 0.5   !Set to lower values during floods
+
+!Output Options
+TIME_SERIE_LOCATION       : ../GeneralData/Timeseries/NodeTimeSeriesLocation.dat
+OUTPUT_TIME               : 0 3600
+TIME_SERIE_BY_NODES       : 1      !1 - output timeseries by nodes; 0 - output timeseries by properties
+
+!
+!For more information about MOHID please visit MOHID's forum: http://www.mohid.com/forum/
+!Copyright (C) 2013. Action Modulers. http://www.actionmodulers.com
+!

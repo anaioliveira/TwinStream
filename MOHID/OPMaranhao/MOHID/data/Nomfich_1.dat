@@ -1,0 +1,31 @@
+IN_BASIN                  : ..\GeneralData\DigitalTerrain\DTM_ND.dat
+ROOT                      : ..\res
+ROOT_SRT                  : ..\res\Run1\
+SURF_DAT                  : ..\data\Atmosphere_1.dat
+SURF_HDF                  : ..\res\Atmosphere_1.hdf
+BASIN_DATA                : ..\data\Basin_1.dat
+BASIN_HDF                 : ..\res\Basin_1.hdf
+BASIN_FIN                 : ..\res\Basin_1.fin
+BASIN_GEOMETRY            : ..\data\Basin Geometry_1.dat
+DRAINAGE_NETWORK          : ..\data\Drainage Network_1.dat
+DRAINAGE_NETWORK_HDF      : ..\res\DrainageNetwork_1.hdf
+DRAINAGE_NETWORK_FIN      : ..\res\DrainageNetwork_1.fin
+DOMAIN                    : ..\data\Geometry_1.dat
+IN_MODEL                  : ..\data\Model_1.dat
+POROUS_DATA               : ..\data\Porous Media_1.dat
+POROUS_HDF                : ..\res\PorousMedia_1.hdf
+POROUS_FIN                : ..\res\PorousMedia_1.fin
+RUNOFF_DATA               : ..\data\RunOff_1.dat
+RUNOFF_HDF                : ..\res\RunOff_1.hdf
+RUNOFF_FIN                : ..\res\RunOff_1.fin
+VEGETATION_DATA           : ..\data\Vegetation_1.dat
+VEGETATION_HDF            : ..\res\Vegetation_1.hdf
+VEGETATION_FIN            : ..\res\Vegetation_1.fin
+WQDATA                    : ..\data\WaterQuality_1.dat
+POROUS_PROP_DATA          : ..\data\PorousMedia Properties_1.dat
+POROUS_PROP_HDF           : ..\res\PorousMediaProperties_1.hdf
+POROUS_PROP_FIN           : ..\res\PorousMediaProperties_1.fin
+RUNOFF_PROP_DATA          : ..\data\RunOff Properties_1.dat
+RUNOFF_PROP_HDF           : ..\res\RunOffProperties_1.hdf
+RUNOFF_PROP_FIN           : ..\res\RunOffProperties_1.fin
+SQ_DATA                   : ..\data\SedimentQuality_1.dat

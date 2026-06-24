@@ -1,0 +1,27 @@
+<begin_file>
+ACTION                        : INTERPOLATE GRIDS
+TYPE_OF_INTERPOLATION         :  3
+!EXTRAPOLATE_2D                :  3
+START                         : 2026 06 29 00 00 00
+END                           : 2026 06 30 00 00 00
+
+!INTERPOLATION_WINDOW          : -19 32 5 48
+
+<<begin_father>>
+FATHER_FILENAME               : F:/OperationalModels/OPMaranhao/GetMeteo/WRF_MARETEC_Hind/ConvertToHDF5/EntireDomainMeteo.hdf5
+FATHER_GRID_FILENAME          : F:/OperationalModels/OPMaranhao/GetMeteo/Grids/Batim_WRF_MARETEC_Hind.dat
+LEVEL                         : 1
+<<end_father>>
+
+OUTPUTFILENAME                : F:/OperationalModels/OPMaranhao/MOHID/GeneralData/BoundaryConditions/meteo.hdf5
+NEW_GRID_FILENAME             : ..\..\Grids\DTM.dat
+
+<<BeginFields>>
+air temperature
+wind velocity X
+wind velocity Y
+relative humidity
+solar radiation
+precipitation
+<<EndFields>>
+<end_file>

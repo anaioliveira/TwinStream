@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NamedGeometryCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NamedGeometries>
+    <NamedGeometry>
+      <ID>0</ID>
+      <Name>OutletTejo</Name>
+      <ExternalID>8</ExternalID>
+      <GeometryWKT>POINT (-8.5400001 39.32)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+  </NamedGeometries>
+</NamedGeometryCollection>

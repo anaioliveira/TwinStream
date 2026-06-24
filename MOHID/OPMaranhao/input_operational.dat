@@ -1,0 +1,21 @@
+# General keywords
+HINDCAST : 1
+FORECAST : 5
+
+# Preprocessment scripts
+::begin_preprocessment_scripts
+F:/OperationalModels/OPMaranhao/GetMeteo/get_meteo
+::end_preprocessment_scripts
+
+# MOHID runs
+::begin_mohid_script
+F:/OperationalModels/OPMaranhao/MOHID/run_mohid
+::end_mohid_script
+
+# Posprocessment scripts
+::begin_posprocessment_scripts
+::end_posprocessment_scripts
+
+::begin_emails
+********@*****.com
+::end_emails

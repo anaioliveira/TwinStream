@@ -1,0 +1,37 @@
+!Time Series Locations for F:\Ana_Projetos\1_TwinStream\MOHID\Guadiana\GeneralData\DigitalTerrain\Drainage Network.dnt
+DT_OUTPUT_TIME            : 3600
+MAX_BUFFER_SIZE           : 10000
+<BeginNodeTimeSerie>
+NODE_ID                   : 257
+NAME                      : OutletGuadiana
+COORD_X                   : -7.5
+COORD_Y                   : 37.52
+<EndNodeTimeSerie>
+
+! -------International Basin---------
+<BeginNodeTimeSerie>
+NODE_ID                   : 1036
+NAME                      : Guadiana_1
+COORD_X                   : -6.16
+COORD_Y                   : 38.58
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1062
+NAME                      : Guadiana_2
+COORD_X                   : -6.12
+COORD_Y                   : 38.96
+<EndNodeTimeSerie>
+
+! has negative discharge, backwater
+!<BeginNodeTimeSerie>
+!NODE_ID                   : 1064
+!NAME                      : Guadiana_1
+!COORD_X                   : -6.1
+!COORD_Y                   : 38.5
+!<EndNodeTimeSerie>
+!<BeginNodeTimeSerie>
+!NODE_ID                   : 1051
+!NAME                      : Guadiana_2
+!COORD_X                   : -6.14
+!COORD_Y                   : 38.96
+!<EndNodeTimeSerie>

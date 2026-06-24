@@ -1,0 +1,9 @@
+#MOHID INFORMATION
+MOHID_DATA_FOLDER : F:\OperationalModels\OPGuadiana\MOHID\data\
+MOHID_EXE_FOLDER : F:\OperationalModels\OPGuadiana\MOHID\exe\
+MOHID_RES_FOLDER : F:\OperationalModels\OPGuadiana\MOHID\res\
+
+#BACKUP FOLDERS
+HDF_BACKUP_FOLDER : \\192.168.21.10\thredds\MOHID_Land\Watersheds\Guadiana\
+TIMESERIES_BACKUP_FOLDER : F:\OperationalModels\OPGuadiana\Results\Timeseries\
+RESTART_BACKUP_FOLDER : F:\OperationalModels\OPGuadiana\Results\Restart\

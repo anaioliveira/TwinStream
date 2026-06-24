@@ -1,0 +1,39 @@
+ -------------------------- MOHID -------------------------
+ 
+       AUTHOR   : IST/MARETEC, Marine Modelling Group      
+       WWW      : http://www.mohid.com
+ 
+ 
+ Copyright (C) 1985, 1998, 2002, 2006.
+ Instituto Superior Tecnico, Technical University of Lisbon
+ -------------------------- MOHID -------------------------
+ 
+ Constructing ConvertToHDF5
+ Please Wait...
+ 
+ Running ConvertToHDF5...
+ 
+ INTERPOLATE GRIDS                                                              
+                                                  
+ Reading instructions...
+ 
+ Type of interpolation : Triangulation
+ 
+ Constructing father grid...
+ The grid is not inside one UTM cell
+ Max, Min Lon  -3.857529      -13.97069    
+ Max, Min Lat   45.32897       33.96416    
+ The grid is not inside one UTM cell
+ Max, Min Lon  -3.857529      -13.97069    
+ Max, Min Lat   45.32897       33.96416    
+ Using Lambert Conformal Conic Projection
+ with parameters :
+ SP1                  =    30.00000    
+ SP2                  =    60.00000    
+ Reference Longitude  =   -8.914108    
+ Reference Latitude   =    39.64656    
+ 
+ Constructing new grid...
+ Constructing communication between grids...
+ HDF5 file does not exist
+OpenAndReadHDF5File - ModuleInterpolateGrids - ERR60
