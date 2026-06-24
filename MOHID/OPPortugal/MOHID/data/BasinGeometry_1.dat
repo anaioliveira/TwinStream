@@ -1,0 +1,5 @@
+TOPOGRAPHIC_FILE          : ..\GeneralData\DigitalTerrain\dtm_pt_ND2_carved_fix_ND2.dat
+TRESHOLD_AREA             : 50000000
+DELINEATE_BASIN           : 0
+WRITE_REACHES             : 0
+REACHES_FILE              : ..\GeneralData\DigitalTerrain\dn_50000000\DrainageNetwork.dnt

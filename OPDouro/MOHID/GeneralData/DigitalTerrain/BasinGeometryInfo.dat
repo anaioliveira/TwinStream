@@ -1,9 +1,0 @@
-TOPOGRAPHIC_FILE          : D:\OneDrive - Universidade de Lisboa\Debora\Projetos\TwinStream_ModelosHidrologicos\Inputs\DTM_burn_in_river_30m\Douro\dtm_douro_0.02_ND_ND_carved_fix_ND_ND.dat
-TRESHOLD_AREA             : 20000000
-DELINEATE_BASIN           : 1
-OUTLET_I                  : 54
-OUTLET_J                  : 13
-WRITE_DELINEATION         : 1
-DELINEATION_FILE          : D:\OneDrive - Universidade de Lisboa\Debora\Projetos\TwinStream_ModelosHidrologicos\Inputs\DTM_burn_in_river_30m\Douro\Delineation.xy
-WRITE_REACHES             : 1
-REACHES_FILE              : D:\OneDrive - Universidade de Lisboa\Debora\Projetos\TwinStream_ModelosHidrologicos\Inputs\DTM_burn_in_river_30m\Douro\Drainage Network.dnt
