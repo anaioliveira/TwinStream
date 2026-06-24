@@ -17,4 +17,4 @@ BASIN1 : ..\OPDouro\Results\Timeseries\
 BASIN2 : ..\OPTejo\Results\Timeseries\
 BASIN3 : ..\OPGuadiana\Results\Timeseries\
 
-MAIN_MODEL_FOLDER : D:\Debora\OperationalModels\OPPortugal\MOHID\
+MAIN_MODEL_FOLDER : ..\OPPortugal\MOHID\
