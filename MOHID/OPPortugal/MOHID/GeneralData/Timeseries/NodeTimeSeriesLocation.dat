@@ -1,0 +1,698 @@
+!Time Series Locations for D:\OneDrive - Universidade de Lisboa\Debora\Projetos\TwinStream_ModelosHidrologicos\Modelos\Portugal_0.02\GeneralData\DigitalTerrain\dn_50000000\Drainage Network.dnt
+DT_OUTPUT_TIME            : 3600
+MAX_BUFFER_SIZE           : 10000
+
+!--------- International Bains --------- 
+<BeginNodeTimeSerie>
+NODE_ID                   : 6758
+NAME                      : Guadiana_1
+COORD_X                   : -6.14
+COORD_Y                   : 38.96
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 6846
+NAME                      : Guadiana_2
+COORD_X                   : -6.1
+COORD_Y                   : 38.5
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 6526
+NAME                      : Tejo_1
+COORD_X                   : -6.24
+COORD_Y                   : 39.58
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 6673
+NAME                      : Tejo_2
+COORD_X                   : -6.18
+COORD_Y                   : 39.78
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 6813
+NAME                      : Tejo_3
+COORD_X                   : -6.12
+COORD_Y                   : 40.06
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 6584
+NAME                      : Douro_1
+COORD_X                   : -6.22
+COORD_Y                   : 40.88
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 6858
+NAME                      : Douro_2
+COORD_X                   : -6.1
+COORD_Y                   : 41.18
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 6731
+NAME                      : Douro_3
+COORD_X                   : -6.16
+COORD_Y                   : 41.58
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 6765
+NAME                      : Tejo_4
+COORD_X                   : -6.14
+COORD_Y                   : 40.2
+<EndNodeTimeSerie>
+!--------- End International Bains --------- 
+
+<BeginNodeTimeSerie>
+NODE_ID                   : 2774
+NAME                      : ALBUFEIRA ALTO TAMEGA (R.E.)
+COORD_X                   : -7.72
+COORD_Y                   : 41.58
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1560
+NAME                      : ALBUFEIRA DA AGUIEIRA (R.E.)
+COORD_X                   : -8.2
+COORD_Y                   : 40.34
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 6017
+NAME                      : ALBUFEIRA DA BEMPOSTA (R.E.)
+COORD_X                   : -6.46
+COORD_Y                   : 41.3
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1507
+NAME                      : ALBUFEIRA DA BOUCA (R.E.)
+COORD_X                   : -8.22
+COORD_Y                   : 39.86
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1470
+NAME                      : ALBUFEIRA DA CANICADA (R.E.)
+COORD_X                   : -8.24
+COORD_Y                   : 41.66
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2825
+NAME                      : ALBUFEIRA DA LAGOA COMPRIDA (R.E.)
+COORD_X                   : -7.7
+COORD_Y                   : 40.32
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2183
+NAME                      : ALBUFEIRA DA PARADELA (R.E.)
+COORD_X                   : -7.96
+COORD_Y                   : 41.76
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2480
+NAME                      : ALBUFEIRA DA PRACANA (R.E.)
+COORD_X                   : -7.82
+COORD_Y                   : 39.56
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1458
+NAME                      : ALBUFEIRA DA RAIVA (R.E.)
+COORD_X                   : -8.24
+COORD_Y                   : 40.3
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2834
+NAME                      : ALBUFEIRA DA REGUA (R.E.)
+COORD_X                   : -7.7
+COORD_Y                   : 41.14
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 3629
+NAME                      : ALBUFEIRA DA VALEIRA (R.E.)
+COORD_X                   : -7.38
+COORD_Y                   : 41.18
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2612
+NAME                      : ALBUFEIRA DA VAROSA (R.E.)
+COORD_X                   : -7.78
+COORD_Y                   : 41.12
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2057
+NAME                      : ALBUFEIRA DE BELVER (R.E.)
+COORD_X                   : -8
+COORD_Y                   : 39.48
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1263
+NAME                      : ALBUFEIRA DE CASTELO DO BODE (R.E.)
+COORD_X                   : -8.32
+COORD_Y                   : 39.54
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 852
+NAME                      : ALBUFEIRA DE CRESTUMA (R.E.)
+COORD_X                   : -8.48
+COORD_Y                   : 41.08
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2389
+NAME                      : ALBUFEIRA DE DAIVOES (R.E.)
+COORD_X                   : -7.86
+COORD_Y                   : 41.52
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1218
+NAME                      : ALBUFEIRA DE ERMIDA (R.E.)
+COORD_X                   : -8.34
+COORD_Y                   : 40.72
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1707
+NAME                      : ALBUFEIRA DE FRONHAS (R.E.)
+COORD_X                   : -8.14
+COORD_Y                   : 40.24
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2723
+NAME                      : ALBUFEIRA DE GOUVAES (R.E.)
+COORD_X                   : -7.74
+COORD_Y                   : 41.56
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1717
+NAME                      : ALBUFEIRA DE GUILHOFREI (R.E.)
+COORD_X                   : -8.14
+COORD_Y                   : 41.58
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 6441
+NAME                      : ALBUFEIRA DE MIRANDA (R.E.)
+COORD_X                   : -6.28
+COORD_Y                   : 41.48
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 3180
+NAME                      : ALBUFEIRA DE POVOA E MEADAS (R.E.)
+COORD_X                   : -7.56
+COORD_Y                   : 39.48
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1824
+NAME                      : ALBUFEIRA DE SALAMONDE (R.E.)
+COORD_X                   : -8.1
+COORD_Y                   : 41.68
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2544
+NAME                      : ALBUFEIRA DE SANTA LUZIA (R.E.)
+COORD_X                   : -7.8
+COORD_Y                   : 40.06
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2131
+NAME                      : ALBUFEIRA DE VENDA NOVA (R.E.)
+COORD_X                   : -7.98
+COORD_Y                   : 41.68
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2023
+NAME                      : ALBUFEIRA DE VENDA NOVA FRADES II (R.E.)
+COORD_X                   : -8.02
+COORD_Y                   : 41.7
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 3232
+NAME                      : ALBUFEIRA DE VILAR TABUACO (R.E.)
+COORD_X                   : -7.54
+COORD_Y                   : 40.98
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1521
+NAME                      : ALBUFEIRA DE VILARINHO DAS FURNAS (R.E.)
+COORD_X                   : -8.22
+COORD_Y                   : 41.76
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 3309
+NAME                      : ALBUFEIRA DO ALQUEVA (R.E.)
+COORD_X                   : -7.5
+COORD_Y                   : 38.2
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 3308
+NAME                      : ALBUFEIRA DO ALQUEVA JUSANTE (R.E.)
+COORD_X                   : -7.5
+COORD_Y                   : 38.16
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2297
+NAME                      : ALBUFEIRA DO ALTO CEIRA (R.E.)
+COORD_X                   : -7.9
+COORD_Y                   : 40.16
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1569
+NAME                      : ALBUFEIRA DO ALTO LINDOSO (R.E.)
+COORD_X                   : -8.2
+COORD_Y                   : 41.88
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2390
+NAME                      : ALBUFEIRA DO ALTO RABAGAO (R.E.)
+COORD_X                   : -7.86
+COORD_Y                   : 41.74
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 4563
+NAME                      : ALBUFEIRA DO BAIXO SABOR (R.E.)
+COORD_X                   : -7.02
+COORD_Y                   : 41.22
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1757
+NAME                      : ALBUFEIRA DO CABRIL (R.E.)
+COORD_X                   : -8.12
+COORD_Y                   : 39.92
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 3733
+NAME                      : ALBUFEIRA DO CALDEIRAO (R.E.)
+COORD_X                   : -7.34
+COORD_Y                   : 40.54
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1767
+NAME                      : ALBUFEIRA DO CARRAPATELO (R.E.)
+COORD_X                   : -8.12
+COORD_Y                   : 41.08
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 4413
+NAME                      : ALBUFEIRA DO FEITICEIRO (R.E.)
+COORD_X                   : -7.08
+COORD_Y                   : 41.2
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2427
+NAME                      : ALBUFEIRA DO FRATEL (R.E.)
+COORD_X                   : -7.84
+COORD_Y                   : 39.52
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2882
+NAME                      : ALBUFEIRA DO LAGOACHO (R.E.)
+COORD_X                   : -7.68
+COORD_Y                   : 40.44
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 6240
+NAME                      : ALBUFEIRA DO PICOTE (R.E.)
+COORD_X                   : -6.36
+COORD_Y                   : 41.38
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 4300
+NAME                      : ALBUFEIRA DO POCINHO (R.E.)
+COORD_X                   : -7.12
+COORD_Y                   : 41.14
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1271
+NAME                      : ALBUFEIRA DO RIBEIRADIO (R.E.)
+COORD_X                   : -8.32
+COORD_Y                   : 40.74
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1414
+NAME                      : ALBUFEIRA DO TORRAO (R.E.)
+COORD_X                   : -8.26
+COORD_Y                   : 41.1
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1230
+NAME                      : ALBUFEIRA DO TOUVEDO (R.E.)
+COORD_X                   : -8.34
+COORD_Y                   : 41.82
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 3228
+NAME                      : ALBUFEIRA DO VALE DO ROSSIM (R.E.)
+COORD_X                   : -7.54
+COORD_Y                   : 40.4
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 3538
+NAME                      : ALBUFEIRA FOZ DO TUA (R.E.)
+COORD_X                   : -7.42
+COORD_Y                   : 41.22
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2981
+NAME                      : ACUDE DO PEDROGAO (R.E.)
+COORD_X                   : -7.64
+COORD_Y                   : 38.1
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 960
+NAME                      : ACUDE PONTE COIMBRA
+COORD_X                   : -8.44
+COORD_Y                   : 40.22
+<EndNodeTimeSerie>
+
+<BeginNodeTimeSerie>
+NODE_ID                   : 289
+NAME                      : BENSAFRIM
+COORD_X                   : -8.72
+COORD_Y                   : 37.16
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2799
+NAME                      : BODEGA
+COORD_X                   : -7.7
+COORD_Y                   : 37.18
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2281
+NAME                      : COIRO DA BURRA
+COORD_X                   : -7.9
+COORD_Y                   : 37.1
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2910
+NAME                      : CURRAL DE BOIEIROS
+COORD_X                   : -7.66
+COORD_Y                   : 37.14
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1991
+NAME                      : ENTRADAS
+COORD_X                   : -8.02
+COORD_Y                   : 37.8
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1071
+NAME                      : FOZ DO MOURO
+COORD_X                   : -8.4
+COORD_Y                   : 42.08
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1431
+NAME                      : FOZ DO RIBEIRO
+COORD_X                   : -8.24
+COORD_Y                   : 37.3
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1037
+NAME                      : MOINHO DA GAMITINHA
+COORD_X                   : -8.4
+COORD_Y                   : 38.06
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2364
+NAME                      : MONTE DA PONTE
+COORD_X                   : -7.86
+COORD_Y                   : 37.84
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 4389
+NAME                      : MONTE DA VINHA
+COORD_X                   : -7.08
+COORD_Y                   : 38.84
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 3031
+NAME                      : MONTE DOS FORTES
+COORD_X                   : -7.62
+COORD_Y                   : 37.34
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 3927
+NAME                      : MONTE PISAO
+COORD_X                   : -7.26
+COORD_Y                   : 39.12
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2745
+NAME                      : OEIRAS
+COORD_X                   : -7.72
+COORD_Y                   : 37.66
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 3873
+NAME                      : PONTE ALGALE
+COORD_X                   : -7.28
+COORD_Y                   : 39.06
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1034
+NAME                      : PONTE ALVALADE CAMPILHAS
+COORD_X                   : -8.4
+COORD_Y                   : 37.94
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1080
+NAME                      : PONTE ALVALADE SADO
+COORD_X                   : -8.38
+COORD_Y                   : 37.94
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 47
+NAME                      : PONTE APOSTICA
+COORD_X                   : -9.16
+COORD_Y                   : 38.8
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 93
+NAME                      : PONTE BARNABE
+COORD_X                   : -9.02
+COORD_Y                   : 39
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1109
+NAME                      : PONTE BRANDAO
+COORD_X                   : -8.38
+COORD_Y                   : 41.42
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1101
+NAME                      : PONTE CABOUCO
+COORD_X                   : -8.38
+COORD_Y                   : 40.16
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 59
+NAME                      : PONTE CANAS
+COORD_X                   : -9.12
+COORD_Y                   : 38.84
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 4881
+NAME                      : PONTE CASTRELOS
+COORD_X                   : -6.9
+COORD_Y                   : 41.84
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2308
+NAME                      : PONTE CAVEZ (R.E.)
+COORD_X                   : -7.9
+COORD_Y                   : 41.5
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1057
+NAME                      : PONTE CONRARIA
+COORD_X                   : -8.4
+COORD_Y                   : 40.18
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1019
+NAME                      : PONTE DA BARCA
+COORD_X                   : -8.42
+COORD_Y                   : 41.82
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2883
+NAME                      : PONTE DOBREIRA
+COORD_X                   : -7.68
+COORD_Y                   : 40.54
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 4209
+NAME                      : PONTE GUIDE
+COORD_X                   : -7.16
+COORD_Y                   : 41.64
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 3275
+NAME                      : PONTE JUNCAIS
+COORD_X                   : -7.52
+COORD_Y                   : 40.62
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 3943
+NAME                      : PONTE LILELA
+COORD_X                   : -7.26
+COORD_Y                   : 41.54
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 735
+NAME                      : PONTE MINHOTEIRA
+COORD_X                   : -8.52
+COORD_Y                   : 40.78
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 472
+NAME                      : PONTE MOCATE
+COORD_X                   : -8.64
+COORD_Y                   : 40.08
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 3222
+NAME                      : PONTE PANASCO
+COORD_X                   : -7.54
+COORD_Y                   : 39.44
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 4210
+NAME                      : PONTE PEDRA
+COORD_X                   : -7.16
+COORD_Y                   : 41.66
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 772
+NAME                      : PONTE POMAR
+COORD_X                   : -8.5
+COORD_Y                   : 38.58
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1916
+NAME                      : PONTE POUVES
+COORD_X                   : -8.06
+COORD_Y                   : 40.78
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2922
+NAME                      : PONTE QUINTOS
+COORD_X                   : -7.66
+COORD_Y                   : 37.98
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1161
+NAME                      : PONTE REDONDA
+COORD_X                   : -8.36
+COORD_Y                   : 40.56
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 408
+NAME                      : PONTE RIBEIRA PERNES
+COORD_X                   : -8.66
+COORD_Y                   : 39.38
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2885
+NAME                      : PONTE SANTA CLARA DAO
+COORD_X                   : -7.68
+COORD_Y                   : 40.66
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 666
+NAME                      : PONTE SAO DOMINGOS
+COORD_X                   : -8.54
+COORD_Y                   : 37.94
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 943
+NAME                      : PONTE VALE JOANA
+COORD_X                   : -8.44
+COORD_Y                   : 38.12
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 913
+NAME                      : PONTE VALE MAIOR
+COORD_X                   : -8.46
+COORD_Y                   : 40.7
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 963
+NAME                      : PONTE AGUEDA
+COORD_X                   : -8.44
+COORD_Y                   : 40.56
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1021
+NAME                      : PONTILHAO DE CELEIROS
+COORD_X                   : -8.42
+COORD_Y                   : 41.86
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2973
+NAME                      : PULO DO LOBO
+COORD_X                   : -7.64
+COORD_Y                   : 37.8
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1511
+NAME                      : QUINTA CARVALHAL DO FREIXO
+COORD_X                   : -8.22
+COORD_Y                   : 40.36
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 3010
+NAME                      : QUINTA CASTELO BORGES
+COORD_X                   : -7.64
+COORD_Y                   : 41.14
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1059
+NAME                      : RIBEIRO
+COORD_X                   : -8.4
+COORD_Y                   : 40.56
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 2616
+NAME                      : SANTA MARTA DO ALVAO (R.E.)
+COORD_X                   : -7.78
+COORD_Y                   : 41.54
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 3336
+NAME                      : SARZEDINHO
+COORD_X                   : -7.5
+COORD_Y                   : 41.16
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 3359
+NAME                      : TENENCIA (PORTO DAS AREIAS)
+COORD_X                   : -7.48
+COORD_Y                   : 37.36
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1490
+NAME                      : TORRAO DO ALENTEJO
+COORD_X                   : -8.22
+COORD_Y                   : 38.28
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1500
+NAME                      : TRAMAGAL
+COORD_X                   : -8.22
+COORD_Y                   : 39.46
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 3238
+NAME                      : VALE MENDIZ
+COORD_X                   : -7.54
+COORD_Y                   : 41.24
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 3132
+NAME                      : VASCAO
+COORD_X                   : -7.58
+COORD_Y                   : 37.52
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 449
+NAME                      : VIDIGAL
+COORD_X                   : -8.64
+COORD_Y                   : 37.2
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 1058
+NAME                      : VILA NOVA DE MONSARROS
+COORD_X                   : -8.4
+COORD_Y                   : 40.44
+<EndNodeTimeSerie>

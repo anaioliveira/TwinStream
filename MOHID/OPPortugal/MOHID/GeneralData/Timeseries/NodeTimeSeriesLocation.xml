@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NamedGeometryCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NamedGeometries>
+    <NamedGeometry>
+      <ID>0</ID>
+      <Name>ALBUFEIRA ALTO TAMEGA (R.E.)</Name>
+      <ExternalID>2774</ExternalID>
+      <GeometryWKT>POINT (-7.72 41.58)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>1</ID>
+      <Name>ALBUFEIRA DA AGUIEIRA (R.E.)</Name>
+      <ExternalID>1560</ExternalID>
+      <GeometryWKT>POINT (-8.2 40.34)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>2</ID>
+      <Name>ALBUFEIRA DA BEMPOSTA (R.E.)</Name>
+      <ExternalID>6017</ExternalID>
+      <GeometryWKT>POINT (-6.46 41.3)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>3</ID>
+      <Name>ALBUFEIRA DA BOUCA (R.E.)</Name>
+      <ExternalID>1507</ExternalID>
+      <GeometryWKT>POINT (-8.22 39.86)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>4</ID>
+      <Name>ALBUFEIRA DA CANICADA (R.E.)</Name>
+      <ExternalID>1470</ExternalID>
+      <GeometryWKT>POINT (-8.24 41.66)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>5</ID>
+      <Name>ALBUFEIRA DA LAGOA COMPRIDA (R.E.)</Name>
+      <ExternalID>2825</ExternalID>
+      <GeometryWKT>POINT (-7.7 40.32)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>6</ID>
+      <Name>ALBUFEIRA DA PARADELA (R.E.)</Name>
+      <ExternalID>2183</ExternalID>
+      <GeometryWKT>POINT (-7.96 41.76)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>7</ID>
+      <Name>ALBUFEIRA DA PRACANA (R.E.)</Name>
+      <ExternalID>2480</ExternalID>
+      <GeometryWKT>POINT (-7.82 39.56)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>8</ID>
+      <Name>ALBUFEIRA DA RAIVA (R.E.)</Name>
+      <ExternalID>1458</ExternalID>
+      <GeometryWKT>POINT (-8.24 40.3)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>9</ID>
+      <Name>ALBUFEIRA DA REGUA (R.E.)</Name>
+      <ExternalID>2834</ExternalID>
+      <GeometryWKT>POINT (-7.7 41.14)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>10</ID>
+      <Name>ALBUFEIRA DA VALEIRA (R.E.)</Name>
+      <ExternalID>3629</ExternalID>
+      <GeometryWKT>POINT (-7.38 41.18)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>11</ID>
+      <Name>ALBUFEIRA DA VAROSA (R.E.)</Name>
+      <ExternalID>2612</ExternalID>
+      <GeometryWKT>POINT (-7.78 41.12)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>12</ID>
+      <Name>ALBUFEIRA DE BELVER (R.E.)</Name>
+      <ExternalID>2057</ExternalID>
+      <GeometryWKT>POINT (-8 39.48)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>13</ID>
+      <Name>ALBUFEIRA DE CASTELO DO BODE (R.E.)</Name>
+      <ExternalID>1263</ExternalID>
+      <GeometryWKT>POINT (-8.32 39.54)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>14</ID>
+      <Name>ALBUFEIRA DE CRESTUMA (R.E.)</Name>
+      <ExternalID>852</ExternalID>
+      <GeometryWKT>POINT (-8.48 41.08)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>15</ID>
+      <Name>ALBUFEIRA DE DAIVOES (R.E.)</Name>
+      <ExternalID>2389</ExternalID>
+      <GeometryWKT>POINT (-7.86 41.52)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>16</ID>
+      <Name>ALBUFEIRA DE ERMIDA (R.E.)</Name>
+      <ExternalID>1218</ExternalID>
+      <GeometryWKT>POINT (-8.34 40.72)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>17</ID>
+      <Name>ALBUFEIRA DE FRONHAS (R.E.)</Name>
+      <ExternalID>1707</ExternalID>
+      <GeometryWKT>POINT (-8.14 40.24)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>18</ID>
+      <Name>ALBUFEIRA DE GOUVAES (R.E.)</Name>
+      <ExternalID>2723</ExternalID>
+      <GeometryWKT>POINT (-7.74 41.56)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>19</ID>
+      <Name>ALBUFEIRA DE GUILHOFREI (R.E.)</Name>
+      <ExternalID>1717</ExternalID>
+      <GeometryWKT>POINT (-8.14 41.58)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>20</ID>
+      <Name>ALBUFEIRA DE MIRANDA (R.E.)</Name>
+      <ExternalID>6441</ExternalID>
+      <GeometryWKT>POINT (-6.28 41.48)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>21</ID>
+      <Name>ALBUFEIRA DE POVOA E MEADAS (R.E.)</Name>
+      <ExternalID>3180</ExternalID>
+      <GeometryWKT>POINT (-7.56 39.48)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>22</ID>
+      <Name>ALBUFEIRA DE SALAMONDE (R.E.)</Name>
+      <ExternalID>1824</ExternalID>
+      <GeometryWKT>POINT (-8.1 41.68)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>23</ID>
+      <Name>ALBUFEIRA DE SANTA LUZIA (R.E.)</Name>
+      <ExternalID>2544</ExternalID>
+      <GeometryWKT>POINT (-7.8 40.06)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>24</ID>
+      <Name>ALBUFEIRA DE VENDA NOVA (R.E.)</Name>
+      <ExternalID>2131</ExternalID>
+      <GeometryWKT>POINT (-7.98 41.68)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>25</ID>
+      <Name>ALBUFEIRA DE VENDA NOVA FRADES (R.E.)</Name>
+      <ExternalID>2131</ExternalID>
+      <GeometryWKT>POINT (-7.98 41.68)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>26</ID>
+      <Name>ALBUFEIRA DE VENDA NOVA FRADES II (R.E.)</Name>
+      <ExternalID>2023</ExternalID>
+      <GeometryWKT>POINT (-8.02 41.7)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>27</ID>
+      <Name>ALBUFEIRA DE VILAR TABUACO (R.E.)</Name>
+      <ExternalID>3232</ExternalID>
+      <GeometryWKT>POINT (-7.54 40.98)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>28</ID>
+      <Name>ALBUFEIRA DE VILARINHO DAS FURNAS (R.E.)</Name>
+      <ExternalID>1521</ExternalID>
+      <GeometryWKT>POINT (-8.22 41.76)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>29</ID>
+      <Name>ALBUFEIRA DO ALQUEVA (R.E.)</Name>
+      <ExternalID>3309</ExternalID>
+      <GeometryWKT>POINT (-7.5 38.2)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>30</ID>
+      <Name>ALBUFEIRA DO ALQUEVA JUSANTE (R.E.)</Name>
+      <ExternalID>3308</ExternalID>
+      <GeometryWKT>POINT (-7.5 38.16)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>31</ID>
+      <Name>ALBUFEIRA DO ALTO CEIRA (R.E.)</Name>
+      <ExternalID>2297</ExternalID>
+      <GeometryWKT>POINT (-7.9 40.16)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>32</ID>
+      <Name>ALBUFEIRA DO ALTO LINDOSO (R.E.)</Name>
+      <ExternalID>1569</ExternalID>
+      <GeometryWKT>POINT (-8.2 41.88)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>33</ID>
+      <Name>ALBUFEIRA DO ALTO RABAGAO (R.E.)</Name>
+      <ExternalID>2390</ExternalID>
+      <GeometryWKT>POINT (-7.86 41.74)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>34</ID>
+      <Name>ALBUFEIRA DO BAIXO SABOR (R.E.)</Name>
+      <ExternalID>4563</ExternalID>
+      <GeometryWKT>POINT (-7.02 41.22)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>35</ID>
+      <Name>ALBUFEIRA DO CABRIL (R.E.)</Name>
+      <ExternalID>1757</ExternalID>
+      <GeometryWKT>POINT (-8.12 39.92)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>36</ID>
+      <Name>ALBUFEIRA DO CALDEIRAO (R.E.)</Name>
+      <ExternalID>3733</ExternalID>
+      <GeometryWKT>POINT (-7.34 40.54)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>37</ID>
+      <Name>ALBUFEIRA DO CARRAPATELO (R.E.)</Name>
+      <ExternalID>1767</ExternalID>
+      <GeometryWKT>POINT (-8.12 41.08)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>38</ID>
+      <Name>ALBUFEIRA DO FEITICEIRO (R.E.)</Name>
+      <ExternalID>4413</ExternalID>
+      <GeometryWKT>POINT (-7.08 41.2)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>39</ID>
+      <Name>ALBUFEIRA DO FRATEL (R.E.)</Name>
+      <ExternalID>2427</ExternalID>
+      <GeometryWKT>POINT (-7.84 39.52)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>40</ID>
+      <Name>ALBUFEIRA DO LAGOACHO (R.E.)</Name>
+      <ExternalID>2882</ExternalID>
+      <GeometryWKT>POINT (-7.68 40.44)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>41</ID>
+      <Name>ALBUFEIRA DO PICOTE (R.E.)</Name>
+      <ExternalID>6240</ExternalID>
+      <GeometryWKT>POINT (-6.36 41.38)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>42</ID>
+      <Name>ALBUFEIRA DO POCINHO (R.E.)</Name>
+      <ExternalID>4300</ExternalID>
+      <GeometryWKT>POINT (-7.12 41.14)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>43</ID>
+      <Name>ALBUFEIRA DO RIBEIRADIO (R.E.)</Name>
+      <ExternalID>1271</ExternalID>
+      <GeometryWKT>POINT (-8.32 40.74)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>44</ID>
+      <Name>ALBUFEIRA DO TORRAO (R.E.)</Name>
+      <ExternalID>1414</ExternalID>
+      <GeometryWKT>POINT (-8.26 41.1)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>45</ID>
+      <Name>ALBUFEIRA DO TOUVEDO (R.E.)</Name>
+      <ExternalID>1230</ExternalID>
+      <GeometryWKT>POINT (-8.34 41.82)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>46</ID>
+      <Name>ALBUFEIRA DO VALE DO ROSSIM (R.E.)</Name>
+      <ExternalID>3228</ExternalID>
+      <GeometryWKT>POINT (-7.54 40.4)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>47</ID>
+      <Name>ALBUFEIRA FOZ DO TUA (R.E.)</Name>
+      <ExternalID>3538</ExternalID>
+      <GeometryWKT>POINT (-7.42 41.22)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>48</ID>
+      <Name>ACUDE DO PEDROGAO (R.E.)</Name>
+      <ExternalID>2981</ExternalID>
+      <GeometryWKT>POINT (-7.64 38.1)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>49</ID>
+      <Name>ACUDE PONTE COIMBRA</Name>
+      <ExternalID>960</ExternalID>
+      <GeometryWKT>POINT (-8.44 40.22)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>50</ID>
+      <Name>BEMPOSTA (R.E.)</Name>
+      <ExternalID>6017</ExternalID>
+      <GeometryWKT>POINT (-6.46 41.3)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>51</ID>
+      <Name>BENSAFRIM</Name>
+      <ExternalID>289</ExternalID>
+      <GeometryWKT>POINT (-8.72 37.16)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>52</ID>
+      <Name>BODEGA</Name>
+      <ExternalID>2799</ExternalID>
+      <GeometryWKT>POINT (-7.7 37.18)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>53</ID>
+      <Name>COIRO DA BURRA</Name>
+      <ExternalID>2281</ExternalID>
+      <GeometryWKT>POINT (-7.9 37.1)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>54</ID>
+      <Name>CURRAL DE BOIEIROS</Name>
+      <ExternalID>2910</ExternalID>
+      <GeometryWKT>POINT (-7.66 37.14)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>55</ID>
+      <Name>ENTRADAS</Name>
+      <ExternalID>1991</ExternalID>
+      <GeometryWKT>POINT (-8.02 37.8)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>56</ID>
+      <Name>FOZ DO MOURO</Name>
+      <ExternalID>1071</ExternalID>
+      <GeometryWKT>POINT (-8.4 42.08)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>57</ID>
+      <Name>FOZ DO RIBEIRO</Name>
+      <ExternalID>1431</ExternalID>
+      <GeometryWKT>POINT (-8.24 37.3)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>58</ID>
+      <Name>MOINHO DA GAMITINHA</Name>
+      <ExternalID>1037</ExternalID>
+      <GeometryWKT>POINT (-8.4 38.06)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>59</ID>
+      <Name>MONTE DA PONTE</Name>
+      <ExternalID>2364</ExternalID>
+      <GeometryWKT>POINT (-7.86 37.84)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>60</ID>
+      <Name>MONTE DA VINHA</Name>
+      <ExternalID>4389</ExternalID>
+      <GeometryWKT>POINT (-7.08 38.84)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>61</ID>
+      <Name>MONTE DOS FORTES</Name>
+      <ExternalID>3031</ExternalID>
+      <GeometryWKT>POINT (-7.62 37.34)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>62</ID>
+      <Name>MONTE PISAO</Name>
+      <ExternalID>3927</ExternalID>
+      <GeometryWKT>POINT (-7.26 39.12)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>63</ID>
+      <Name>OEIRAS</Name>
+      <ExternalID>2745</ExternalID>
+      <GeometryWKT>POINT (-7.72 37.66)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>64</ID>
+      <Name>PONTE ALGALE</Name>
+      <ExternalID>3873</ExternalID>
+      <GeometryWKT>POINT (-7.28 39.06)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>65</ID>
+      <Name>PONTE ALVALADE CAMPILHAS</Name>
+      <ExternalID>1034</ExternalID>
+      <GeometryWKT>POINT (-8.4 37.94)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>66</ID>
+      <Name>PONTE ALVALADE SADO</Name>
+      <ExternalID>1080</ExternalID>
+      <GeometryWKT>POINT (-8.38 37.94)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>67</ID>
+      <Name>PONTE APOSTICA</Name>
+      <ExternalID>47</ExternalID>
+      <GeometryWKT>POINT (-9.16 38.8)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>68</ID>
+      <Name>PONTE BARNABE</Name>
+      <ExternalID>93</ExternalID>
+      <GeometryWKT>POINT (-9.02 39)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>69</ID>
+      <Name>PONTE BRANDAO</Name>
+      <ExternalID>1109</ExternalID>
+      <GeometryWKT>POINT (-8.38 41.42)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>70</ID>
+      <Name>PONTE CABOUCO</Name>
+      <ExternalID>1101</ExternalID>
+      <GeometryWKT>POINT (-8.38 40.16)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>71</ID>
+      <Name>PONTE CANAS</Name>
+      <ExternalID>59</ExternalID>
+      <GeometryWKT>POINT (-9.12 38.84)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>72</ID>
+      <Name>PONTE CASTRELOS</Name>
+      <ExternalID>4881</ExternalID>
+      <GeometryWKT>POINT (-6.9 41.84)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>73</ID>
+      <Name>PONTE CAVEZ (R.E.)</Name>
+      <ExternalID>2308</ExternalID>
+      <GeometryWKT>POINT (-7.9 41.5)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>74</ID>
+      <Name>PONTE CONRARIA</Name>
+      <ExternalID>1057</ExternalID>
+      <GeometryWKT>POINT (-8.4 40.18)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>75</ID>
+      <Name>PONTE DA BARCA</Name>
+      <ExternalID>1019</ExternalID>
+      <GeometryWKT>POINT (-8.42 41.82)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>76</ID>
+      <Name>PONTE DOBREIRA</Name>
+      <ExternalID>2883</ExternalID>
+      <GeometryWKT>POINT (-7.68 40.54)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>77</ID>
+      <Name>PONTE GUIDE</Name>
+      <ExternalID>4209</ExternalID>
+      <GeometryWKT>POINT (-7.16 41.64)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>78</ID>
+      <Name>PONTE JUNCAIS</Name>
+      <ExternalID>3275</ExternalID>
+      <GeometryWKT>POINT (-7.52 40.62)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>79</ID>
+      <Name>PONTE LILELA</Name>
+      <ExternalID>3943</ExternalID>
+      <GeometryWKT>POINT (-7.26 41.54)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>80</ID>
+      <Name>PONTE MINHOTEIRA</Name>
+      <ExternalID>735</ExternalID>
+      <GeometryWKT>POINT (-8.52 40.78)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>81</ID>
+      <Name>PONTE MOCATE</Name>
+      <ExternalID>472</ExternalID>
+      <GeometryWKT>POINT (-8.64 40.08)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>82</ID>
+      <Name>PONTE PANASCO</Name>
+      <ExternalID>3222</ExternalID>
+      <GeometryWKT>POINT (-7.54 39.44)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>83</ID>
+      <Name>PONTE PEDRA</Name>
+      <ExternalID>4210</ExternalID>
+      <GeometryWKT>POINT (-7.16 41.66)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>84</ID>
+      <Name>PONTE POMAR</Name>
+      <ExternalID>772</ExternalID>
+      <GeometryWKT>POINT (-8.5 38.58)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>85</ID>
+      <Name>PONTE POUVES</Name>
+      <ExternalID>1916</ExternalID>
+      <GeometryWKT>POINT (-8.06 40.78)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>86</ID>
+      <Name>PONTE QUINTOS</Name>
+      <ExternalID>2922</ExternalID>
+      <GeometryWKT>POINT (-7.66 37.98)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>87</ID>
+      <Name>PONTE REDONDA</Name>
+      <ExternalID>1161</ExternalID>
+      <GeometryWKT>POINT (-8.36 40.56)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>88</ID>
+      <Name>PONTE RIBEIRA PERNES</Name>
+      <ExternalID>408</ExternalID>
+      <GeometryWKT>POINT (-8.66 39.38)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>89</ID>
+      <Name>PONTE SANTA CLARA DAO</Name>
+      <ExternalID>2885</ExternalID>
+      <GeometryWKT>POINT (-7.68 40.66)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>90</ID>
+      <Name>PONTE SAO DOMINGOS</Name>
+      <ExternalID>666</ExternalID>
+      <GeometryWKT>POINT (-8.54 37.94)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>91</ID>
+      <Name>PONTE VALE JOANA</Name>
+      <ExternalID>943</ExternalID>
+      <GeometryWKT>POINT (-8.44 38.12)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>92</ID>
+      <Name>PONTE VALE MAIOR</Name>
+      <ExternalID>913</ExternalID>
+      <GeometryWKT>POINT (-8.46 40.7)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>93</ID>
+      <Name>PONTE AGUEDA</Name>
+      <ExternalID>963</ExternalID>
+      <GeometryWKT>POINT (-8.44 40.56)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>94</ID>
+      <Name>PONTILHAO DE CELEIROS</Name>
+      <ExternalID>1021</ExternalID>
+      <GeometryWKT>POINT (-8.42 41.86)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>95</ID>
+      <Name>PULO DO LOBO</Name>
+      <ExternalID>2973</ExternalID>
+      <GeometryWKT>POINT (-7.64 37.8)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>96</ID>
+      <Name>QUINTA CARVALHAL DO FREIXO</Name>
+      <ExternalID>1511</ExternalID>
+      <GeometryWKT>POINT (-8.22 40.36)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>97</ID>
+      <Name>QUINTA CASTELO BORGES</Name>
+      <ExternalID>3010</ExternalID>
+      <GeometryWKT>POINT (-7.64 41.14)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>98</ID>
+      <Name>RIBEIRO</Name>
+      <ExternalID>1059</ExternalID>
+      <GeometryWKT>POINT (-8.4 40.56)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>99</ID>
+      <Name>SANTA MARTA DO ALVAO (R.E.)</Name>
+      <ExternalID>2616</ExternalID>
+      <GeometryWKT>POINT (-7.78 41.54)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>100</ID>
+      <Name>SARZEDINHO</Name>
+      <ExternalID>3336</ExternalID>
+      <GeometryWKT>POINT (-7.5 41.16)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>101</ID>
+      <Name>TENENCIA (PORTO DAS AREIAS)</Name>
+      <ExternalID>3359</ExternalID>
+      <GeometryWKT>POINT (-7.48 37.36)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>102</ID>
+      <Name>TORRAO DO ALENTEJO</Name>
+      <ExternalID>1490</ExternalID>
+      <GeometryWKT>POINT (-8.22 38.28)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>103</ID>
+      <Name>TRAMAGAL</Name>
+      <ExternalID>1500</ExternalID>
+      <GeometryWKT>POINT (-8.22 39.46)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>104</ID>
+      <Name>VALE MENDIZ</Name>
+      <ExternalID>3238</ExternalID>
+      <GeometryWKT>POINT (-7.54 41.24)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>105</ID>
+      <Name>VASCAO</Name>
+      <ExternalID>3132</ExternalID>
+      <GeometryWKT>POINT (-7.58 37.52)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>106</ID>
+      <Name>VIDIGAL</Name>
+      <ExternalID>449</ExternalID>
+      <GeometryWKT>POINT (-8.64 37.2)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>107</ID>
+      <Name>VILA NOVA DE MONSARROS</Name>
+      <ExternalID>1058</ExternalID>
+      <GeometryWKT>POINT (-8.4 40.44)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+  </NamedGeometries>
+</NamedGeometryCollection>
