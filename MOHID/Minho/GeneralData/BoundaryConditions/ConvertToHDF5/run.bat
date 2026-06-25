@@ -1,2 +1,0 @@
-ConvertToHDF5.exe
-pause

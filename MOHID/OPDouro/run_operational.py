@@ -22,13 +22,13 @@ import read_input_operational_file
 def send_email(receivers, text):
 
     msg = EmailMessage()
-    msg["From"] = 'operacionaismohidland@gmail.com'
+    msg["From"] = '**********'
     msg["To"] = receivers
     msg["Subject"] = 'Error in OPDouro.'
     msg.set_content(text)
 
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
-        server.login('operacionaismohidland@gmail.com', 'gidd pybo ndst tlgb')
+        server.login('**********', '**********')
         server.send_message(msg)
     
     return
