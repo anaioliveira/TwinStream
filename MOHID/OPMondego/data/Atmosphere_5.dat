@@ -1,0 +1,100 @@
+!Output Options
+OUTPUT_TIME               : 0 3600
+
+<beginproperty>
+NAME                      : precipitation
+UNITS                     : mm
+DESCRIPTION               : Set units to 'mm/hour' for constant precipitation and 'mm' for values from time series or hdf.
+FILE_IN_TIME              : HDF
+FILENAME                  : ../GeneralData/BoundaryConditions/meteo.hdf5
+DEFAULTVALUE              : 0
+OUTPUT_HDF                : 1
+TIME_SERIE                : 0
+ACCUMULATE_VALUES         : 1
+<endproperty>
+
+<beginproperty>
+NAME                      : air temperature
+UNITS                     : ºC
+DESCRIPTION               : Air temperature is used for evaporation. snow melt and heat fluxes.
+FILE_IN_TIME              : HDF
+FILENAME                  : ../GeneralData/BoundaryConditions/meteo.hdf5
+DEFAULTVALUE              : 20
+OUTPUT_HDF                : 1
+TIME_SERIE                : 0
+<endproperty>
+
+<beginproperty>
+NAME                      : solar radiation
+UNITS                     : W/m2
+DESCRIPTION               : Solar radiation is used for heat fluxes and fecal coliform decay.
+FILE_IN_TIME              : HDF
+FILENAME                  : ../GeneralData/BoundaryConditions/meteo.hdf5
+DEFAULTVALUE              : 1
+OUTPUT_HDF                : 1
+TIME_SERIE                : 0
+<endproperty>
+
+<beginproperty>
+NAME                      : cloud cover
+UNITS                     : %
+DESCRIPTION               : Cloud cover is used for evaporation and heat fluxes.
+FILE_IN_TIME              : NONE
+DEFAULTVALUE              : 60
+INITIALIZATION_METHOD     : CONSTANT
+REMAIN_CONSTANT           : 1
+OUTPUT_HDF                : 0
+TIME_SERIE                : 0
+CLOUD_COVER_METHOD        : 0
+<endproperty>
+
+<beginproperty>
+NAME                      : relative humidity
+UNITS                     : fraction
+DESCRIPTION               : Relative humidity is used for evaporation and heat fluxes. Values are give as fraction [0-1].
+FILE_IN_TIME              : HDF
+FILENAME                  : ../GeneralData/BoundaryConditions/meteo.hdf5
+DEFAULTVALUE              : 0.6
+OUTPUT_HDF                : 1
+TIME_SERIE                : 0
+<endproperty>
+
+<beginproperty>
+NAME                      : wind velocity
+UNITS                     : m/s
+DESCRIPTION               : wind velocity
+FILE_IN_TIME              : HDF
+FIELD4D                   : 0
+SPATIAL_INTERPOL          : 0
+EXTRAPOLATE               : 0
+FILENAME_X                : ../GeneralData/BoundaryConditions/meteo.hdf5
+FILENAME_Y                : ../GeneralData/BoundaryConditions/meteo.hdf5
+HDF_FIELD_NAME_X          : wind velocity X
+HDF_FIELD_NAME_Y          : wind velocity Y
+!FILE_IN_TIME              : NONE
+DEFAULTVALUE              : 0.0 0.0
+REMAIN_CONSTANT           : 0
+TIME_SERIE                : 0
+OUTPUT_HDF                : 1
+<endproperty>
+
+<beginproperty>
+NAME                      : wind modulus
+UNITS                     : m/s
+DESCRIPTION               : wind velocity
+!FILE_IN_TIME              : HDF
+FIELD4D                   : 0
+SPATIAL_INTERPOL          : 0
+EXTRAPOLATE               : 0
+!FILENAME                  : ../GeneralData/BoundaryConditions/meteo.hdf5
+FILE_IN_TIME              : NONE
+DEFAULTVALUE              : 0.0
+REMAIN_CONSTANT           : 0
+TIME_SERIE                : 0
+OUTPUT_HDF                : 1
+<endproperty>
+
+!
+!For more information about MOHID please visit MOHID's forum: http://www.mohid.com/forum/
+!Copyright (C) 2013. Action Modulers. http://www.actionmodulers.com
+!
