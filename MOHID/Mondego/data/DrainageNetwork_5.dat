@@ -1,0 +1,28 @@
+CONTINUOUS                 : 1
+INITIAL_WATER_DEPTH       : 0
+
+NETWORK_FILE              : ..\GeneralData\DigitalTerrain\DrainageNetwork.dnt
+GLOBAL_MANNING            : 0.025
+MIN_WATER_DEPTH           : 0.0001
+DISCHARGES                : 0
+HYDRODYNAMIC_APROX        : 3
+ALLOW_BACKWATER           : 1
+
+!0 - Dam. 1 - ZeroDepthGradient. 2 - CriticalDepth. 3 - ImposedWaterLevel. 4 - ImposedVelocity
+DOWNSTREAM_BOUNDARY       : 2 !3 !está diferente do que usamos normalmente  
+DEFAULT_VALUE             : -10 !0
+
+MINIMUM_SLOPE             : 0.0001
+!CORRECT_BANKS             : 0 !1 !Não sei o que isso faz no modelo, nunca usei
+!CORRECT_BANKS o default é a true, então ta certo ligado a 1
+
+!Stability Options
+STABILIZE                 : 1
+STABILIZE_FACTOR          : 0.05
+STABILIZE_MIN_FACTOR      : 0.01 !minimum fraction of node maximum volume to start applying stability criteria (if STABILIZE : 1)
+LIMIT_DT_COURANT          : 1
+MAX_COURANT               : 0.25
+
+TIME_SERIE_BY_NODES       : 0
+OUTPUT_TIME               : 0 3600
+WRITTEN_BY_PROPERTY_GRID  : 0
