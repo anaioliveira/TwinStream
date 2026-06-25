@@ -1,0 +1,408 @@
+!Time Series Locations for D:\OneDrive - Universidade de Lisboa\Debora\Projetos\TwinStream_ModelosHidrologicos\Modelos\Minho_0.02\GeneralData\DigitalTerrain\DrainageNetwork.dnt
+DT_OUTPUT_TIME            : 900
+MAX_BUFFER_SIZE           : 10000
+
+<BeginNodeTimeSerie>		
+NODE_ID	:	36
+NAME	:	ACUDE PONTE COIMBRA
+COORD_X	:	-8.58
+COORD_Y	:	41.9
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	45
+NAME	:	PONTE RIBEIRA PERNES
+COORD_X	:	-8.58
+COORD_Y	:	41.9
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	72
+NAME	:	PONTE SANTA CLARA DAO
+COORD_X	:	-7.96
+COORD_Y	:	42.08
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	96
+NAME	:	PONTE SAO DOMINGOS
+COORD_X	:	-8.58
+COORD_Y	:	41.9
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	103
+NAME	:	PONTE VALE JOANA
+COORD_X	:	-8.58
+COORD_Y	:	41.9
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	104
+NAME	:	PONTE VALE MAIOR
+COORD_X	:	-8.58
+COORD_Y	:	41.9
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	106
+NAME	:	PONTE AGUEDA
+COORD_X	:	-8.58
+COORD_Y	:	41.9
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	120
+NAME	:	PONTILHAO DE CELEIROS
+COORD_X	:	-8.48
+COORD_Y	:	41.98
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	129
+NAME	:	QUINTA CASTELO BORGES
+COORD_X	:	-7.34
+COORD_Y	:	42.08
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	130
+NAME	:	SARZEDINHO
+COORD_X	:	-7.34
+COORD_Y	:	42.08
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	153
+NAME	:	TRAMAGAL
+COORD_X	:	-8.58
+COORD_Y	:	41.9
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	184
+NAME	:	VALE MENDIZ
+COORD_X	:	-7.34
+COORD_Y	:	42.08
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	204
+NAME	:	VASCAO
+COORD_X	:	-8.58
+COORD_Y	:	41.9
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	226
+NAME	:	VIDIGAL
+COORD_X	:	-8.58
+COORD_Y	:	41.9
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	227
+NAME	:	VILA NOVA DE MONSARROS
+COORD_X	:	-8.58
+COORD_Y	:	41.9
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	240
+NAME	:	VILLAFRANCA DEL BIERZO
+COORD_X	:	-6.5
+COORD_Y	:	42.36
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	241
+NAME	:	PUENTE QUIROGA
+COORD_X	:	-7.16
+COORD_Y	:	42.26
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	242
+NAME	:	PACIOS DE VEIGA
+COORD_X	:	-7.24
+COORD_Y	:	42.38
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	281
+NAME	:	REGUNTILLE
+COORD_X	:	-7.26
+COORD_Y	:	43.08
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	649
+NAME	:	CELA (MARGEN DERECHA)
+COORD_X	:	-7.34
+COORD_Y	:	43.1
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	670
+NAME	:	RABADE
+COORD_X	:	-7.4
+COORD_Y	:	43.06
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	748
+NAME	:	BEGONTE
+COORD_X	:	-7.4
+COORD_Y	:	43.06
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	772
+NAME	:	GONDAY
+COORD_X	:	-7.4
+COORD_Y	:	43.04
+<EndNodeTimeSerie>		
+
+<BeginNodeTimeSerie>		
+NODE_ID	:	790
+NAME	:	LUGO
+COORD_X	:	-7.36
+COORD_Y	:	43.02
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	796
+NAME	:	PARAMO. EL
+COORD_X	:	-7.32
+COORD_Y	:	42.54
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	797
+NAME	:	SARRIA
+COORD_X	:	-7.24
+COORD_Y	:	42.46
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	809
+NAME	:	PUEBLA DE SAN JULIAN
+COORD_X	:	-7.26
+COORD_Y	:	42.54
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	813
+NAME	:	PEARES. LOS
+COORD_X	:	-7.4
+COORD_Y	:	42.26
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	828
+NAME	:	ORENSE
+COORD_X	:	-7.54
+COORD_Y	:	42.22
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	829
+NAME	:	ARENTEIRO
+COORD_X	:	-8.06
+COORD_Y	:	42.24
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	836
+NAME	:	LEIRO
+COORD_X	:	-8.06
+COORD_Y	:	42.22
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	857
+NAME	:	RIBADAVIA
+COORD_X	:	-8.1
+COORD_Y	:	42.14
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	873
+NAME	:	P. FILGUEIRA
+COORD_X	:	-8.1
+COORD_Y	:	42.12
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	877
+NAME	:	SALVATIERRA DE MINO
+COORD_X	:	-8.3
+COORD_Y	:	42.04
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	895
+NAME	:	ARNOYA
+COORD_X	:	-8.1
+COORD_Y	:	42.14
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	896
+NAME	:	BOEZA
+COORD_X	:	-6.34
+COORD_Y	:	42.52
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	909
+NAME	:	CAMPONARAYA
+COORD_X	:	-6.44
+COORD_Y	:	42.32
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	927
+NAME	:	CACABELOS
+COORD_X	:	-6.44
+COORD_Y	:	42.32
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	941
+NAME	:	BARCENA DE LA ABADIA
+COORD_X	:	-6.4
+COORD_Y	:	42.48
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	957
+NAME	:	FABERO
+COORD_X	:	-6.4
+COORD_Y	:	42.48
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	964
+NAME	:	REQUEJO
+COORD_X	:	-6.5
+COORD_Y	:	42.3
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	973
+NAME	:	OENCIA
+COORD_X	:	-6.58
+COORD_Y	:	42.34
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	979
+NAME	:	PUENTE DE DOMINGO FLOREZ
+COORD_X	:	-6.5
+COORD_Y	:	42.3
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	981
+NAME	:	BARCO DE VALDEORRAS
+COORD_X	:	-6.58
+COORD_Y	:	42.24
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	1015
+NAME	:	BAO (LAS ERMITAS)
+COORD_X	:	-7.08
+COORD_Y	:	42.18
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	1016
+NAME	:	PEDRAZAS. LAS (GUISTOLAS)
+COORD_X	:	-7.16
+COORD_Y	:	42.18
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	1018
+NAME	:	MONTEFURADO
+COORD_X	:	-7.14
+COORD_Y	:	42.22
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	1041
+NAME	:	SEQUEIROS
+COORD_X	:	-7.14
+COORD_Y	:	42.28
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	1043
+NAME	:	PARADA
+COORD_X	:	-7.2
+COORD_Y	:	42.28
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	1053
+NAME	:	PONTE. LA
+COORD_X	:	-7.2
+COORD_Y	:	42.3
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	1054
+NAME	:	INCIO (PUENTE DE PENA)
+COORD_X	:	-7.2
+COORD_Y	:	42.38
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	1082
+NAME	:	RIVAS ALTAS
+COORD_X	:	-7.3
+COORD_Y	:	42.34
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	1086
+NAME	:	SAN ESTEBAN
+COORD_X	:	-7.38
+COORD_Y	:	42.24
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	1087
+NAME	:	SAN PEDRO
+COORD_X	:	-7.42
+COORD_Y	:	42.24
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	1114
+NAME	:	PUENTEAREAS (NIVEL)
+COORD_X	:	-8.3
+COORD_Y	:	42.1
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	1364
+NAME	:	REGUEIRO
+COORD_X	:	-8.14
+COORD_Y	:	42.1
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	1366
+NAME	:	REDEMUINOS
+COORD_X	:	-7.3
+COORD_Y	:	43.16
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	1379
+NAME	:	BOUZA DO VISO
+COORD_X	:	-8.3
+COORD_Y	:	42.04
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	1416
+NAME	:	GUNTIN
+COORD_X	:	-7.44
+COORD_Y	:	42.54
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	1417
+NAME	:	TUY
+COORD_X	:	-8.38
+COORD_Y	:	42.02
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	1418
+NAME	:	PEROJA. LA
+COORD_X	:	-7.42
+COORD_Y	:	42.24
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	1428
+NAME	:	PUENTE FREIJO
+COORD_X	:	-7.56
+COORD_Y	:	42.16
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	1429
+NAME	:	BANOS DE MOLGAS
+COORD_X	:	-7.42
+COORD_Y	:	42.18
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	1437
+NAME	:	GINZO DE LIMIA
+COORD_X	:	-7.36
+COORD_Y	:	42.1
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	1444
+NAME	:	NEIRA DE REY
+COORD_X	:	-7.1
+COORD_Y	:	42.56
+<EndNodeTimeSerie>			
+<BeginNodeTimeSerie>		
+NODE_ID	:	1492
+NAME	:	LOVIOS (BUSCALQUE)
+COORD_X	:	-8.32
+COORD_Y	:	41.98
+<EndNodeTimeSerie>		
+<BeginNodeTimeSerie>		
+NODE_ID	:	1520
+NAME	:	PALACIOS
+COORD_X	:	-6.28
+COORD_Y	:	42.58
+<EndNodeTimeSerie>		
+	

@@ -1,0 +1,8 @@
+START                     : 2026 04 30 00 00 00
+END                       : 2026 05 01 00 00 00
+VARIABLEDT                : 1
+DT                        : 10
+MAXDT                     : 3600
+GMTREFERENCE              : 0
+OPENMP_NUM_THREADS        : 8
+SYNC_DT                   : 1

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NamedGeometryCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NamedGeometries>
+    <NamedGeometry>
+      <ID>0</ID>
+      <Name>55_99_1</Name>
+      <GeometryWKT>POINT (-7.14 42.5)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>1</ID>
+      <Name>67_81_1</Name>
+      <GeometryWKT>POINT (-7.4999999999999991 42.739999999999995)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>2</ID>
+      <Name>33_125_1</Name>
+      <GeometryWKT>POINT (-6.6199999999999992 42.059999999999995)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>3</ID>
+      <Name>7_86_1</Name>
+      <GeometryWKT>POINT (-7.3999999999999995 41.539999999999992)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>4</ID>
+      <Name>60_124_1</Name>
+      <GeometryWKT>POINT (-6.64 42.599999999999994)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>5</ID>
+      <Name>75_124_1</Name>
+      <GeometryWKT>POINT (-6.64 42.899999999999991)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+  </NamedGeometries>
+</NamedGeometryCollection>

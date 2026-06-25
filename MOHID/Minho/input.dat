@@ -1,0 +1,28 @@
+#TIME KEYWORDS
+BEGIN_DATE : 2026 03 01 00 00 00
+END_DATE : 2026 05 01 00 00 00
+
+TIME_STEP : 1 #(1 - 1 DAY, 2 - 1 MONTH)
+
+CONTINUOUS : 1
+
+GLUE_METEO_FILES : 1
+
+#METEO FILES INFORMATION
+METEO_FOLDER : D:\TwinStreams\Atmosphere\Minho\
+
+PATH_TO_BOUNDARY_CONDITIONS_FOLDER : D:\TwinStreams\Minho\GeneralData\BoundaryConditions\
+METEO_FILENAME_TO_BOUNDARY_CONDITIONS : meteo
+
+#MOHID INFORMATION
+MOHID_DATA_FOLDER : D:\TwinStreams\Minho/data/
+MOHID_EXE_FOLDER : D:\TwinStreams\Minho/exe/
+MOHID_RES_FOLDER : D:\TwinStreams\Minho/res/
+CONVERT_TO_HDF5_FOLDER : D:\TwinStreams\Minho/GeneralData/BoundaryConditions/ConvertToHDF5/
+
+SIMULATION_NUMBER : 1
+
+#BACKUP FOLDERS
+HDF_BACKUP_FOLDER : D:\TwinStreams\Minho/Results/HDF/
+TIMESERIES_BACKUP_FOLDER : D:\TwinStreams\Minho/Results/Timeseries/
+RESTART_BACKUP_FOLDER : D:\TwinStreams\Minho/Results/Restart/

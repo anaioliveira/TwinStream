@@ -1,0 +1,12 @@
+ IN_MODEL                  Unknown Client            Do not have               From File                 ConvertToHDF5Action.dat                                      YES
+ OUTWATCH                  ConvertToHDF5             Do not have               From File                 ************                                                 YES
+ ACTION                    ConvertToHDF5             Do not have               From Block                GLUES HDF5 FILES                                             YES
+ OUTPUTFILENAME            ModuleGlueHDF5Files       Do not have               From Block                d:\onedrive - universidade de lisboa\debora\projetos\twinstr YES
+ 3D_FILE                   ModuleGlueHDF5Files       FALSE                     From Block                FALSE                                                        YES
+ 3D_VERT                   ModuleGlueHDF5Files       FALSE                     From Block                FALSE                                                        YES
+ 3D_OPEN                   ModuleGlueHDF5Files       FALSE                     From Block                FALSE                                                        YES
+ BASE_GROUP                ModuleGlueHDF5Files       Results                   From Block                Results                                                      YES
+ TIME_GROUP                ModuleGlueHDF5Files       Time                      From Block                Time                                                         YES
+ GLUE_IN_TIME              ModuleGlueHDF5Files       TRUE                      From Block                TRUE                                                         YES
+ BEST_TIME_SERIE           ModuleGlueHDF5Files       FALSE                     From Block                FALSE                                                        YES
+ CHECK_HDF5_FILE           ModuleGlueHDF5Files       TRUE                      From Block                TRUE                                                         YES

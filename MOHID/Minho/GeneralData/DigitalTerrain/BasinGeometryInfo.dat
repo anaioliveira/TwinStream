@@ -1,0 +1,9 @@
+TOPOGRAPHIC_FILE          : D:\OneDrive - Universidade de Lisboa\Debora\Projetos\TwinStream_ModelosHidrologicos\Minho_0.02\GeneralData\DigitalTerrain\dtm_mn_0.02_ND2_carved_ND2_fix_ND.dat
+TRESHOLD_AREA             : 10000000
+DELINEATE_BASIN           : 1
+OUTLET_I                  : 29
+OUTLET_J                  : 21
+WRITE_DELINEATION         : 1
+DELINEATION_FILE          : D:\OneDrive - Universidade de Lisboa\Debora\Projetos\TwinStream_ModelosHidrologicos\Minho_0.02\GeneralData\DigitalTerrain\Delineation.xy
+WRITE_REACHES             : 1
+REACHES_FILE              : D:\OneDrive - Universidade de Lisboa\Debora\Projetos\TwinStream_ModelosHidrologicos\Minho_0.02\GeneralData\DigitalTerrain\Drainage Network.dnt
