@@ -1,0 +1,25 @@
+!OpenFlows FLOODSample Data File
+!This file contains the most common options.
+!MODULE: Basin Geometry
+!Please complete and comment/uncomment for your specific needs
+!
+!
+!
+WRITTEN_BY_PROPERTY_GRID   : 1
+!Compute Options 2D only (Module Runoff)
+!FLAT_SOLUTION             : 1              !Must be turned on to avoid depression removal
+!DELINEATE_BASIN           : 0              !connect/disconnect delineation (only watershed points will be active)
+!TRESHOLD_AREA             : 1000000        !minimum area to define first reach
+
+
+!Compute Options - 1D / 2D (Module Runoff / Module Drainage network)
+!If a couples 1D/2D simulation is to be made, values found in this file must be consistent with values used during watershed delineation
+TRESHOLD_AREA             : 100        !minimum area to define first reach
+DELINEATE_BASIN           : 1              !connect/disconnect delineation (only watershed points will be active)
+OUTLET_I                  : 104             !location of the outlet for delineation
+OUTLET_J                  : 13             !location of the outlet for delineation
+
+WRITTEN_BY_PROPERTY_GRID  : 1
+!
+!Copyright (C) 4/8/2026 12:00:00 AM. Bentley Systems, http://www.bentley.com/water
+!

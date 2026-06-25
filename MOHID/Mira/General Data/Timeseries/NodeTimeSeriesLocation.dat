@@ -1,0 +1,21 @@
+!Time Series Locations for C:\Users\Lucia\Desktop\MiraBasin\General Data\Digital Terrain\Drainage Network.dnt
+DT_OUTPUT_TIME            : 3600
+MAX_BUFFER_SIZE           : 10000
+<BeginNodeTimeSerie>
+NODE_ID                   : 2
+NAME                      : downstream
+COORD_X                   : -8.78291
+COORD_Y                   : 37.720178
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 831
+NAME                      : Middle
+COORD_X                   : -8.67791
+COORD_Y                   : 37.615178
+<EndNodeTimeSerie>
+<BeginNodeTimeSerie>
+NODE_ID                   : 3061
+NAME                      : upstream
+COORD_X                   : -8.51291
+COORD_Y                   : 37.505178
+<EndNodeTimeSerie>

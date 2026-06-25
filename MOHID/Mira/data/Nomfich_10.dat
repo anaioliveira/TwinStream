@@ -1,0 +1,24 @@
+IN_BASIN                  : ..\General Data\Digital Terrain\MiraBasinDTM_ND_ND.dat
+ROOT                      : ..\res
+ROOT_SRT                  : ..\res\Run10\
+SURF_DAT                  : ..\data\Atmosphere_10.dat
+SURF_HDF                  : ..\res\Atmosphere_10.hdf
+BASIN_DATA                : ..\data\Basin_10.dat
+BASIN_HDF                 : ..\res\Basin_10.hdf
+BASIN_FIN                 : ..\res\Basin_10.fin
+BASIN_GEOMETRY            : ..\data\Basin Geometry_10.dat
+IN_MODEL                  : ..\data\Model_10.dat
+RUNOFF_DATA               : ..\data\RunOff_10.dat
+RUNOFF_HDF                : ..\res\RunOff_10.hdf
+RUNOFF_FIN                : ..\res\RunOff_10.fin
+DRAINAGE_NETWORK          : ..\data\Drainage Network_10.dat
+DRAINAGE_NETWORK_HDF      : ..\res\Drainage Network_10.hdf
+DRAINAGE_NETWORK_FIN      : ..\res\Drainage Network_10.fin
+DOMAIN                    : ..\data\Geometry_10.dat
+POROUS_DATA               : ..\data\Porous Media_10.dat
+POROUS_HDF                : ..\res\Porous Media_10.hdf
+POROUS_FIN                : ..\res\Porous Media_10.fin
+VEGETATION_DATA           : ..\data\Vegetation_10.dat
+VEGETATION_HDF            : ..\res\Vegetation_10.hdf
+VEGETATION_FIN            : ..\res\Vegetation_10.fin
+BASIN_EVTPHDF             : ..\res\EVTP_1.hdf

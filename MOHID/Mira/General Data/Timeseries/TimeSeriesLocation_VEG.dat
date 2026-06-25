@@ -1,0 +1,25 @@
+!Time Series Locations for C:\Users\Lucia\Desktop\MiraBasin\General Data\Vegetation\VegetationIDs.dat
+DT_OUTPUT_TIME            : 86400
+MAX_BUFFER_SIZE           : 10000
+
+
+<BeginTimeSerie>
+NAME                      : RangeBrus
+COORD_X                   : -8.40291
+COORD_Y                   : 37.535178
+LOCALIZATION_K            : 1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME                      : Agr
+COORD_X                   : -8.43291
+COORD_Y                   : 37.545178
+LOCALIZATION_K            : 1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME                      : ForestDe
+COORD_X                   : -8.47291
+COORD_Y                   : 37.610178
+LOCALIZATION_K            : 1
+<EndTimeSerie>

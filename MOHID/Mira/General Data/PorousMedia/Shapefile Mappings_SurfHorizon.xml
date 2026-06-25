@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfShapeFileMapping xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ShapeFileMapping>
+    <ShapeFileFeature>342211</ShapeFileFeature>
+    <Value>1</Value>
+  </ShapeFileMapping>
+  <ShapeFileMapping>
+    <ShapeFileFeature>342212</ShapeFileFeature>
+    <Value>2</Value>
+  </ShapeFileMapping>
+  <ShapeFileMapping>
+    <ShapeFileFeature>3510405</ShapeFileFeature>
+    <Value>3</Value>
+  </ShapeFileMapping>
+  <ShapeFileMapping>
+    <ShapeFileFeature>3510402</ShapeFileFeature>
+    <Value>8</Value>
+  </ShapeFileMapping>
+  <ShapeFileMapping>
+    <ShapeFileFeature>3510404</ShapeFileFeature>
+    <Value>4</Value>
+  </ShapeFileMapping>
+  <ShapeFileMapping>
+    <ShapeFileFeature>3510401</ShapeFileFeature>
+    <Value>5</Value>
+  </ShapeFileMapping>
+  <ShapeFileMapping>
+    <ShapeFileFeature>3510393</ShapeFileFeature>
+    <Value>6</Value>
+  </ShapeFileMapping>
+  <ShapeFileMapping>
+    <ShapeFileFeature>3510396</ShapeFileFeature>
+    <Value>7</Value>
+  </ShapeFileMapping>
+</ArrayOfShapeFileMapping>

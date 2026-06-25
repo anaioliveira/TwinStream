@@ -1,0 +1,11 @@
+!Global Options
+MINIMUMDEPTH              : 0.05
+FACESOPTION               : 2
+
+!Cartesian Top - MOHID Land
+<begindomain>
+ID                        : 1
+TYPE                      : CARTESIANTOP
+LAYERS                    : 10
+LAYERTHICKNESS            : 3.0 2.3 1.8 1.2 0.8 0.4 0.2 0.1 0.1 0.1
+<enddomain>

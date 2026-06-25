@@ -1,0 +1,94 @@
+!Output Options
+OUTPUT_TIME               :0 3600
+!TIME_SERIE_LOCATION       : ../GeneralData/Timeseries/TimeSeriesLocation.dat
+
+<beginproperty>
+NAME                      : precipitation
+UNITS                     : mm
+DESCRIPTION               : precipitation
+FILE_IN_TIME              : HDF
+FILENAME: ..\General Data\Boundary Conditions\20142017.hdf5
+!ASCII_MASK_FILENAME       : 
+!DATA_PROCESSING           : 2  !1 is Interpolate. 2 is Accumulate. 3 is No Processing (use original value)
+DEFAULTVALUE              : 0.0
+TIME_SERIE                : 0
+OUTPUT_HDF                : 1  !m3/s resultados
+ACCUMULATE_VALUES         : 1
+
+
+<endproperty>
+
+<beginproperty>
+NAME                      : wind velocity
+UNITS                     : m/s
+DESCRIPTION               : wind velocity
+FILE_IN_TIME              : HDF
+FILENAME_X:..\General Data\Boundary Conditions\20142017.hdf5    ! the follwiing were added by me
+FILENAME_Y:..\General Data\Boundary Conditions\20142017.hdf5
+HDF_FIELD_NAME_X        : wind velocity X
+HDF_FIELD_NAME_Y        : wind velocity Y
+DEFAULTVALUE              : 0.0 0.0
+REMAIN_CONSTANT           : 0   ! I've changed from zero to 1
+TIME_SERIE                : 0
+OUTPUT_HDF                : 1
+<endproperty>
+
+<beginproperty>
+NAME                      : wind modulus
+UNITS                     : m/s
+DESCRIPTION               : wind modulus
+DEFAULTVALUE              : 0.0
+REMAIN_CONSTANT           : 0
+TIME_SERIE                : 0
+OUTPUT_HDF                : 1
+<endproperty>
+
+<beginproperty>
+NAME                      : solar radiation
+UNITS                     : W/m2
+DESCRIPTION               : Climatologic Solar Radiation
+DEFAULTVALUE              : 0.0
+FILE_IN_TIME              : HDF
+FILENAME                  : ..\General Data\Boundary Conditions\20142017.hdf5
+!DATA_COLUMN              : 
+REMAIN_CONSTANT           : 0
+TIME_SERIE                : 0
+OUTPUT_HDF                : 1
+<endproperty>
+
+<beginproperty>
+NAME                      : air temperature
+UNITS                     : C
+DESCRIPTION               : air temperature
+DEFAULTVALUE              : 0.0
+FILE_IN_TIME              : HDF
+FILENAME                  : ..\General Data\Boundary Conditions\20142017.hdf5
+!DATA_COLUMN               : 
+REMAIN_CONSTANT           : 0
+TIME_SERIE                : 0
+OUTPUT_HDF                : 1
+<endproperty>
+
+<beginproperty>
+NAME                      : relative humidity
+UNITS                     : fraction
+DESCRIPTION               : relative humidity
+DEFAULTVALUE              : 0.0
+FILE_IN_TIME              : HDF
+FILENAME                  : ..\General Data\Boundary Conditions\20142017.hdf5
+!DATA_COLUMN               : 
+REMAIN_CONSTANT           : 0
+TIME_SERIE                : 0
+OUTPUT_HDF                : 1
+<endproperty>
+
+<beginproperty>
+NAME                      : cloud cover
+UNITS                     : fraction
+DESCRIPTION               : cloud cover from solar radiation
+DEFAULTVALUE              : 0.0
+CLOUD_COVER_METHOD        : 3
+REMAIN_CONSTANT           : 0
+TIME_SERIE                : 0
+OUTPUT_HDF                : 1
+<endproperty>

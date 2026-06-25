@@ -1,0 +1,39 @@
+!Time Series Locations for C:\Users\Lucia\Desktop\MiraBasin\General Data\PorousMedia\SurHorizonID.dat
+DT_OUTPUT_TIME            : 3600
+MAX_BUFFER_SIZE           : 10000
+
+
+<BeginTimeSerie>
+NAME                      : Soil1
+COORD_X                   : -8.33791
+COORD_Y                   : 37.540178
+LOCALIZATION_K            : 1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME                      : Soil2
+COORD_X                   : -8.68291
+COORD_Y                   : 37.705178
+LOCALIZATION_K            : 1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME                      : Soil4
+COORD_X                   : -8.72291
+COORD_Y                   : 37.575178
+LOCALIZATION_K            : 1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME                      : Soil7
+COORD_X                   : -8.54291
+COORD_Y                   : 37.415178
+LOCALIZATION_K            : 1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME                      : Soil6
+COORD_X                   : -8.13791
+COORD_Y                   : 37.515178
+LOCALIZATION_K            : 1
+<EndTimeSerie>

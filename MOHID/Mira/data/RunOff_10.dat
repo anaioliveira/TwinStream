@@ -1,0 +1,47 @@
+!Start / Continuous Computation
+CONTINUOUS                : 0
+
+!Compute Options
+HYDRODYNAMIC_APROX        : 2
+ADJUST_SLOPE              : 1
+MIN_WATER_COLUMN          : 0.001
+
+!Stability Options
+STABILIZE                 : 1
+STABILIZE_FACTOR          : 0.1
+MIN_ITERATIONS            : 4
+MAX_ITERATIONS            : 100000
+LIMIT_DT_COURANT          : 1
+MAX_COURANT               : 0.5
+
+DT_FACTOR                 : 1.5
+DT_SPLIT_FACTOR           : 1.25
+
+SIMPLE_CHANNEL_FLOW       : 1
+ROUTE_D4                  : 1
+ROUTE_D4_ON_DN            : 1
+
+!Manning resistance
+<BeginOverLandCoefficient>
+FILE_IN_TIME              : NONE
+REMAIN_CONSTANT           : 1
+DEFAULTVALUE              : 0.035
+INITIALIZATION_METHOD     : ASCII_FILE
+FILENAME                  : ..\General Data\RunOff\Manning.dat
+<EndOverLandCoefficient>
+
+!Initial water column
+<BeginInitialWaterColumn>
+FILE_IN_TIME              : NONE
+INITIALIZATION_METHOD     : CONSTANT
+REMAIN_CONSTANT           : 0
+DEFAULTVALUE              : 0.0
+<EndInitialWaterColumn>
+
+!Output Options
+OUTPUT_TIME               : 0 3600
+
+INFILTRATION         : 1
+DEFAULTVALUE         : 0.0
+REMOVE_SINKS : 1
+DRAINAGE_NETWORK : 1

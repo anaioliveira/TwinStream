@@ -1,0 +1,26 @@
+!Start / Continuous Computation
+CONTINUOUS                : 0
+
+NETWORK_FILE              : ..\General Data\Digital Terrain\Drainage Network.dnt
+GLOBAL_MANNING            : 0.050
+INITIAL_WATER_DEPTH       : 0.15
+
+!Compute Options
+HYDRODYNAMIC_APROX        : 1
+MINIMUM_SLOPE             : 0.01
+MIN_WATER_DEPTH           : 0.001
+ALLOW_BACKWATER           : 1
+DOWNSTREAM_BOUNDARY       : 2
+DEFAULT_VALUE             : -10.
+
+!Stability Options
+STABILIZE                 : 1
+STABILIZE_FACTOR          : 0.10
+STABILIZE_MIN_FACTOR      : 0.05
+LIMIT_DT_COURANT          : 1
+MAX_COURANT               : 0.5
+
+!Output Options
+TIME_SERIE_LOCATION       : ..\General Data\Timeseries\NodeTimeSeriesLocation.dat
+OUTPUT_TIME               : 0 3600
+TIME_SERIE_BY_NODES       : 1

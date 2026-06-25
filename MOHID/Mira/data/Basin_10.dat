@@ -1,0 +1,78 @@
+!OpenFlows FLOODSample Data File
+!This file contains the most common options.
+!MODULE: Basin
+!Please complete and comment/uncomment for your specific needs
+!
+!
+!
+WRITTEN_BY_PROPERTY_GRID   : 1
+!Compute Options. Modules active
+ATMOSPHERE                : 1
+EVAPOTRANSPIRATION        : 1
+EVAPOTRANSPIRATION_METHOD : 2
+EVAP_METHOD               : 2
+EVAP_FROM_WATER_COLUMN    : 1 !active
+EVAP_FROM_CANOPY          : 1 !active
+POROUS_MEDIA              : 1
+RUN_OFF                   : 1
+SCSCN_RUNOFF_MODEL        : 0
+DRAINAGE_NET              : 1
+VEGETATION                : 1
+POROUS_MEDIA_PROPERTIES   : 0
+RUN_OFF_PROPERTIES        : 0
+
+
+!initial DT when raining
+DT_DURING_RAIN            : 300 !1
+
+!Start / Continuous Computation
+CONTINUOUS                : 0
+
+!Output Options
+!OUTPUT_TIME               : 0 3600
+!TIME_SERIE_LOCATION       : ..\General Data\TimeSeriesLocation.dat
+
+! added to have evapotranspiration results
+EVTP_OUTPUT_TIME          : 0 3600
+
+<BeginCurveNumber>
+NAME                      : Curve Number
+UNITS                     : -
+!example if the curve number was to be defined by a grid data (commented (!) - not active option)
+!INITIALIZATION_METHOD     : ASCII_FILE
+!FILENAME                  : ..\General Data\Digital Terrain\CurveNumber_v3.dat
+DESCRIPTION               : Curve Number
+DEFAULTVALUE              : 70
+REMAIN_CONSTANT           : 1
+<EndCurveNumber>
+
+!Evapotranspiration property block
+<beginproperty>
+NAME                      : reference evapotranspiration
+UNITS                     : mm/h
+DESCRIPTION               : fao evapotranspiration
+DEFAULTVALUE              : 0.0
+REMAIN_CONSTANT           : 0
+<endproperty>
+  
+
+<BeginVegGrowthStage>
+NAME                      : VegGrowthStage
+UNITS                     : -
+DESCRIPTION               : state of the vegetation
+DEFAULTVALUE              : 0 !2
+REMAIN_CONSTANT           : 1
+<EndVegGrowthStage>
+
+<BeginImpFrac>
+NAME                      : Imp. Fraction
+UNITS                     : -
+DESCRIPTION               : Impermeable Fraction of the Terrain
+DEFAULTVALUE              : 0.0
+REMAIN_CONSTANT           : 1
+<EndImpFrac>
+
+WRITTEN_BY_PROPERTY_GRID  : 1
+!
+!Copyright (C) 4/2/2026 12:00:00 AM. Bentley Systems, http://www.bentley.com/water
+!

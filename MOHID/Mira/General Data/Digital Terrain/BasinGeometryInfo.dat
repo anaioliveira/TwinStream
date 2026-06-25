@@ -1,0 +1,9 @@
+TOPOGRAPHIC_FILE          : C:\Users\Lucia\Desktop\MiraBasin\General Data\Digital Terrain\MiraBasinDTM_ND_ND.dat
+TRESHOLD_AREA             : 100
+DELINEATE_BASIN           : 1
+OUTLET_I                  : 104
+OUTLET_J                  : 13
+WRITE_DELINEATION         : 1
+DELINEATION_FILE          : C:\Users\Lucia\Desktop\MiraBasin\General Data\Digital Terrain\Delineation.xy
+WRITE_REACHES             : 1
+REACHES_FILE              : C:\Users\Lucia\Desktop\MiraBasin\General Data\Digital Terrain\Drainage Network.dnt
