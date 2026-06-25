@@ -1,0 +1,6 @@
+DELINEATE_BASIN           : 1
+TRESHOLD_AREA             : 10000000
+SET_RIVER_POINTS_FROM_DN  : 0
+OUTLET_I                  : 22
+OUTLET_J                  : 8
+WRITTEN_BY_PROPERTY_GRID  : 0

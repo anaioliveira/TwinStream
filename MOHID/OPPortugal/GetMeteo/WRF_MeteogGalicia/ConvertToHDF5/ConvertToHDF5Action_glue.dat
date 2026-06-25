@@ -1,0 +1,9 @@
+<begin_file>
+ACTION                    : GLUES HDF5 FILES
+
+OUTPUTFILENAME            : output_file
+
+<<begin_list>>
+files_to_glue
+<<end_list>>
+<end_file>

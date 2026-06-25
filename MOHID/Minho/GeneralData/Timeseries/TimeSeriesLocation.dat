@@ -1,0 +1,46 @@
+!Time Series Locations for D:\OneDrive - Universidade de Lisboa\Debora\Projetos\TwinStream_ModelosHidrologicos\Modelos\Minho_0.02\GeneralData\Vegetation\lc_mn_fin_fill.dat
+DT_OUTPUT_TIME            : 900
+MAX_BUFFER_SIZE           : 10000
+
+
+<BeginTimeSerie>
+NAME                      : 55_99_1
+COORD_X                   : -7.14
+COORD_Y                   : 42.5
+LOCALIZATION_K            : 1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME                      : 67_81_1
+COORD_X                   : -7.5
+COORD_Y                   : 42.74
+LOCALIZATION_K            : 1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME                      : 33_125_1
+COORD_X                   : -6.62
+COORD_Y                   : 42.06
+LOCALIZATION_K            : 1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME                      : 7_86_1
+COORD_X                   : -7.4
+COORD_Y                   : 41.54
+LOCALIZATION_K            : 1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME                      : 60_124_1
+COORD_X                   : -6.64
+COORD_Y                   : 42.6
+LOCALIZATION_K            : 1
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME                      : 75_124_1
+COORD_X                   : -6.64
+COORD_Y                   : 42.9
+LOCALIZATION_K            : 1
+<EndTimeSerie>
