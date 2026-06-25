@@ -1,0 +1,31 @@
+NUMBER_OF_METEO_SOLUTIONS : 2
+
+# METEO FILES FOR MOHID
+PATH_TO_BOUNDARY_CONDITIONS : ..\OPPortugal\MOHID\GeneralData\BoundaryConditions\
+METEO_FILENAME_TO_MOHID : meteo
+
+::begin_meteo1
+GLUE : 0
+INTERPOLATE : 1
+WORKING_DIRECTORY : ..\OPPortugal\GetMeteo\WRF_MeteogGalicia\
+
+# METEO FILES INFORMATION
+ORIGIN_METEO_FOLDER : ..\Meteo\WRF_MeteoGalicia\d01\hdf\
+FILE_PREFIX : 
+FATHER_GRID : ..\OPPortugal\GetMeteo\Grids\Batim_MeteoGalicia.dat
+# CONVERT TOOL
+CONVERT_PATH : ..\OPPortugal\GetMeteo\WRF_MeteogGalicia\ConvertToHDF5\
+::end_meteo1
+
+::begin_meteo2
+GLUE : 0
+INTERPOLATE : 1
+WORKING_DIRECTORY : ..\OPPortugal\GetMeteo\AROME\
+
+# METEO FILES INFORMATION
+ORIGIN_METEO_FOLDER : ..\Meteo\AROME_IPMA\hdf\
+FILE_PREFIX : 
+FATHER_GRID : ..\OPPortugal\GetMeteo\Grids\Batim_AROME.dat
+# CONVERT TOOL
+CONVERT_PATH : ..\OPPortugal\GetMeteo\AROME\ConvertToHDF5\
+::end_meteo2
