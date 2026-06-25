@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NamedGeometryCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NamedGeometries>
+    <NamedGeometry>
+      <ID>0</ID>
+      <Name>263_138_1</Name>
+      <GeometryWKT>POINT (-6.8599999999999994 42.12)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>1</ID>
+      <Name>283_116_1</Name>
+      <GeometryWKT>POINT (-7.2999999999999989 42.519999999999996)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>2</ID>
+      <Name>243_108_1</Name>
+      <GeometryWKT>POINT (-7.4599999999999991 41.72)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>3</ID>
+      <Name>233_114_1</Name>
+      <GeometryWKT>POINT (-7.339999999999999 41.519999999999996)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+    <NamedGeometry>
+      <ID>4</ID>
+      <Name>167_51_1</Name>
+      <GeometryWKT>POINT (-8.6 40.199999999999996)</GeometryWKT>
+      <IsSelected>false</IsSelected>
+    </NamedGeometry>
+  </NamedGeometries>
+</NamedGeometryCollection>

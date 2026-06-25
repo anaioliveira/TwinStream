@@ -1,0 +1,5 @@
+TOPOGRAPHIC_FILE          : D:\OneDrive - Universidade de Lisboa\Debora\Projetos\TwinStream_ModelosHidrologicos\Modelos\Portugal_0.02\GeneralData\DigitalTerrain\dtm_pt_ND2_cd_fix_ND2.dat
+TRESHOLD_AREA             : 50000000
+DELINEATE_BASIN           : 0
+WRITE_REACHES             : 1
+REACHES_FILE              : D:\OneDrive - Universidade de Lisboa\Debora\Projetos\TwinStream_ModelosHidrologicos\Modelos\Portugal_0.02\GeneralData\DigitalTerrain\dn_50000000\Drainage Network.dnt
